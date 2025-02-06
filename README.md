@@ -1,4 +1,4 @@
-# <br><br> My Contributions To The Exoplanet Watch Project Of The National Aeronautics and Space Administration (NASA)<br><br> ~Angela N. Moore <br><br>
+# <br> My Contributions To The Exoplanet Watch Project Of The National Aeronautics and Space Administration (NASA)<br><br> ~Angela N. Moore <br><br>
 ![Exoplanet_Watch_3](https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a)
 <br>
 <br>
