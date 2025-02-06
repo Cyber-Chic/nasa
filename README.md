@@ -1,4 +1,4 @@
-# | README | OVERVIEW | <br><br>  My Contributions to Exoplanet Watch [NASA] <br> Angela N. Moore<br>
+# | README | OVERVIEW | <br><br>  My Contributions to Exoplanet Watch (NASA Project) <br> Angela N. Moore<br>
 ![Exoplanet_Watch_3](https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a)
 <br>
 # What is Exoplanet Watch? 
@@ -16,7 +16,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 <br> ![GENERA; EXOPLANETS](https://github.com/user-attachments/assets/c28b3b28-2beb-4fcb-a94a-83e31045982e)
 <br>
 <br>
-# My Findings: <br><br> 1. NASA's Official Website
+# My Results: <br><br> 1.  National Aeronautics and Space Administration (NASA)
 - To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check back at a later date.  
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 
