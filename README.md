@@ -36,4 +36,10 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
 - I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
-<br> https://linktr.ee/angie_moore
+<br> https://linktr.ee/angie_moore <br><br>
+
+![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/58a80c41-5f66-4460-ab83-d27db42f7e68)
+
+
+
+
