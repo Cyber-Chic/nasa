@@ -25,8 +25,11 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 1. To view my light curves, reports and additional data visit the AAVSO website.  Next search for either an exoplanet I list below or for my Observers code which is: MANBA (Login required): https://apps.aavso.org/exosite <br><br>
 2. To veiw my AAVSO member profile visit here (no login required): https://www.aavso.org/users/account4537volunteer
 
-# My Portfolio & Additional Research Projects
-I also conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite research projects and data samples can be found here:
-<br>
+# My Portfolio & Additional Projects
+I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite research projects and data samples can be found here:
 https://www.zooniverse.org/users/Zooniverse-Volunteer/collections
+<br>
+<br>
+My portfolio can be viewed here: https://linktr.ee/angie_moore
+
 Below you will be able to find links to all of the exoplanets that I have analyzed 
