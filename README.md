@@ -31,14 +31,20 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 
 ![more exoplanets outer-space_new-planets_sc](https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962)
 
-  
-# About Me
+# <br> Researchers Wanted!
+- Interested in participating in NASA's Exoplanet Watch project?  If so, please visit NASA's official website!
+  https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/community/
+  <br>
+  <br>
+  ![telescope](https://github.com/user-attachments/assets/23b7ec3a-4b51-4eb1-bd3c-9ab9e314ebdd)
+
+# <br> About Me
 - In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
 - I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
 <br> https://linktr.ee/angie_moore <br><br>
 
-![bigger cat nasa IMG_2648](https://github.com/user-attachments/assets/215930ec-2cfa-4000-a800-7f82f465e507)
+![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
 
 
 
