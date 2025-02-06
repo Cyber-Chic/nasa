@@ -14,6 +14,8 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 <br>
 # Which Exoplanents Have I Analyzed?
 - ## TrES-3 b: https://science.nasa.gov/exoplanet-catalog/tres-3-b/
+  ![Angela-N -Moore_TRES-3-b_2025-02-05_certificate](https://github.com/user-attachments/assets/4bb17d6d-28e2-4bc8-b6c7-435963f3269d)
+
 - ## More to be reviewed: Check back for updates!
 <br> ![GENERA; EXOPLANETS](https://github.com/user-attachments/assets/c28b3b28-2beb-4fcb-a94a-83e31045982e)
 <br>
