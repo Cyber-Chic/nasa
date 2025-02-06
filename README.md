@@ -38,7 +38,8 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
 <br> https://linktr.ee/angie_moore <br><br>
 
-![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/58a80c41-5f66-4460-ab83-d27db42f7e68)
+![bigger cat nasa IMG_2648](https://github.com/user-attachments/assets/215930ec-2cfa-4000-a800-7f82f465e507)
+
 
 
 
