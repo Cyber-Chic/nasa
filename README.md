@@ -22,12 +22,12 @@ https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
 <br>
 <br>
 # Results: NASA's Official Website
-To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check again at a later date.  
+To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check back at a later date.  
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 <br>
 # Additional Findings: American Association of Variable Star Observers (AAVSO) 
-1. To view my light curves, reports and additional data visit the AAVSO website.  Next search for either an exoplanet I've listed above or for my Observers code which is: MANBA (Login required): https://apps.aavso.org/exosite <br><br>
-2. To view my AAVSO member profile visit here (no login required): https://www.aavso.org/users/account4537volunteer
+1. To view my light curves, reports and additional data visit the AAVSO website.  Next search for my Observers Code (MANBA): <br>https://apps.aavso.org/exosite <br><br>
+2. To view my AAVSO member profile visit here:<br> https://www.aavso.org/users/account4537volunteer
 
 # About Me
 1. I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
