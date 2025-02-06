@@ -22,7 +22,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/how-to-contribute/checklist/
 <br>
 <br>
 # Results: NASA's Official Website
-To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my American Association of Variable Star Observers code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"
+To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"
 <br>
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 <br>
