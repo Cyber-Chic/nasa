@@ -18,7 +18,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 <br> ![GENERA; EXOPLANETS](https://github.com/user-attachments/assets/c28b3b28-2beb-4fcb-a94a-83e31045982e)
 <br>
 <br>
-# My Results: <br><br> 1.  National Aeronautics and Space Administration (NASA)
+# My Results <br><br> 1.  National Aeronautics and Space Administration (NASA)
 - To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check back at a later date.  
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 
@@ -41,7 +41,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 # <br> About Me
 - In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
-- I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
+- I've also worked on projects involving art, literature, finance, math, and web development.  My portfolio can be viewed here:
 <br> https://linktr.ee/angie_moore <br><br>
 
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
