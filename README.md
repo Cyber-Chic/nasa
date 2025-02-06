@@ -3,7 +3,7 @@
 <br>
 <br>
 # What is Exoplanet Watch? 
-- A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and recieve recognition for their work in scientific publications.
+- A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and recieve recognition for their work in scientific publications. <br>
 https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 
 # How Do I Conduct My Research?
