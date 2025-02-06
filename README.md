@@ -26,12 +26,12 @@ To view my results visit NASA's Exoplanet Watch Results page.  Next click on any
 <br>
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 <br>
-# More Findings: American Association of Variable Star Observers (AAVSO) 
+# Additional Findings: American Association of Variable Star Observers (AAVSO) 
 1. To view my light curves, reports and additional data visit the AAVSO website.  Next search for either an exoplanet I've listed above or for my Observers code which is: MANBA (Login required): https://apps.aavso.org/exosite <br><br>
 2. To view my AAVSO member profile visit here (no login required): https://www.aavso.org/users/account4537volunteer
 
 # About Me
-1. I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite research projects and data samples can be found here:
+1. I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
 https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
-2. I've also worked on numerous projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
-<https://linktr.ee/angie_moore
+2. I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
+https://linktr.ee/angie_moore
