@@ -10,7 +10,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 # How Do I Conduct My Research?
 By using EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their Exoplanet Watch Results.
 <br>
-https://exoplanets.nasa.gov/exoplanet-watch/how-to-contribute/checklist/
+https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
 <br>
 <br>
 ![EXOTIC-Exoplanet-Watch-NASA](https://github.com/user-attachments/assets/3bb90e63-2d81-40cc-ab98-5635f5c2c719)
@@ -22,8 +22,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/how-to-contribute/checklist/
 <br>
 <br>
 # Results: NASA's Official Website
-To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"
-<br>
+To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check again at a later date.  
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 <br>
 # Additional Findings: American Association of Variable Star Observers (AAVSO) 
