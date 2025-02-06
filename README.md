@@ -1,4 +1,4 @@
-# nasa
+# 
 # Angela N. Moore's Contributions to Exoplanet Watch (NASA)
 ![Exoplanet_Watch_3](https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a)
 <br>
