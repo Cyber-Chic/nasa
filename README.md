@@ -26,7 +26,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - To view my light curves, reports and additional data visit the AAVSO website.  Next search for my Observers Code - MANBA. <br>https://apps.aavso.org/exosite <br><br>
 - To view my AAVSO member profile visit here:<br> https://www.aavso.org/users/account4537volunteer
 
-# More About Exoplanets
+# <br> More About Exoplanets
 - To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/
 
 ![more exoplanets outer-space_new-planets_sc](https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962)
@@ -34,6 +34,6 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
   
 # About Me
 - In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
-https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
+<br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
 - I've also worked on independant projects in the following fields: Art, literature, finance, math, and web development.  My portfolio can be viewed here:
-https://linktr.ee/angie_moore
+<br> https://linktr.ee/angie_moore
