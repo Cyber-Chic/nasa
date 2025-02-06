@@ -1,5 +1,6 @@
-# | README | OVERVIEW | <br><br>  My Contributions to Exoplanet Watch (NASA Project) <br> Angela N. Moore<br>
+# | README | OVERVIEW | <br><br>  My Contributions To The Exoplanet Watch Project Of The National Aeronautics and Space Administration (NASA)<br><BR>Angela N. Moore<br><br>
 ![Exoplanet_Watch_3](https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a)
+<br>
 <br>
 # What is Exoplanet Watch? 
 - A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and recieve recognition for their work in scientific publications.
