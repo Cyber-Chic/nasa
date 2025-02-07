@@ -33,7 +33,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 
 ![more exoplanets outer-space_new-planets_sc](https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962)
 
-# <br> Researchers Wanted!
+# <br> Call For Participants!
 - Interested in participating in NASA's Exoplanet Watch project?  If so, please visit below!<br>
   https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/community/
   <br>
