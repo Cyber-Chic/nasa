@@ -44,7 +44,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - I studied astronomy during my senior year at Fairfield University.  I've since developed a facination with both programming & outerspace research. I love Exoplanet Watch because even as a novice, I'm able to use these passions for a cause that's literally out of this world!<br><br>
 - In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zoonivere.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
-- I've also worked on projects involving art, literature, finance, math, and web development.
+- Aside from astronomy; I've worked on projects involving art, literature, finance, math, and web development.
 <br> https://linktr.ee/angie_moore <br><br>
 
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
