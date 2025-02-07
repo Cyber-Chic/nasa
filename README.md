@@ -7,7 +7,7 @@
 https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/
 
 # How Do I Conduct My Research?
-- By using EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their Exoplanet Watch Results. <br> https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
+- By using EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their results. <br> https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
 
 <br> ![EXOTIC-Exoplanet-Watch-NASA](https://github.com/user-attachments/assets/3bb90e63-2d81-40cc-ab98-5635f5c2c719)
 <br>
