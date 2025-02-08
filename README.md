@@ -3,7 +3,7 @@
 <br>
 <br>
 # What is Exoplanet Watch? 
-- A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and recieve recognition for their work in scientific publications. <br>
+- A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and receive recognition for their work in scientific publications. <br>
 https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/ <br><br>
 # What Are Exoplanets?
 - Exoplanets are planets that exists beyond our solar system.  They typically orbit stars within our galaxy.  To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/ <br><br>
