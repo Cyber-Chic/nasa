@@ -22,9 +22,10 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
 
 # <br> Which Exoplanets Have I Analyzed? <br>
 - ## TrES-3 b: https://science.nasa.gov/exoplanet-catalog/tres-3-b/
-  ### Observation 2/5/25: No dip on light curve.
-  
   ![Angela-N -Moore_TRES-3-b_2025-02-05_certificate](https://github.com/user-attachments/assets/4bb17d6d-28e2-4bc8-b6c7-435963f3269d)
+
+- ## TrES-2 b: https://science.nasa.gov/exoplanet-catalog/tres-2-b/
+  ![Angela-N -Moore_TRES-2-b_2025-02-08_certificate](https://github.com/user-attachments/assets/8d593420-e3ba-4c49-8699-32f6627b2ed1)
 
 - ## More to be reviewed: Check back for updates!
 <br>
