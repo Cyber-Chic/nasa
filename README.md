@@ -33,7 +33,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - To view my AAVSO member profile visit here:<br> https://www.aavso.org/users/account4537volunteer
 
 # <br> More About Exoplanets
-- To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/
+- Exoplants are planets that exists beyond our solar system.  They typically orbit stars within our galaxy.  To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/
 
 ![more exoplanets outer-space_new-planets_sc](https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962)
 
