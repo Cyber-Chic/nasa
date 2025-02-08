@@ -14,7 +14,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/ <br>
 <br>
 <br>
 # Why Are Light Curves Important?
-- Light curve graphs demonstrate changes in brightness over a period of time.  When an exoplanet passes the front of a star, it blocks off their light.  This is represented by a dip in the graph.  The larger the dip, the bigger the passing exoplanet is.  Lightcurves also provide a wealth of information about an exoplanets year length, temperature, and atmosphere thickness.  To learn more visit NASA's official website. <br>
+- Light curve graphs demonstrate changes in brightness over a period of time.  When an exoplanet passes the front of a star, it blocks off the stars light.  This is represented by a dip in a light curve graph.  The larger the dip, the bigger the passing exoplanet is.  Lightcurves also provide a wealth of information about an exoplanets year length, temperature, and atmosphere thickness.  To learn more visit NASA's official website. <br>
 https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <br><br>
 
 
