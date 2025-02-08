@@ -22,6 +22,8 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
 
 # <br> Which Exoplanents Have I Analyzed? <br>
 - ## TrES-3 b: https://science.nasa.gov/exoplanet-catalog/tres-3-b/
+  ### Observation 2/5/25: No dip on light curve.
+  
   ![Angela-N -Moore_TRES-3-b_2025-02-05_certificate](https://github.com/user-attachments/assets/4bb17d6d-28e2-4bc8-b6c7-435963f3269d)
 
 - ## More to be reviewed: Check back for updates!
