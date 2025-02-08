@@ -20,7 +20,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
 
 ![more exoplanets outer-space_new-planets_sc](https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962)
 
-# <br> Which Exoplanents Have I Analyzed? <br>
+# <br> Which Exoplanets Have I Analyzed? <br>
 - ## TrES-3 b: https://science.nasa.gov/exoplanet-catalog/tres-3-b/
   ### Observation 2/5/25: No dip on light curve.
   
