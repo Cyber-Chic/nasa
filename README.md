@@ -4,9 +4,9 @@
 <br>
 # What is Exoplanet Watch? 
 - A citizen science project by the National Aeronautics and Space Administration (NASA).  It allows participants to gather and analyze exoplanet data, contribute their results to a NASA database, and recieve recognition for their work in scientific publications. <br>
-https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/ <br>
+https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/ <br><br>
 # What Are Exoplanets?
-- Exoplanets are planets that exists beyond our solar system.  They typically orbit stars within our galaxy.  To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/ <br>
+- Exoplanets are planets that exists beyond our solar system.  They typically orbit stars within our galaxy.  To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/ <br><br>
 # How Do I Conduct My Research?
 - By using EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their results. <br> https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
 
