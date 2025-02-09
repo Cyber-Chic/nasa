@@ -43,7 +43,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 
 # 2. American Association of Variable Star Observers (AAVSO) 
 - To view my light curves, reports and additional data visit the AAVSO website.  Next search for my Observers Code - MANBA. <br>https://apps.aavso.org/exosite <br><br>
-- To view my AAVSO member profile visit here:<br> https://www.aavso.org/users/account4537volunteer
+- To view my AAVSO member profile visit here:<br> https://www.aavso.org/users/angelamoore
 
 
 
