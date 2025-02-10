@@ -38,7 +38,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
 
 
 # My Results <br><br> 1.  National Aeronautics and Space Administration (NASA)
-- To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet, check back at a later date.  
+- To view my results visit NASA's Exoplanet Watch Results page.  Next click on any exoplanet listed above and search for my AAVSO Observers Code which is: MANBA.  From there you can access the light curves I have generated.  Instructions on how to access my results are included on their page under "Find your light curve!"  Please note that their results are not updated daily.  If you are unable to locate an exoplanet or view my research, check back at a later date.  
 https://exoplanets.nasa.gov/exoplanet-watch/results/
 
 # 2. American Association of Variable Star Observers (AAVSO) 
