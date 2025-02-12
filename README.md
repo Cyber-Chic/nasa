@@ -29,9 +29,11 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
 -  ## TrES-2 b: https://science.nasa.gov/exoplanet-catalog/tres-2-b/
    ![Angela-N -Moore_TRES-2-b_2025-02-08_certificate](https://github.com/user-attachments/assets/8d593420-e3ba-4c49-8699-32f6627b2ed1)  <br><br>
 
-- ## Qatar-2 b: https://science.nasa.gov/exoplanet-catalog/qatar-2-b/
-  ![Angela-N -Moore_Qatar-2-b_2025-02-09_certificate](https://github.com/user-attachments/assets/95771ccf-95eb-436b-a904-f63f691ef36d)
+- ## Qatar-2 b: https://science.nasa.gov/exoplanet-catalog/qatar-2-b/  
+  ![Angela-N -Moore_Qatar-2-b_2025-02-09_certificate](https://github.com/user-attachments/assets/95771ccf-95eb-436b-a904-f63f691ef36d)  <br><br>
 
+-  ## TrES-5 b: https://science.nasa.gov/exoplanet-catalog/tres-5-b/  
+   ![Angela-N -Moore_TRES-5-b_2025-02-12_certificate](https://github.com/user-attachments/assets/67eb4220-1587-496f-9828-5e7b5758ed21)
 
 - ## More to be reviewed: Check back for updates!
 <br>
