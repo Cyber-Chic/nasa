@@ -38,8 +38,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
    -  ## WASP-49 b: https://science.nasa.gov/exoplanet-catalog/wasp-49-b/  
    ![Angela-N -Moore_WASP-49-b_2025-02-15_certificate](https://github.com/user-attachments/assets/aab275ed-dc17-4dfb-8dbf-15f31683ed1f)
   <br><br>
-  
-- ## More to be reviewed: Check back for updates!
+  - ## FOR MY FULL LIST OF EXOPLANETS: [CLICK HERE!](https://cyber-chic.github.io/nasa/)
 <br>
 
 
