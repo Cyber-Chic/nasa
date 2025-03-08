@@ -1,161 +1,241 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-<head>
-  <style>
-    * {
-      box-sizing: border-box;
-    }
+  <head>
+    <style>
+      * {
+        box-sizing: border-box;
+      }
 
-    body {
-      margin: 0;
-      font-family: Brush Script;
-             background-image: linear-gradient(to right top, #200cf4, #cd0073, #bd0012, #865200, #556b24);
-    }
+      body {
+        margin: 0;
+        font-family: Brush Script;
+        background-image: linear-gradient(
+          to right top,
+          #200cf4,
+          #cd0073,
+          #bd0012,
+          #865200,
+          #556b24
+        );
+      }
 
-    h1 {
-     color: white;
-	text-align: center;
-	box-shadow: 0 5px 10px rgba(154,160,185,.05), 0 15px 40px rgba(166,173,201,.2);
-	background-color: black;
-    }
+      h1 {
+        color: white;
+        text-align: center;
+        box-shadow:
+          0 5px 10px rgba(154, 160, 185, 0.05),
+          0 15px 40px rgba(166, 173, 201, 0.2);
+        background-color: black;
+      }
 
-    h2 {
-     color: white;
-     text-align: center;
-     background-color: white;
-    }
+      h2 {
+        color: white;
+        text-align: center;
+        background-color: white;
+      }
 
-    /* The grid: Four equal columns that floats next to each other */
-    .column {
-      float: left;
-      width: 25%;
-      padding: 10px;      
-    }
+      /* The grid: Four equal columns that floats next to each other */
+      .column {
+        float: left;
+        width: 25%;
+        padding: 10px;
+      }
 
-    /* Style the images inside the grid */
-    .column img {
-      opacity: 0.8;
-      cursor: pointer;
-    }
+      /* Style the images inside the grid */
+      .column img {
+        opacity: 0.8;
+        cursor: pointer;
+      }
 
-    .column img:hover {
-      opacity: 1;
-    }
+      .column img:hover {
+        opacity: 1;
+      }
 
-    /* Clear floats after the columns */
-    .row:after {
-      content: "";
-      display: table;
-      clear: both;
-    }
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
 
-    /* The expanding image container */
-    .container {
-      position: relative;
-      display: none;
-    }
+      /* The expanding image container */
+      .container {
+        position: relative;
+        display: none;
+      }
 
-    /* Expanding image text */
-    #imgtext {
-      position: absolute;
-      bottom: 15px;
-      left: 15px;
-      color: white;
-      font-size: 20px;
-    }
+      /* Expanding image text */
+      #imgtext {
+        position: absolute;
+        bottom: 15px;
+        left: 15px;
+        color: white;
+        font-size: 20px;
+      }
 
-    /* Closable button inside the expanded image */
-    .closebtn {
-      position: absolute;
-      top: 10px;
-      right: 15px;
-      color: white;
-      font-size: 35px;
-      cursor: pointer;
-    }
-  </style>
-</head>
+      /* Closable button inside the expanded image */
+      .closebtn {
+        position: absolute;
+        top: 10px;
+        right: 15px;
+        color: white;
+        font-size: 35px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
 
-<body>
-<br>
-<br>
-<br>
-<br>
-  <div class="row">
-    <div class="column">
-      <h1>Exoplanets Analyzed by Angela N. Moore:</h1><a href="https://science.nasa.gov/exoplanet-catalog/tres-3-b/"></a>
-    </div>
-    <div class="column">
-      <h1>TrES-3<br>B</h1><a href="https://science.nasa.gov/exoplanet-catalog/tres-3-b/"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-orange.png?raw=true" alt="Image 2" style="width:100%"></a>
-    	<br>
-    </div>
-    <div class="column">
-      <h1>TrES-2<br>B</h1><a href="https://science.nasa.gov/exoplanet-catalog/tres-2-b/"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-dark.png?raw=true" alt="Image 3" style="width:100%"></a>
-    </div>
-    <div class="column">
-      <h1>Qatar-2<br>B</h1><a href="https://science.nasa.gov/exoplanet-catalog/qatar-2-b/"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-brown.png?raw=true" alt="Image 4" style="width:100%"></a>
-    </div>
-  </div>
-
-  <!-- The four columns -->
-  <div class="row">
-    <div class="column">
-      <h1>TrES-5<br>B</h1><a href="https://science.nasa.gov/exoplanet-catalog/tres-5-b/"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet.png?raw=true" alt="Image 1" style="width:100%"></a>
-    	<br>
-    </div>
-    <div class="column">
-      <h1>WASP-49<br>B</h1><a href="https://science.nasa.gov/exoplanet-catalog/wasp-49-b/"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-brown.png?raw=true" style="width:100%"></a>
-    	<br>
-    </div>
-  </div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-  <h2></h2>
-
-  <!-- The four columns -->
-  <div class="row">
-    <div class="column">
-      <h1>Moore's Favorite NASA APOD Photos:</h1>
-    </div>
-    <div class="column">
-      <h1>Carina<br>Nebula North</h1><a href="https://apod.nasa.gov/apod/ap220131.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/CarNorth_Taylor_6179.jpg?raw=true" alt="Image 2" style="width:100%"></a>
-    	<br>
-    </div>
-    <div class="column">
-      <h1>The Seagull<br>Nebula</h1><a href="https://apod.nasa.gov/apod/ap240313.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/Seagull_Lacroce_1080.jpg?raw=true" alt="Image 3" style="width:100%"></a>
-    </div>
-    <div class="column">
-      <h1>The Hyades<br>Star Cluster</h1><a href="https://apod.nasa.gov/apod/ap200122.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/Hyades_Mtanous_1080.jpg?raw=true" alt="Image 4" style="width:100%"></a>
-    </div>
-  </div>
-
-  <!-- The four columns -->
-  <div class="row">
-    <div class="column">
-      <h1>NGC 2623: Galaxy Merger from Hubble</h1><a href="https://apod.nasa.gov/apod/ap091109.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/ngc2623_hst.jpg?raw=true" alt="Image 1" style="width:100%"></a>
-    	<br>
-    </div>
-    <div class="column">
-      <h1>IC 2118: The Witch Head<br>Nebula </h1><a href="https://apod.nasa.gov/apod/ap231004.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/WitchHead_Alharbi_1080.jpg?raw=true" alt="Image 2" style="width:100%"></a>
-    	<br>
+  <body>
+    <br />
+    <br />
+    <br />
+    <br />
+    <div class="row">
+      <div class="column">
+        <h1>Exoplanets Analyzed by Angela N. Moore:</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/tres-3-b/"></a>
+      </div>
+      <div class="column">
+        <h1>TrES-3<br />B</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/tres-3-b/">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-orange.png?raw=true"
+            alt="Image 2"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
+      <div class="column">
+        <h1>TrES-2<br />B</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/tres-2-b/">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-dark.png?raw=true"
+            alt="Image 3"
+            style="width: 100%"
+        /></a>
+      </div>
+      <div class="column">
+        <h1>Qatar-2<br />B</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/qatar-2-b/">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-brown.png?raw=true"
+            alt="Image 4"
+            style="width: 100%"
+        /></a>
+      </div>
     </div>
 
-    <div class="column">
-      <h1>In the Vicinity of the Cone Nebula</h1><a href="https://apod.nasa.gov/apod/ap081123.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/coneregion_noao.jpg?raw=true" alt="Image 4" style="width:100%"></a>
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <h1>TrES-5<br />B</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/tres-5-b/">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet.png?raw=true"
+            alt="Image 1"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
+      <div class="column">
+        <h1>WASP-49<br />B</h1>
+        <a href="https://science.nasa.gov/exoplanet-catalog/wasp-49-b/">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/sample-planet-brown.png?raw=true"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
     </div>
-    <div class="column">
-      <h1>Milky Way and Zodiacal Light over Chile</h1><a href="https://apod.nasa.gov/apod/ap200309.html"> <img src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/ZodiacalMw_Ponca_960.jpg?raw=true" alt="Image 3" style="width:100%"></a>
-    </div>
- </div>
-<br>
-<br>
-<br>
-<br>
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <br />
+    <h2></h2>
 
-</body>
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <h1>Moore's Favorite NASA APOD Photos:</h1>
+      </div>
+      <div class="column">
+        <h1>Carina<br />Nebula North</h1>
+        <a href="https://apod.nasa.gov/apod/ap220131.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/CarNorth_Taylor_6179.jpg?raw=true"
+            alt="Image 2"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
+      <div class="column">
+        <h1>The Seagull<br />Nebula</h1>
+        <a href="https://apod.nasa.gov/apod/ap240313.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/Seagull_Lacroce_1080.jpg?raw=true"
+            alt="Image 3"
+            style="width: 100%"
+        /></a>
+      </div>
+      <div class="column">
+        <h1>The Hyades<br />Star Cluster</h1>
+        <a href="https://apod.nasa.gov/apod/ap200122.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/Hyades_Mtanous_1080.jpg?raw=true"
+            alt="Image 4"
+            style="width: 100%"
+        /></a>
+      </div>
+    </div>
+
+    <!-- The four columns -->
+    <div class="row">
+      <div class="column">
+        <h1>NGC 2623: Galaxy Merger from Hubble</h1>
+        <a href="https://apod.nasa.gov/apod/ap091109.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/ngc2623_hst.jpg?raw=true"
+            alt="Image 1"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
+      <div class="column">
+        <h1>IC 2118: The Witch Head<br />Nebula</h1>
+        <a href="https://apod.nasa.gov/apod/ap231004.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/WitchHead_Alharbi_1080.jpg?raw=true"
+            alt="Image 2"
+            style="width: 100%"
+        /></a>
+        <br />
+      </div>
+
+      <div class="column">
+        <h1>In the Vicinity of the Cone Nebula</h1>
+        <a href="https://apod.nasa.gov/apod/ap081123.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/coneregion_noao.jpg?raw=true"
+            alt="Image 4"
+            style="width: 100%"
+        /></a>
+      </div>
+      <div class="column">
+        <h1>Milky Way and Zodiacal Light over Chile</h1>
+        <a href="https://apod.nasa.gov/apod/ap200309.html">
+          <img
+            src="https://github.com/Cyber-Chic/nasa/blob/main/images.css/ZodiacalMw_Ponca_960.jpg?raw=true"
+            alt="Image 3"
+            style="width: 100%"
+        /></a>
+      </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <br />
+  </body>
 </html>
