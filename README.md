@@ -8,7 +8,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/ <br>
 # What Are Exoplanets?
 - Exoplanets are planets that exists beyond our solar system.  They typically orbit stars within our galaxy.  To learn more about exoplanets visit NASA's official website. <br> https://science.nasa.gov/exoplanets/facts/ <br><br>
 # How Do I Conduct My Research?
-- By using EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their results. <br> https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
+- By using open source EXOTIC (Exoplanet Timing Interpretation Code) Python software to analyze data, generate reports, and create visual light curves.  I then send them to the American Association of Variable Star Observers (AAVSO). Exoplanet Watch incorporates this data into their results. <br> https://exoplanets.nasa.gov/exoplanet-watch/exotic/user-guide/
 
 <br> ![EXOTIC-Exoplanet-Watch-NASA](https://github.com/user-attachments/assets/3bb90e63-2d81-40cc-ab98-5635f5c2c719)
 <br>
@@ -68,7 +68,8 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
 
-
+# Sponsors
+- You can sponsor me if you like my work on this and want to say thanks!💖
 
 
 
