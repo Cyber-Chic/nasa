@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background: hsl(212, 45%, 89%);
+  background: hsl(295, 31%, 48%);
   color: hsl(218, 44%, 22%);
   display: flex;
   justify-content: center;
@@ -12,7 +12,7 @@ p {
   font-family: "Outfit", sans-serif;
   color: hsl(220, 15%, 55%);
   font-weight: 400;
-  margin: 5px;
+  margin: 25px;
 }
 h1 {
   font-family: "Outfit", sans-serif;
