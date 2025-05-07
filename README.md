@@ -39,7 +39,7 @@ https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/background/ <b
    ![Angela-N -Moore_WASP-49-b_2025-02-15_certificate](https://github.com/user-attachments/assets/aab275ed-dc17-4dfb-8dbf-15f31683ed1f)
   <br><br>
 - ## [CLICK HERE](https://app.emaze.com/@alfioqlcw/nasa) FOR MY FULL LIST OF EXOPLANETS! <br>
-  ## - OR - <br> <br> SCAN THE PROJECT QR CODE: <br> <br> ![image-qr-code](https://github.com/user-attachments/assets/e63a6061-f70f-4cb4-a1ed-b293d389d4af)
+  ## - OR - <br> <br> SCAN THE [PROJECT](https://cyber-chic.github.io/nasa/) QR CODE: <br> <br> ![image-qr-code](https://github.com/user-attachments/assets/e63a6061-f70f-4cb4-a1ed-b293d389d4af)
 <br>
 
 
