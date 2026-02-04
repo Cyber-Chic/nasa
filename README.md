@@ -70,8 +70,8 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
 
 # Sponsors
-- Thank you for reading about my NASA research!😁
-- You can sponsor me if you like my work on this and want to say thanks!💖
-
+> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
+> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
+> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
 
 
