@@ -70,8 +70,18 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
 
 # Sponsors
-> **SIGNAL NOTE:** This project is a digital subsystem of the [Moore Archive](https://emaze.me/tma). 
-> Sponsorships support my full creative ecosystem—from public-facing research to physical art drops.
-> [**SUPPORT THE JOURNEY**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE) | **STATUS: 🟢 NOMINAL**
+### [ 🛰️ PROJECT SUBSYSTEM ]
+**Part of the [Moore Archive](https://emaze.me/tma) Creative Ecosystem.**  
+*Bridging the gap between digital code and physical reality.*
 
+**EXPLORE THE NETWORK:**
+*   **🔭 RESEARCH:** [NASA Exoplanet Watch Participation & Data](https://github.com/Cyber-Chic/nasa)
+*   **🧪 ARCHIVE:** [The Moore Archive | Physical Artifact Hunt](https://emaze.me/tma)
+*   **💻 CODE:** [View My Full Repository Catalog](https://github.com/Cyber-Chic)
 
+**[ ☕ MISSION SUSTENANCE ]**
+Sponsorships support my full creative ecosystem—from public-facing research and citizen science to the physical art drops of The Moore Archive.  
+[**➡️ SUPPORT THE JOURNEY VIA PAYPAL**](https://www.paypal.com/donate/?hosted_button_id=CJVWS45KF46ZE)
+
+---
+**ANGELA N. MOORE // SIGNAL STATUS: 🟢 NOMINAL**
