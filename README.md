@@ -1,4 +1,4 @@
-# <br>My Exoplanet Research for the National Aeronautics and Space Administration (NASA)<br><br> ~Angela N. Moore <br>
+# <br>RESEARCH FOR NASA // THE MOORE SIGNAL
 ![Exoplanet_Watch_3](https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a)
 <br>
 <br>
