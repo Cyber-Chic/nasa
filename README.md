@@ -51,23 +51,19 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - To view my light curves, reports and additional data visit the AAVSO website.  Next search for my Observers Code - MANBA. <br>https://apps.aavso.org/exosite <br><br>
 - To view my AAVSO observer profile visit here:<br> https://www.aavso.org/users/angelamoore
 
-
-
-#  Call For Participants!
-- Interested in participating in NASA's Exoplanet Watch project?  If so, please visit below!<br>
-  https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/community/
-  <br>
-  <br>
-  ![telescope](https://github.com/user-attachments/assets/23b7ec3a-4b51-4eb1-bd3c-9ab9e314ebdd)
-
-# About Me
-- I studied astronomy during my senior year at Fairfield University.  I've since developed a fascination with both programming & outer-space research. I love Exoplanet Watch because even as a novice, I'm able to use these passions for a cause that's literally out of this world!<br><br>
-- In addition to Exoplanet Watch, I conduct citizen research for multiple projects via Zooniverse.  Some of them are also sponsored by NASA.  My favorite projects and data samples can be found here:
+# 🛰️ RESEARCH FREQUENCY: UPDATED
+- While the manual EXOTIC data pipeline is currently archived as Exoplanet Watch is currently undergoing extensive site maintanence, the search continues via the Zooniverse network. My ongoing research for NASA, including focal points such as dark energy and comet-catching inquiries, can be monitored via curated collections:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
-- Aside from astronomy; I've worked on projects involving art, literature, finance, math, and web development.
-<br> https://linktr.ee/angie_moore <br><br>
+
+# 🛰️ About Me
+- I studied astronomy during my senior year at Fairfield University.  I've since developed a fascination with both programming & outer-space research. I love citizen science research because even as a novice, I'm able to use these passions for a cause that's literally out of this world!<br><br>
+
 
 ![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
+
+# 🛰️ SYNTHETIC CO-PILOT
+- **Technical Architecture:** This research terminal and its data-framing were manifest through an iterative exchange between **Angela N. Moore** and the **Gemini Neural Models**.
+- This collaboration blends AI precision with human analytical praxis—establishing a "Dual-Handshake" between human curiosity and machine logic to better explore the void.
 
 # Sponsors
 ### [ 🛰️ PROJECT SUBSYSTEM ]
