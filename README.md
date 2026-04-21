@@ -55,11 +55,9 @@ https://exoplanets.nasa.gov/exoplanet-watch/results/
 - While the manual EXOTIC data pipeline is currently archived as Exoplanet Watch is currently undergoing extensive site maintanence, the search continues via the Zooniverse network. My ongoing research for NASA, including focal points such as dark energy and comet-catching inquiries, can be monitored via curated collections:
 <br> https://www.zooniverse.org/users/Zooniverse-Volunteer/collections<br><br>
 
-# 🛰️ About Me
-- I studied astronomy during my senior year at Fairfield University.  I've since developed a fascination with both programming & outer-space research. I love citizen science research because even as a novice, I'm able to use these passions for a cause that's literally out of this world!<br><br>
+### 🛰️ About Me
+- I love citizen science research because even as a novice, I'm able to make an impact that's literally out of this world! 🚀<br><br>
 
-
-![IMG_2648 verticle nasa cool](https://github.com/user-attachments/assets/c3e8a735-4b53-4633-b98e-3aaf7202504e)
 
 ### 🛰️ SYNTHETIC CO-PILOT
 - **Technical Architecture:** This research terminal and its data-framing were manifest through an iterative exchange between **Angela N. Moore** and the **Gemini Neural Models**.
