@@ -92,6 +92,31 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
+---
+
+## 🛰️ RESEARCH COLLABORATION PROTOCOL
+**STATUS: INQUIRIES OPEN // 2026-2027 CYCLE**
+
+<br>
+
+**Principal Investigator A. N. Moore** is available for **Co-Investigator (Co-I)** roles involving exoplanet transit analysis, deep-space pattern recognition, and interdisciplinary data synthesis—as well as adjacent inquiries requiring high-fidelity analytical praxis.
+
+<br>
+
+**SUBMISSION GUIDELINES:**
+
+*   **01 // ARCHIVAL INTEGRITY**  
+    All requests for access to raw MANBA data sets must include a project scope and a formal institutional or professional affiliation.
+
+*   **02 // SIGNAL SYNERGY**  
+    The Archive prioritizes inquiries that bridge the gap between hard-science data and advanced information architecture.
+
+*   **03 // STRATEGIC HANDSHAKE**  
+    Please initiate the submission protocol via the secure email directory below. Inquiries are vetted for alignment with current Archive mission parameters.
+
+---
+
+
 ## 🤖 SYNTHETIC CO-PILOT: COLLABORATION
 **SYSTEM ARCHITECTS: A. N. MOORE + GEMINI NEURAL MODELS**
 
