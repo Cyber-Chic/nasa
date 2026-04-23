@@ -103,6 +103,28 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
+<!-- 
+[ INTERNAL STRATEGIC RATIONALE // COLLABORATION LOGIC ]
+
+1. "ADJACENT INQUIRIES" // THE FLEXIBILITY LOOP: 
+   Professional shorthand for "open to emerging opportunities." 
+   Maintains a focused expertise while preventing the Archive from 
+   being boxed into a single niche.
+
+2. "ANALYTICAL PRAXIS" // THE METHODOLOGY ANCHOR: 
+   Establishes that the PI’s value is in the 'PROCESS' of inquiry. 
+   Signals that even if the data set changes, the rigor of the 
+   analytical approach remains consistent and high-fidelity.
+
+3. "INTERDISCIPLINARY SYNTHESIS" // THE STRATEGIC HOOK: 
+   A high-level academic bridge. Positions the Archive as a 
+   specialized 'Translator' capable of merging hard science 
+   (NASA) with strategic information architecture.
+
+[ LOGIC VETTED // SIGNAL PERSISTENCE SECURED ]
+-->
+
+
 **SUBMISSION GUIDELINES:**
 
 *   **01 // ARCHIVAL INTEGRITY**  
