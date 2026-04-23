@@ -44,7 +44,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 ---
 
 ## 🏛️ VETTED DISPATCHES: ANALYZED EXOPLANETS
-*The following exoplanets have been successfully analyzed and archived via the MANBA protocol:*
+*The following exoplanets have been successfully analyzed and archived into MANBA data sets:*
 
 *   **TrES-3 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
 *   **TrES-2 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/tres-2-b/)
