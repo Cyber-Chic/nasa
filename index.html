@@ -1,34 +1,93 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- displays site properly based on user's device -->
-    <link
-      rel="icon"
-      type="image/png"
-      sizes="32x32"
-      href="./images/favicon-32x32.png"
-    />
-    <title>Cyber-Chic | Nasa Reasearch </title>
-    <link rel="stylesheet" href="styles.css" />
-  </head>
-  <body>
+    <title>THE MOORE SIGNAL // NASA Hub</title>
+    <style>
+        body {
+            background-color: #050505;
+            color: #f2f2f2;
+            font-family: 'Courier New', Courier, monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            text-transform: uppercase;
+        }
+
+        main {
+            background: #000;
+            border: 1px solid #333;
+            padding: 40px;
+            text-align: center;
+            max-width: 320px;
+            box-shadow: 0 0 30px rgba(255, 255, 255, 0.05);
+            border-radius: 2px;
+        }
+
+        .protocol-line {
+            color: #00e5ff;
+            font-size: 0.6rem;
+            letter-spacing: 3px;
+            margin-bottom: 25px;
+        }
+
+        .imagebox {
+            background: #fff; /* QR codes scan best on pure white */
+            padding: 15px;
+            display: inline-block;
+            margin-bottom: 30px;
+            border-radius: 4px;
+            transition: 0.3s ease;
+            box-shadow: 0 0 15px rgba(0, 229, 255, 0.2);
+        }
+
+        .imagebox:hover {
+            transform: scale(1.02);
+            box-shadow: 0 0 25px #00e5ff;
+        }
+
+        h1 {
+            font-size: 0.9rem;
+            letter-spacing: 4px;
+            margin: 0 0 15px 0;
+            color: #fff;
+        }
+
+        p {
+            font-size: 0.65rem;
+            line-height: 1.6;
+            color: #888;
+            letter-spacing: 1px;
+            margin-bottom: 25px;
+        }
+
+        .btn-status {
+            font-size: 0.6rem;
+            border-top: 1px solid #222;
+            padding-top: 20px;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
     <main>
-      <div class="imagebox">
-       <a href="https://app.emaze.com/@alfioqlcw/nasa">
-        <img
-          src=".\images.css\image-qr-code.png"
-          width="260"
-          height="250"
-          alt="QR Code to Emaze"
-        />
-       </a>
-        <h1>Angie's Research</h1>
+        <div class="protocol-line">📡 NASA_PORTAL // INITIALIZED</div>
+        
+        <div class="imagebox">
+            <a href="https://app.emaze.com/@alfioqlcw/nasa">
+                <img src="./images.css/image-qr-code.png" width="230" height="230" alt="QR Access" />
+            </a>
+        </div>
+
+        <h1>THE MOORE SIGNAL</h1>
         <p>
-          Scan (or click) the QR code to visit Emaze & see which Exoplanets I've analyzed for NASA!
+            Scan or click to access the Emaze Archival Hub & vetted MANBA exoplanet transit data.
         </p>
-      </div>
+
+        <div class="btn-status">STATUS: VETTED // ENTITY: THE MOORE SIGNAL ARCHIVE</div>
     </main>
-  </body>
+</body>
 </html>
