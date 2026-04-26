@@ -117,7 +117,7 @@ TECHNICAL ARCHIVIST NOTES:
     The MANBA Archival Sets represent a closed-loop research pipeline curated by **The Moore Signal Archive**. Requests for the utilization or publication of these specific transit reports require a formal **Institutional Request**. Please include project scope and professional affiliation.
 
 *   **02 // OPEN-SCIENCE CONTRIBUTIONS (ZOONIVERSE)**  
-    Historical contributions (archived under observer handle: **The Moore Signal**) will be transitioned into the (pending) **LLC stewardship framework** for long-term signal persistence. While raw classifications contribute to the public record, the **analytical synthesis** and **archival documentation** remain the proprietary work of the Archive.
+    Historical contributions (archived under observer handle: **The Moore Signal Archive**) will be transitioned into the (pending) **LLC stewardship framework** for long-term signal persistence. While raw classifications contribute to the public record, the **analytical synthesis** and **archival documentation** remain the proprietary work of the Archive.
 
 *   **03 // STRATEGIC HANDSHAKE**  
     Please initiate the submission protocol via the secure email directory below. Inquiries are vetted for alignment with current Archive mission parameters.
