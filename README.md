@@ -88,7 +88,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 **04 // THE ZOONIVERSE ECOSYSTEM**  
-[Ongoing Research Portfolio](https://www.zooniverse.org/users/Zooniverse-Volunteer/collections) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
+[Ongoing Research Portfolio](https://zooniverse.org) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
 
 <br>
 
@@ -104,40 +104,38 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 <!-- 
-[ INTERNAL STRATEGIC RATIONALE // COLLABORATION LOGIC ]
-
-1. "ADJACENT INQUIRIES" // THE FLEXIBILITY LOOP: 
-   Professional shorthand for "open to emerging opportunities." 
-   Maintains a focused expertise while preventing the Archive from 
-   being boxed into a single niche.
-
-2. "ANALYTICAL PRAXIS" // THE METHODOLOGY ANCHOR: 
-   Establishes that the PI’s value is in the 'PROCESS' of inquiry. 
-   Signals that even if the data set changes, the rigor of the 
-   analytical approach remains consistent and high-fidelity.
-
-3. "INTERDISCIPLINARY SYNTHESIS" // THE STRATEGIC HOOK: 
-   A high-level academic bridge. Positions the Archive as a 
-   specialized 'Translator' capable of merging hard science 
-   (NASA) with strategic information architecture.
-
-[ LOGIC VETTED // SIGNAL PERSISTENCE SECURED ]
+TECHNICAL ARCHIVIST NOTES:
+1. High-Fidelity Analytical Praxis: Precision-focused research methods and vetted data integrity.
+2. Interdisciplinary Data Synthesis: The strategic merging of astronomical, mathematical, and artistic datasets.
+3. Proprietary MANBA Sets: Specialized exoplanet transit reports personally processed via the EXOTIC pipeline.
+4. Legacy Stewardship: The LLC manages and preserves my long-term record of volunteer scientific contributions.
 -->
-
 
 **SUBMISSION GUIDELINES:**
 
-*   **01 // ARCHIVAL INTEGRITY**  
-    All requests to publish existing MANBA data sets must include a project scope and a formal institutional or professional affiliation.
+*   **01 // PROPRIETARY DATASETS (MANBA)**  
+    The MANBA Archival Sets represent a closed-loop research pipeline curated by **The Moore Signal Archive**. Requests for the utilization or publication of these specific transit reports require a formal **Institutional Request**. Please include project scope and professional affiliation.
 
-*   **02 // SIGNAL SYNERGY**  
-    The Archive prioritizes inquiries that bridge the gap between hard-science data and advanced information architecture.
+*   **02 // OPEN-SCIENCE CONTRIBUTIONS (ZOONIVERSE)**  
+    Historical contributions (archived under observer handle: **The Moore Signal**) will be transitioned into the (pending) **LLC stewardship framework** for long-term signal persistence. While raw classifications contribute to the public record, the **analytical synthesis** and **archival documentation** remain the proprietary work of the Archive.
 
 *   **03 // STRATEGIC HANDSHAKE**  
     Please initiate the submission protocol via the secure email directory below. Inquiries are vetted for alignment with current Archive mission parameters.
 
+<br>
+
 ---
 
+### [ 🛰️ ARCHIVE_HUB ]
+**The Moore Signal Archive // Independent Inquiry Management**  
+*Bridging the gap between digital code and physical reality.*
+
+**➡️ CONTACT:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
+**OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+
+<br>
+
+---
 
 ## 🤖 SYNTHETIC CO-PILOT: COLLABORATION
 **SYSTEM ARCHITECTS: A. N. MOORE + GEMINI NEURAL MODELS**
@@ -147,19 +145,13 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 **PROTOCOL // STRATEGIC SYNTHESIS**  
 *The architecture of this research terminal was manifest through an iterative exchange between human analytical praxis and AI-driven precision. This "Digital-Physical Handshake" ensures that the complexity of the Archive remains accessible and aesthetically unified—maintaining a persistent signal across the digital void.*
 
----
-
-
-### [ 🛰️ ARCHIVE_HUB ]
-**The Moore Signal Archive // Independent Inquiry Management**
-*Bridging the gap between digital code and physical reality.*
-
-**➡️ CONTACT:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
-**OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+<br>
 
 ---
 
-> **📡 ARCHIVAL NOTICE // NON-ENDORSEMENT PROTOCOL**
+<br>
+
+> **📡 ARCHIVAL NOTICE // NON-ENDORSEMENT PROTOCOL**  
 > *Imagery and data provided courtesy of NASA/JPL-Caltech and various open-science missions. **The Moore Signal Archive** is an independent scientific inquiry firm. Use of this data is for educational and portfolio purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with NASA or the U.S. Government.*
 
 **SIGNAL STATUS: 🟢 NOMINAL**
