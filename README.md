@@ -128,7 +128,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 **SUBMISSION GUIDELINES:**
 
 *   **01 // ARCHIVAL INTEGRITY**  
-    All requests for access to raw MANBA data sets must include a project scope and a formal institutional or professional affiliation.
+    All requests for publish to existing MANBA data sets must include a project scope and a formal institutional or professional affiliation.
 
 *   **02 // SIGNAL SYNERGY**  
     The Archive prioritizes inquiries that bridge the gap between hard-science data and advanced information architecture.
