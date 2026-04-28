@@ -100,7 +100,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 | RESOURCE | DESCRIPTION | LINK |
 | :--- | :--- | :--- |
 | **JOINT SCOPES** | NASA & AAVSO Partnership Briefing | [VIEW BRIEF](https://www.aavso.org/exoplanet-watch-pr) |
-| **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA](https://apps.aavso.org/exosite) |
+| **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA](https://apps.aavso.org/exosite/?obscode=Manba&in_notes=&star_name=&exoplanet_name=&start_date=&end_date=&results_per_page=&search=true) |
 | **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW PROFILE](https://www.aavso.org/users/angelamoore) |
 
 <br>
