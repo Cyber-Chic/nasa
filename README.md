@@ -117,7 +117,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 **04 // THE ZOONIVERSE ECOSYSTEM**  
-[Ongoing Research Portfolio](https://zooniverse.org) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
+[Ongoing Research Portfolio](https://www.zooniverse.org/users/Zooniverse-Volunteer/collections) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
 
 <br>
 
