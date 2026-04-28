@@ -56,7 +56,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://aavso.org)
+#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056/)
 > ### **A VOID DRENCHED BY NIGHT.**
 > ### **DARKER THAN THE MIND'S SHADOWS.**
 > ### **WITH LIFELESS COAL PULSE.**
