@@ -41,44 +41,73 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
   <img src="https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962" width="100%" alt="Outer Space Planets">
 </p>
 
----
-
 ## 🏛️ VETTED DISPATCHES: ANALYZED EXOPLANETS
-*The following exoplanets have been successfully analyzed and archived into MANBA data sets:*
+*The following targets have been successfully processed via the EXOTIC pipeline and archived into MANBA data sets.*
 
-*   **TrES-3 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
-*   **TrES-2 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/tres-2-b/)
-*   **Qatar-2 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/)
-*   **TrES-5 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/tres-5-b/)
-*   **WASP-49 b** | [Official Catalog](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/)
+<br>
 
-**[ 🛰️ VIEW FULL PROJECT TERMINAL ]**
-[Emaze Archival Hub](https://app.emaze.com/@alfioqlcw/nasa) // [Project QR Portal](https://cyber-chic.github.io/nasa/)
+### 🌌 [ EXOPLANETARY OVERVIEWS ]
+> [ **TrES-3 b** ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/) • [ **TrES-2 b** ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/) • [ **Qatar-2 b** ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/) • [ **TrES-5 b** ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/) • [ **WASP-49 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/)
 
 ---
 
-## 📡 VERIFICATION & RESULTS
-**AAVSO Observer Code: MANBA**
+### 🎨 [ THE DESCRIPTIVE GALLERY: FEATURED SIGNALS ]
+*Selected "Signal Captures" merging astronomical telemetry with interdisciplinary micro-verse.*
 
 <br>
 
-**01 // NASA & AAVSO SCOPES**  
-[Joint Results Overview](https://www.aavso.org/exoplanet-watch-pr "NASA & AAVSO Partnership Briefing") — *Official documentation regarding the collaborative archival pipeline between NASA JPL and the AAVSO.*
+#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://aavso.org)
+> ### **A VOID DRENCHED BY NIGHT.**
+> ### **DARKER THAN THE MIND'S SHADOWS.**
+> ### **WITH LIFELESS COAL PULSE.**
+> — *Descriptive Haiku // Principal Investigator A. Moore*
 
 <br>
 
-**02 // AAVSO EXOSITE PORTAL**  
-[Find My Technical Data](https://apps.aavso.org/exosite) — *Direct access to the MANBA data sets, including light curve telemetry and localized transit reports for vetted exoplanetary targets.*
+<details>
+<summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 002-013)</b></summary>
+<br>
+
+#### 🔭 [ WASP-49 b ] | [ MANBA-SET 2019-02-09 ]
+> ### **DECRYPTING SIGNAL...**
+> *Archival inquiry active // Literary synthesis in progress.*
+> — *Principal Investigator A. Moore*
 
 <br>
 
-**03 // OBSERVER PROFILE**  
-[AAVSO Official // Angela Moore](https://www.aavso.org/users/angelamoore) — *Principal Investigator profile within the American Association of Variable Star Observers, documenting formal research history.*
+#### 🔭 [ TrES-3 b ] | [ MANBA-SET 2011-08-24 ]
+> ### **SIGNAL PENDING...**
+> *Telemetry verified // Awaiting descriptive capture.*
+> — *Principal Investigator A. Moore*
+
+<br>
+
+#### 🔭 [ ADDITIONAL TARGETS ] | [ ARCHIVE BLOCKS 004-013 ]
+> ### **DATA ENCRYPTED.**
+> *Awaiting interdisciplinary decryption for remaining MANBA sets.*
+> — *Principal Investigator A. Moore*
+
+</details>
+
+
+---
+
+
+## 📡 VERIFICATION & CREDENTIALS
+**OBSERVER IDENTIFICATION: MANBA**
+
+
+| RESOURCE | DESCRIPTION | LINK |
+| :--- | :--- | :--- |
+| **JOINT SCOPES** | NASA & AAVSO Partnership Briefing | [VIEW BRIEF](https://www.aavso.org/exoplanet-watch-pr) |
+| **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA](https://apps.aavso.org/exosite) |
+| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW PROFILE](https://www.aavso.org/users/angelamoore) |
 
 <br>
 
 > **🚀 MISSION OBJECTIVE: RESEARCH CONTRIBUTION**  
-> *Leveraging a multi-disciplinary trajectory—from the MANBA exoplanet data sets to current Zooniverse **deep-space inquiries**—the Archive remains dedicated to contributing high-fidelity data to the scientific community. The long-term goal is to support formal publication and secure Co-Investigator (Co-I) status within the peer-reviewed astronomical record.*
+> *Leveraging a multi-disciplinary trajectory—from the MANBA exoplanet data sets to current Zooniverse deep-space inquiries—the Archive remains dedicated to contributing high-fidelity data to the scientific community. The long-term goal is to secure Co-Investigator (Co-I) status within the peer-reviewed astronomical record.*
+
 
 ---
 
