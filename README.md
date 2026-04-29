@@ -39,7 +39,6 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0bfd70c7-2b1a-45c8-a47c-5bc736e7c962" width="100%" alt="Outer Space Planets">
-</p>
 
 ## 🏛️ VETTED DISPATCHES: ANALYZED EXOPLANETS
 *The following targets have been successfully processed via the EXOTIC pipeline and archived into MANBA data sets.*
@@ -56,7 +55,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056/)
+#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056/) | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/)
 > ### **A VOID DRENCHED BY NIGHT.**
 > ### **DARKER THAN THE MIND'S SHADOWS.**
 > ### **WITH LIFELESS COAL PULSE.**
@@ -68,14 +67,14 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 002-013)</b></summary>
 <br>
 
-#### 🔭 [ WASP-49 b ] | [ MANBA-SET 2019-02-09 ]
+#### 🔭 [ WASP-49 b ] | [ MANBA-SET 2019-02-09 ](https://apps.aavso.org/exosite/g/10171)| [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/)
 > ### **DECRYPTING SIGNAL...**
 > *Archival inquiry active // Literary synthesis in progress.*
 > — *Principal Investigator A. Moore*
 
 <br>
 
-#### 🔭 [ TrES-3 b ] | [ MANBA-SET 2011-08-24 ]
+#### 🔭 [ TrES-3 b ] | [ MANBA-SET 2022-03-16 ](https://apps.aavso.org/exosite/g/11122/) | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
 > ### **SIGNAL PENDING...**
 > *Telemetry verified // Awaiting descriptive capture.*
 > — *Principal Investigator A. Moore*
@@ -89,11 +88,10 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 </details>
 
-
 ---
 
-
 ## 📡 VERIFICATION & CREDENTIALS
+
 **OBSERVER IDENTIFICATION: MANBA**
 
 
