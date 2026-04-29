@@ -192,7 +192,7 @@ TECHNICAL ARCHIVIST NOTES:
 ---
 
 ### [ 🛰️ ARCHIVE_HUB ]
-**The Moore Signal Archive // Independent Inquiry Management**  
+**The Moore Signal Archive LLC // Independent Inquiry Management**  
 *Bridging the gap between digital code and physical reality.*
 
 **➡️ CONTACT:** [themoorearchive@proton.me](mailto:themoorearchive@proton.me)  
