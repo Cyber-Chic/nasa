@@ -55,35 +55,60 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🔭 [ TrES-2 b ] | [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056/) | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/)
+#### 🔭 [ TrES-2 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/)
 > ### **A VOID DRENCHED BY NIGHT.**
 > ### **DARKER THAN THE MIND'S SHADOWS.**
 > ### **WITH LIFELESS COAL PULSE.**
 > — *Descriptive Haiku // Principal Investigator A. Moore*
+>
+> **VERIFIED DATA:** [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056)
+
+<br>
+
+#### 🔭 [ WASP-12 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-12-b/)
+> ### **RAGING HOT FLAMES REIGN.**
+> ### **FURIOUSLY SCORCHING AIRS.**
+> ### **RULED BY PURE CHAOS.**
+> — *Descriptive Haiku // Principal Investigator A. Moore*
+>
+> **VERIFIED DATA:** [ MANBA-SET 2015-11-21 ](https://apps.aavso.org/exosite/g/11335)
 
 <br>
 
 <details>
-<summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 002-013)</b></summary>
+<summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 003-013)</b></summary>
 <br>
 
-#### 🔭 [ WASP-49 b ] | [ MANBA-SET 2019-02-09 ](https://apps.aavso.org/exosite/g/10171)| [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/)
+#### 🔭 [ TrES-3 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/))
+> ### **SIGNAL PENDING...**
+> *Telemetry verified (3 Observations) // Awaiting descriptive capture.*
+> — *Principal Investigator A. Moore*
+>
+> **VERIFIED DATA:** [ 2011-08-24 ](https://apps.aavso.org/exosite/g/9996) • [ 2014-06-22 ](https://apps.aavso.org/exosite/g/10889) • [ 2022-03-16 ](https://apps.aavso.org/exosite/g/11122)
+
+<br>
+
+#### 🔭 [ WASP-49 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b)
 > ### **DECRYPTING SIGNAL...**
 > *Archival inquiry active // Literary synthesis in progress.*
 > — *Principal Investigator A. Moore*
+>
+> **VERIFIED DATA:** [ MANBA-SET 2019-02-09 ](https://apps.aavso.org/exosite/g/10171)
 
 <br>
 
-#### 🔭 [ TrES-3 b ] | [ MANBA-SET 2022-03-16 ](https://apps.aavso.org/exosite/g/11122/) | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
+#### 🔭 [ WASP-52 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/)
 > ### **SIGNAL PENDING...**
-> *Telemetry verified // Awaiting descriptive capture.*
+> *Telemetry verified (2 Observations) // Decryption queued.*
 > — *Principal Investigator A. Moore*
+>
+> **VERIFIED DATA:** [ 2015-11-19 ](https://apps.aavso.org/exosite/g/11239) • [ 2020-10-20 ](https://apps.aavso.org/exosite/g/10772)
 
 <br>
 
-#### 🔭 [ ADDITIONAL TARGETS ] | [ ARCHIVE BLOCKS 004-013 ]
+#### 🔭 [ ADDITIONAL TARGETS ] | [ QATAR-2 b | TrES-5 b | WASP-10 b | WASP-140 b ]
 > ### **DATA ENCRYPTED.**
-> *Awaiting interdisciplinary decryption for remaining MANBA sets.*
+> *Multiple MANBA telemetry blocks awaiting interdisciplinary decryption.*
 > — *Principal Investigator A. Moore*
 
 </details>
@@ -91,23 +116,15 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 ---
 
 ## 📡 VERIFICATION & CREDENTIALS
-
 **OBSERVER IDENTIFICATION: MANBA**
 
 
 | RESOURCE | DESCRIPTION | LINK |
 | :--- | :--- | :--- |
-| **JOINT SCOPES** | NASA & AAVSO Partnership Briefing | [VIEW BRIEF](https://www.aavso.org/exoplanet-watch-pr) |
-| **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA](https://apps.aavso.org/exosite/?obscode=Manba&in_notes=&star_name=&exoplanet_name=&start_date=&end_date=&results_per_page=&search=true) |
-| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW PROFILE](https://www.aavso.org/users/angelamoore) |
+| **JOINT SCOPES** | NASA & AAVSO Partnership Briefing | [VIEW BRIEF](https://google.com) |
+| **MASTER LOGS** | **Full RAW MANBA Telemetry (All Records)** | [ACCESS DATA](https://aavso.org) |
+| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW PROFILE](https://google.com) |
 
-<br>
-
-> **🚀 MISSION OBJECTIVE: RESEARCH CONTRIBUTION**  
-> *Leveraging a multi-disciplinary trajectory—from the MANBA exoplanet data sets to current Zooniverse deep-space inquiries—the Archive remains dedicated to contributing high-fidelity data to the scientific community. The long-term goal is to secure Co-Investigator (Co-I) status within the peer-reviewed astronomical record.*
-
-
----
 
 ## 🛰️ RESEARCH FREQUENCY: TRANSITIONED
 **STATUS: ACTIVE // DEEP-SPACE INQUIRY**
