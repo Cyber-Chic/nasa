@@ -46,7 +46,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 ### 🌌 [ EXOPLANETARY OVERVIEWS ]
-> [ **TrES-3 b** ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/) • [ **TrES-2 b** ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/) • [ **Qatar-2 b** ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/) • [ **TrES-5 b** ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/) • [ **WASP-49 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/)
+> [ **TrES-2 b** ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/) • [ **TrES-3 b** ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/) • [ **TrES-5 b** ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/) • [ **Qatar-2 b** ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/) • [ **WASP-10 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-10-b/) • [ **WASP-12 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-12-b/) • [ **WASP-49 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/) • [ **WASP-52 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/) • [ **WASP-140 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-140-b/)
 
 ---
 
@@ -79,7 +79,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 003-013)</b></summary>
 <br>
 
-#### 🔭 [ TrES-3 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/))
+#### 🔭 [ TrES-3 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
 > ### **SIGNAL PENDING...**
 > *Telemetry verified (3 Observations) // Awaiting descriptive capture.*
 > — *Principal Investigator A. Moore*
@@ -106,10 +106,32 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🔭 [ ADDITIONAL TARGETS ] | [ QATAR-2 b | TrES-5 b | WASP-10 b | WASP-140 b ]
-> ### **DATA ENCRYPTED.**
-> *Multiple MANBA telemetry blocks awaiting interdisciplinary decryption.*
-> — *Principal Investigator A. Moore*
+#### 🔭 [ TrES-5 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/)
+> ### **SIGNAL PENDING...**
+> *Telemetry verified (2 Observations) // Awaiting decryption.*
+>
+> **VERIFIED DATA:** [ 2013-04-15 ](https://apps.aavso.org/exosite/g/10123) • [ 2019-05-07 ](https://apps.aavso.org/exosite/g/11576)
+
+<br>
+
+#### 🔭 [ Qatar-2 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/)
+> ### **SIGNAL PENDING...**
+>
+> **VERIFIED DATA:** [ 2021-05-16 ](https://apps.aavso.org/exosite/g/10078)
+
+<br>
+
+#### 🔭 [ WASP-10 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-10-b/)
+> ### **SIGNAL PENDING...**
+>
+> **VERIFIED DATA:** [ 2011-11-23 ](https://apps.aavso.org/exosite/g/11612)
+
+<br>
+
+#### 🔭 [ WASP-140 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-140-b/)
+> ### **SIGNAL PENDING...**
+>
+> **VERIFIED DATA:** [ 2021-10-25 ](https://apps.aavso.org/exosite/g/11686)
 
 </details>
 
