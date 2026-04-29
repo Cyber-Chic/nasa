@@ -179,10 +179,10 @@ TECHNICAL ARCHIVIST NOTES:
 **SUBMISSION GUIDELINES:**
 
 *   **01 // PROPRIETARY DATASETS (MANBA)**  
-    The MANBA Archival Sets represent a closed-loop research pipeline curated by **The Moore Signal Archive**. Requests for the utilization or publication of these specific transit reports require a formal **Institutional Request**. Please include project scope and professional affiliation.
+    The MANBA Archival Sets represent a closed-loop research pipeline curated by **The Moore Signal Archive LLC**. Requests for the utilization or publication of these specific transit reports require a formal **Institutional Request**. Please include project scope and professional affiliation.
 
 *   **02 // OPEN-SCIENCE CONTRIBUTIONS (ZOONIVERSE)**  
-    Historical contributions (archived under observer handle: **The Moore Signal Archive**) will be transitioned into the (pending) **LLC stewardship framework** for long-term signal persistence. While raw classifications contribute to the public record, the **analytical synthesis** and **archival documentation** remain the proprietary work of the Archive.
+    Historical contributions (archived under observer handle: **The Moore Signal Archive**) will be transitioned into **The Moore Signal Archive LLC stewardship framework** for long-term signal persistence. While raw classifications contribute to the public record, the **analytical synthesis** and **archival documentation** remain the proprietary work of the Archive.
 
 *   **03 // STRATEGIC HANDSHAKE**  
     Please initiate the submission protocol via the secure email directory below. Inquiries are vetted for alignment with current Archive mission parameters.
@@ -217,6 +217,6 @@ TECHNICAL ARCHIVIST NOTES:
 <br>
 
 > **📡 ARCHIVAL NOTICE // NON-ENDORSEMENT PROTOCOL**  
-> *Imagery and data provided courtesy of NASA/JPL-Caltech and various open-science missions. **The Moore Signal Archive** is an independent scientific inquiry firm. Use of this data is for educational and portfolio purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with NASA or the U.S. Government.*
+> *Imagery and data provided courtesy of NASA/JPL-Caltech and various open-science missions. **The Moore Signal Archive LLC** is an independent scientific inquiry firm. Use of this data is for educational and portfolio purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with NASA or the U.S. Government.*
 
 **SIGNAL STATUS: 🟢 NOMINAL**
