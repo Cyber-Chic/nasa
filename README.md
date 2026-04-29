@@ -75,17 +75,16 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-<details>
-<summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 003-013)</b></summary>
-<br>
-
 #### 🔭 [ TrES-3 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
-> ### **SIGNAL PENDING...**
-> *Telemetry verified (3 Observations) // Awaiting descriptive capture.*
-> — *Principal Investigator A. Moore*
->
+> ### **SPINNING AT TOP SPEEDS.**
+> ### **HURLING ROUND THE GALAXY.**
+> ### **TRANSENDING TIME'S SAND.**
 > **VERIFIED DATA:** [ 2011-08-24 ](https://apps.aavso.org/exosite/g/9996) • [ 2014-06-22 ](https://apps.aavso.org/exosite/g/10889) • [ 2022-03-16 ](https://apps.aavso.org/exosite/g/11122)
 
+<br>
+
+<details>
+<summary>📂 <b>CLICK TO EXPAND: FULL ARCHIVAL GALLERY (SETS 003-013)</b></summary>
 <br>
 
 #### 🔭 [ WASP-49 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b)
