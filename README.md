@@ -1,17 +1,27 @@
 `[ IDENTIFIER: THE MOORE SIGNAL ] [ CLASSIFICATION: RESEARCH ] [ STATUS: NOMINAL ]`
 
-
 # 🛰️ NASA RESEARCH // THE MOORE SIGNAL
 > **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
 > **DISCLAIMER:** *This is an independent scientific inquiry. Imagery and data provided courtesy of NASA/JPL-Caltech. The Moore Signal Archive is an independent inquiry firm and is not affiliated with or endorsed by NASA.*
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a" width="100%" alt="Exoplanet Watch Header">
-</p>
+### 🛰️ [ MSVI-003 ] // DEEP-SPACE TELEMETRY AUDIT
+**AUDIT TYPE: INFORMATIONAL**
 
-<br>
+> [!TIP]
+> **VERIFICATION NOTE:** This node tracks the long-term observation of exoplanetary transits. It serves as a visual and technical log of signal persistence within the NASA Exoplanet Watch ecosystem.
+
+
+
+| METRIC | DATA POINT |
+| :--- | :--- |
+| **OFFICIAL_RECORD** | [AAVSO Observer Hub: MANBA](https://www.aavso.org/users/angelamoore) |
+| **SEVERITY** | 🔵 INFO |
+| **METHODOLOGY** | EXOTIC Python Pipeline / Photometry |
+| **PI_STATUS** | VETTED (NASA CITIZEN SCIENTIST) |
+
+---
 
 ## 🔭 THE INQUIRY: EXOPLANET WATCH
 Exoplanet Watch is a citizen science project by NASA that allows participants to gather and analyze exoplanet data, contributing findings to a national database.
