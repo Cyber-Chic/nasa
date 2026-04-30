@@ -1,3 +1,6 @@
+`[ IDENTIFIER: THE MOORE SIGNAL ] [ CLASSIFICATION: RESEARCH ] [ STATUS: NOMINAL ]`
+
+
 # 🛰️ NASA RESEARCH // THE MOORE SIGNAL
 > **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
 > **DISCLAIMER:** *This is an independent scientific inquiry. Imagery and data provided courtesy of NASA/JPL-Caltech. The Moore Signal Archive is an independent inquiry firm and is not affiliated with or endorsed by NASA.*
