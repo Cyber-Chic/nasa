@@ -6,20 +6,15 @@
 
 ---
 
-### 📡 [ MSVI_LOG ] // SYSTEM AUDIT DATA
-**AUDIT TYPE: INDEPENDENT INQUIRY**
+### 📡 [ MSVI_LOG // SYSTEM AUDIT ]
+
+| ARCHIVAL METRIC | SYSTEM DATA | PI CREDENTIALS |
+| :--- | :--- | :--- |
+| **RESEARCH_NODE** | `[ ARCHIVE_ACTIVE ]` | NYT_AD / MILLI_AWARD |
+| **AUDIT_SEVERITY** | 🔵 INFORMATIONAL | [LLC_FRAMEWORK_VETTED] |
 
 > [!TIP]
-> **FIELD NOTE:** This repository serves as a verified Node in the Moore Signal Archive LLC. It tracks the persistence of a specific research signal across digital and physical frameworks.
-
-
-
-| ARCHIVAL METRIC | SYSTEM DATA |
-| :--- | :--- |
-| **RESEARCH_NODE** | [ ARCHIVE_ACTIVE ] |
-| **AUDIT_SEVERITY** | 🔵 INFORMATIONAL |
-| **DATA_INTEGRITY** | VETTED (LLC_FRAMEWORK) |
-| **PI_CREDENTIALS** | NYT_AD / MILLI_AWARD |
+> **FIELD NOTE:** This repository tracks the persistence of specific research signals across digital and physical frameworks as a verified node in the Moore Signal Archive.
 
 ---
 
