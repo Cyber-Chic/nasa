@@ -6,20 +6,20 @@
 
 ---
 
-### 🛰️ [ MSVI-003 ] // DEEP-SPACE TELEMETRY AUDIT
+### 🛰️ [ MSVI-NODE ] // SYSTEM AUDIT LOG
 **AUDIT TYPE: INFORMATIONAL**
 
 > [!TIP]
-> **VERIFICATION NOTE:** This node tracks the long-term observation of exoplanetary transits. It serves as a visual and technical log of signal persistence within the NASA Exoplanet Watch ecosystem.
+> **VERIFICATION NOTE:** This node represents an independent inquiry within the Moore Signal Archive. It is maintained for archival persistence and interdisciplinary research.
 
 
 
 | METRIC | DATA POINT |
 | :--- | :--- |
-| **OFFICIAL_RECORD** | [AAVSO Observer Hub: MANBA](https://www.aavso.org/users/angelamoore) |
+| **NODE_ID** | [INSERT_REPO_NAME] |
 | **SEVERITY** | 🔵 INFO |
-| **METHODOLOGY** | EXOTIC Python Pipeline / Photometry |
-| **PI_STATUS** | VETTED (NASA CITIZEN SCIENTIST) |
+| **METHODOLOGY** | ARCHIVAL_CURATION / DATA_SYNTHESIS |
+| **PI_STATUS** | VETTED (NYT / THE MOORE SIGNAL ARCHIVE LLC) |
 
 ---
 
