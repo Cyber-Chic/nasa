@@ -1,27 +1,14 @@
-`[ IDENTIFIER: THE MOORE SIGNAL ] [ CLASSIFICATION: RESEARCH ] [ STATUS: NOMINAL ]`
-
 # 🛰️ NASA RESEARCH // THE MOORE SIGNAL
 > **PRINCIPAL INVESTIGATOR: ANGELA N. MOORE**  
-> **DISCLAIMER:** *This is an independent scientific inquiry. Imagery and data provided courtesy of NASA/JPL-Caltech. The Moore Signal Archive LLC is an independent inquiry firm and is not affiliated with or endorsed by NASA.*
+> **DISCLAIMER:** *This is an independent scientific inquiry. Imagery and data provided courtesy of NASA/JPL-Caltech. The Moore Signal Archive is an independent inquiry firm and is not affiliated with or endorsed by NASA.*
 
 ---
 
-### 📡 [ MSVI_LOG ] // SYSTEM AUDIT DATA
-**AUDIT TYPE: INDEPENDENT INQUIRY**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f1847e83-7011-45f8-b8e1-5218ccd9243a" width="100%" alt="Exoplanet Watch Header">
+</p>
 
-> [!TIP]
-> **FIELD NOTE:** This repository serves as a verified Node in the Moore Signal Archive LLC. It tracks the persistence of a specific research signal across digital and physical frameworks.
-
-
-
-| ARCHIVAL METRIC | SYSTEM DATA |
-| :--- | :--- |
-| **RESEARCH_NODE** | [ ARCHIVE_ACTIVE ] |
-| **AUDIT_SEVERITY** | 🔵 INFORMATIONAL |
-| **DATA_INTEGRITY** | VETTED (LLC_FRAMEWORK) |
-| **PI_CREDENTIALS** | NYT_AD / MILLI_AWARD |
-
----
+<br>
 
 ## 🔭 THE INQUIRY: EXOPLANET WATCH
 Exoplanet Watch is a citizen science project by NASA that allows participants to gather and analyze exoplanet data, contributing findings to a national database.
