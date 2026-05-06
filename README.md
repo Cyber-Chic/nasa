@@ -46,7 +46,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 ### 🌌 [ EXOPLANETARY OVERVIEWS ]
-> [ **TrES-2 b** ](https://science.nasa.gov/exoplanet-catalog/tres-2-b/) • [ **TrES-3 b** ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/) • [ **TrES-5 b** ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/) • [ **Qatar-2 b** ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/) • [ **WASP-10 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-10-b/) • [ **WASP-12 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-12-b/) • [ **WASP-49 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/) • [ **WASP-52 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/) • [ **WASP-140 b** ](https://science.nasa.gov/exoplanet-catalog/wasp-140-b/)
+> [**TrES-2 b**](https://science.nasa.gov/exoplanet-catalog/tres-2-b/) • [**TrES-3 b**](https://science.nasa.gov/exoplanet-catalog/tres-3-b/) • [**TrES-5 b**](https://science.nasa.gov/exoplanet-catalog/tres-5-b/) • [**Qatar-2 b**](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/) • [**WASP-10 b**](https://science.nasa.gov/exoplanet-catalog/wasp-10-b/) • [**WASP-12 b**](https://science.nasa.gov/exoplanet-catalog/wasp-12-b/) • [**WASP-49 b**](https://science.nasa.gov/exoplanet-catalog/wasp-49-b/) • [**WASP-52 b**](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/) • [**WASP-140 b**](https://science.nasa.gov/exoplanet-catalog/wasp-140-b/)
 
 ---
 
@@ -61,7 +61,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 > ### **WITH LIFELESS COAL PULSE.**
 > — *Descriptive Haiku // Principal Investigator A. Moore*
 >
-> **VERIFIED DATA:** [ MANBA-SET 2021-05-26 ](https://apps.aavso.org/exosite/g/10056)
+> **VERIFIED DATA:** [MANBA-SET 2021-05-26](https://apps.aavso.org/exosite/g/10056)
 
 <br>
 
@@ -71,7 +71,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 > ### **RULED BY PURE CHAOS.**
 > — *Descriptive Haiku // Principal Investigator A. Moore*
 >
-> **VERIFIED DATA:** [ MANBA-SET 2015-11-21 ](https://apps.aavso.org/exosite/g/11335)
+> **VERIFIED DATA:** [MANBA-SET 2015-11-21](https://apps.aavso.org/exosite/g/11335)
 
 <br>
 
@@ -79,7 +79,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 > ### **SPINNING AT TOP SPEEDS.**
 > ### **HURLING ROUND THE GALAXY.**
 > ### **TRANSENDING TIME'S SAND.**
-> **VERIFIED DATA:** [ 2011-08-24 ](https://apps.aavso.org/exosite/g/9996) • [ 2014-06-22 ](https://apps.aavso.org/exosite/g/10889) • [ 2022-03-16 ](https://apps.aavso.org/exosite/g/11122)
+> **VERIFIED DATA:** [2011-08-24](https://apps.aavso.org/exosite/g/9996) • [2014-06-22](https://apps.aavso.org/exosite/g/10889) • [2022-03-16](https://apps.aavso.org/exosite/g/11122)
 
 <br>
 
@@ -90,54 +90,48 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 #### 🔭 [ WASP-49 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-49-b)
 > ### **DECRYPTING SIGNAL...**
 > *Archival inquiry active // Literary synthesis in progress.*
-> — *Principal Investigator A. Moore*
 >
-> **VERIFIED DATA:** [ MANBA-SET 2019-02-09 ](https://apps.aavso.org/exosite/g/10171)
+> **VERIFIED DATA:** [MANBA-SET 2019-02-09](https://apps.aavso.org/exosite/g/10171)
 
 <br>
 
 #### 🔭 [ WASP-52 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/)
 > ### **SIGNAL PENDING...**
 > *Telemetry verified (2 Observations) // Decryption queued.*
-> — *Principal Investigator A. Moore*
 >
-> **VERIFIED DATA:** [ 2015-11-19 ](https://apps.aavso.org/exosite/g/11239) • [ 2020-10-20 ](https://apps.aavso.org/exosite/g/10772)
+> **VERIFIED DATA:** [2015-11-19](https://apps.aavso.org/exosite/g/11239) • [2020-10-20](https://apps.aavso.org/exosite/g/10772)
 
 <br>
 
 #### 🔭 [ TrES-5 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-5-b/)
 > ### **SIGNAL PENDING...**
-> *Telemetry verified (2 Observations) // Awaiting decryption.*
+> *Historical observation archived // Awaiting interdisciplinary synthesis.*
 >
-> **VERIFIED DATA:** [ 2013-04-15 ](https://apps.aavso.org/exosite/g/10123) • [ 2019-05-07 ](https://apps.aavso.org/exosite/g/11576)
-
-<br>
-
-#### 🔭 [ Qatar-2 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/qatar-2-b/)
-> ### **SIGNAL PENDING...**
->
-> **VERIFIED DATA:** [ 2021-05-16 ](https://apps.aavso.org/exosite/g/10078)
-
-<br>
-
-#### 🔭 [ WASP-10 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-10-b/)
-> ### **SIGNAL PENDING...**
->
-> **VERIFIED DATA:** [ 2011-11-23 ](https://apps.aavso.org/exosite/g/11612)
-
-<br>
-
-#### 🔭 [ WASP-140 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-140-b/)
-> ### **SIGNAL PENDING...**
->
-> **VERIFIED DATA:** [ 2021-10-25 ](https://apps.aavso.org/exosite/g/11686)
+> **VERIFIED DATA:** [2013-04-15](https://apps.aavso.org/exosite/g/10123) • [2019-05-07](https://apps.aavso.org/exosite/g/11576)
 
 </details>
 
 ---
 
+## 🛰️ SIGNAL GUARDIANS // COLLABORATIVE ARCHIVE
+**MISSION LOG: // NAVIGATORS**
+
+The following navigators provided intentional observations during our archival briefings. By matching a **single-word frequency** to a specific **target orbit**, they help manifest the research cycle.
+
+
+| NAVIGATOR | TARGET ANALYZED | SIGNAL LENGTH | DECRYPTED HAIKU | EVENT HUB |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Navigator Handle]** | TBD | 1 WORD | *Synthesis Pending* | CT TECH WEEK |
+| **[Navigator Handle]** | TBD | 1 WORD | *Synthesis Pending* | CT TECH WEEK |
+
+> [!TIP]
+> **PI NOTE:** The "Single-Word Protocol" ensures the highest signal-to-noise ratio. Each word acts as the anchor for a future Descriptive Haiku.
+
+---
+
 ## 📡 VERIFICATION & CREDENTIALS
 **OBSERVER IDENTIFICATION: MANBA**
+
 
 
 | RESOURCE | DESCRIPTION | LINK |
