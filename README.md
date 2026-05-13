@@ -119,8 +119,8 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 #### 🌌 [ NODAL ANALYSIS: DATASET #001 ] | [ 📂 PROJECT PORTAL ](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet)
-> ### **CRAZY FLASH OF LIGHT!**
-> ### **WITH RAYS THAT BURST ROUND -**
+> ### **CRAZY FLASHING LIGHT!**
+> ### **WITH RAYS BURSTING ROUND -**
 > ### **ECLIPSING THE SCENE...**
 > *Phenomena: Deep Space Analysis // Word: Captivated // Data reduction verified.*
 >
