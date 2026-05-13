@@ -109,6 +109,41 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 >
 > **VERIFIED DATA:** [2013-04-15](https://apps.aavso.org/exosite/g/10123) • [2019-05-07](https://apps.aavso.org/exosite/g/11576)
 
+---
+
+<br>
+
+#### 🛰️ [ CITIZEN SCIENCE: ZOONIVERSE DISPATCHES ]
+*Active classifications recorded via global citizen science nodes.*
+
+<br>
+
+#### 🌌 [ NODAL ANALYSIS: DATASET #001 ] | [ 📂 PROJECT PORTAL ](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet)
+> ### **CRAZY FLASH OF LIGHT!**
+> ### **WITH RAYS THAT BURST ROUND -**
+> ### **ECLIPSING THE SCENE...**
+> *Phenomena: Deep Space Analysis // Word: Captivated // Data reduction verified.*
+>
+> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 105418882)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)
+
+<br>
+
+#### 🌌 [ NODAL ANALYSIS: DATASET #002 ] | [ 📂 PROJECT PORTAL ](https://zooniverse.org)
+> ### **DECRYPTING SIGNAL...**
+> *Phenomena: Deep Space Analysis // Telemetry archived // Synthesis pending.*
+>
+> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 000000)](https://zooniverse.org)
+
+<br>
+
+#### 🌌 [ NODAL ANALYSIS: DATASET #003 ] | [ 📂 PROJECT PORTAL ](https://zooniverse.org)
+> ### **SIGNAL PENDING...**
+> *Phenomena: Deep Space Analysis // Classification queued // Awaiting entry.*
+>
+> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 000000)](https://zooniverse.org)
+
+<br>
+
 </details>
 
 ---
