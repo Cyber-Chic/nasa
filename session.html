@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Moore Signal Archive - Session Itinerary</title>
+    <style>
+        @import url('https://googleapis.com');
+        
+        :root {
+            --space-black: #0D0E12;
+            --cosmic-gray: #1E2028;
+            --starlight: #F4F5F7;
+            --laser-orange: #FF5A36;
+            --muted-text: #8A90A6;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Space Grotesk', sans-serif;
+            background-color: white;
+            color: var(--space-black);
+            line-height: 1.4;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        /* Optimized for a single sheet print */
+        .itinerary-card {
+            width: 100%;
+            max-width: 800px;
+            min-height: 10.5in; /* Forces a standard letter ratio roughly */
+            padding: 40px;
+            background: white;
+            position: relative;
+        }
+
+        /* Document Border Frame */
+        .frame {
+            border: 2px solid var(--space-black);
+            padding: 30px;
+            height: 100%;
+            position: relative;
+        }
+
+        header {
+            border-bottom: 2px dashed var(--space-black);
+            padding-bottom: 20px;
+            margin-bottom: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .title-area h1 {
+            font-size: 24px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 4px;
+        }
+
+        .title-area p {
+            font-family: 'Courier Prime', monospace;
+            font-size: 13px;
+            color: #444;
+        }
+
+        .meta-box {
+            text-align: right;
+            font-family: 'Courier Prime', monospace;
+            font-size: 12px;
+            border-left: 2px solid var(--space-black);
+            padding-left: 15px;
+        }
+
+        .meta-box strong {
+            display: block;
+            text-transform: uppercase;
+            font-family: 'Space Grotesk', sans-serif;
+            font-size: 13px;
+        }
+
+        /* Timeline Blocks */
+        .timeline {
+            margin-bottom: 30px;
+        }
+
+        .time-block {
+            display: flex;
+            margin-bottom: 18px;
+            page-break-inside: avoid;
+        }
+
+        .time-col {
+            font-family: 'Courier Prime', monospace;
+            font-size: 15px;
+            font-weight: bold;
+            min-width: 140px;
+            border-right: 2px solid var(--space-black);
+            padding-right: 15px;
+            margin-right: 20px;
+            display: flex;
+            align-items: flex-start;
+            padding-top: 2px;
+        }
+
+        .content-col h3 {
+            font-size: 16px;
+            font-weight: 700;
+            text-transform: uppercase;
+            margin-bottom: 4px;
+        }
+
+        .content-col p {
+            font-size: 14px;
+            color: #333;
+            margin-bottom: 6px;
+        }
+
+        .tags {
+            display: flex;
+            gap: 8px;
+        }
+
+        .tag {
+            font-family: 'Courier Prime', monospace;
+            font-size: 11px;
+            background: #EEEEEE;
+            padding: 2px 8px;
+            border: 1px solid #CCC;
+            border-radius: 3px;
+            text-transform: uppercase;
+        }
+
+        .tag.interactive {
+            background: #FFF3F0;
+            border-color: var(--laser-orange);
+            color: #D32F2F;
+        }
+
+        /* Footer Haiku Section */
+        footer {
+            border-top: 2px solid var(--space-black);
+            padding-top: 20px;
+            margin-top: 25px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .haiku-box {
+            font-family: 'Courier Prime', monospace;
+            font-style: italic;
+            font-size: 14px;
+            line-height: 1.6;
+            border-left: 3px solid var(--space-black);
+            padding-left: 15px;
+            max-width: 60%;
+        }
+
+        .footer-note {
+            font-size: 11px;
+            text-align: right;
+            max-width: 35%;
+            color: #555;
+        }
+
+        /* Print Override Styles */
+        @media print {
+            body {
+                background: white;
+                color: black;
+                padding: 0;
+            }
+            .itinerary-card {
+                padding: 0;
+                width: 100%;
+                max-width: 100%;
+            }
+            .tag {
+                background: none !important;
+                border: 1px solid black !important;
+                color: black !important;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="itinerary-card">
+    <div class="frame">
+        
+        <header>
+            <div class="title-area">
+                <h1>The Moore Signal Archive</h1>
+                <p>// A Pop-Up Research Node • CT Tech Week</p>
+            </div>
+            <div class="meta-box">
+                <strong>Session Briefing</strong>
+                Date: Tuesday, June 2nd<br>
+                Host: Angela N. Moore, PI<br>
+                Location: MakeHaven Space
+            </div>
+        </header>
+
+        <div class="timeline">
+            
+            <!-- Block 1 -->
+            <div class="time-block">
+                <div class="time-col">11:00 - 12:00</div>
+                <div class="content-col">
+                    <h3>Node Calibration & Setup</h3>
+                    <p>Early check-in opens. Secure your reference materials and documentation layout packets at the research table.</p>
+                    <div class="tags">
+                        <span class="tag">Host Only</span>
+                        <span class="tag">Laser Test Burns</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Block 2 -->
+            <div class="time-block">
+                <div class="time-col">12:00 - 12:15</div>
+                <div class="content-col">
+                    <h3>Intro: Signals into Syllables</h3>
+                    <p>Briefing from Principal Investigator Angela N. Moore. Translating deep space dataset patterns into contemporary haiku art. An inside look at independent data tracking.</p>
+                    <div class="tags">
+                        <span class="tag">Presentation</span>
+                        <span class="tag">Citizen Science Overview</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Block 3 -->
+            <div class="time-block">
+                <div class="time-col">12:15 - 12:35</div>
+                <div class="content-col">
+                    <h3>Active Exploration & Target Selection</h3>
+                    <p>Scan the digital Emaze Hub QR portal or browse the physical Planet Booklet. Review unfamiliar, unstudied exoplanet indices (like Kepler and TOI targets) rather than legacy worlds.</p>
+                    <div class="tags">
+                        <span class="tag interactive">Interactive</span>
+                        <span class="tag">QR Portal</span>
+                        <span class="tag">Physical Clip Sheets</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Block 4 -->
+            <div class="time-block">
+                <div class="time-col">12:35 - 12:55</div>
+                <div class="content-col">
+                    <h3>Data Entry & Live Laser Engraving</h3>
+                    <p>Log your chosen target planet and a single-word visceral response on the physical intake slip. Watch the badged operator vaporize the matte token matrix live to reveal your custom token artifact.</p>
+                    <div class="tags">
+                        <span class="tag interactive">Fabrication</span>
+                        <span class="tag">Artifact Handout</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Block 5 -->
+            <div class="time-block">
+                <div class="time-col">12:55 - 1:00</div>
+                <div class="content-col">
+                    <h3>Archival Intake & Wrap Up</h3>
+                    <p>Physical intake forms are systematically collected for post-event digital portfolio archiving. Your selected words will officially serve as core inspiration blocks for upcoming archive poetry.</p>
+                    <div class="tags">
+                        <span class="tag">Data Archive</span>
+                        <span class="tag">Closing</span>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <footer>
+            <div class="haiku-box">
+                Exploring planets,<br>
+                Mysterious worlds that dwell,<br>
+                Beyond the hand's reach.
+            </div>
+            <div class="footer-note">
+                <strong>Project Transparency:</strong> This independent initiative utilizes public domain data nodes. Not officially affiliated with or endorsed by NASA. All core logistics run via The Moore Signal Archive LLC.
+            </div>
+        </footer>
+
+    </div>
+</div>
+
+</body>
+</html>
