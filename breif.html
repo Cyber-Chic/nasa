@@ -2,36 +2,62 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TMA - Vetted Exoplanet Dispatch</title>
+    <!-- IMPORTING INSTALLED INSTITUTIONAL FONTS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://gstatic.com" crossorigin>
+    <link href="https://googleapis.com" rel="stylesheet">
+    
     <style>
-        @import url('https://googleapis.com');
-
         body {
             font-family: 'Space Mono', monospace;
-            line-height: 1.4;
+            line-height: 1.5;
             color: #1a1a1a;
             max-width: 850px;
             margin: auto;
             padding: 30px;
+            background-color: #ffffff;
         }
 
         header {
             text-align: center;
             border: 2px solid #000;
-            padding: 15px;
+            padding: 20px;
             margin-bottom: 30px;
         }
 
-        h1 { text-transform: uppercase; letter-spacing: 3px; margin: 0; font-size: 1.5rem; }
-        .pi-sub { font-size: 0.8rem; margin-top: 5px; font-weight: bold; }
+        h1 { 
+            text-transform: uppercase; 
+            letter-spacing: 3px; 
+            margin: 0; 
+            font-size: 1.6rem; 
+            font-weight: 700;
+        }
+        
+        .pi-sub { 
+            font-size: 0.8rem; 
+            margin-top: 8px; 
+            font-weight: bold; 
+            letter-spacing: 1px;
+        }
+
+        .mission-brief {
+            font-size: 0.85rem;
+            margin-bottom: 25px;
+            border-left: 3px solid #000;
+            padding-left: 15px;
+        }
 
         .section-title {
             background: #000;
             color: #fff;
-            padding: 5px 10px;
+            padding: 6px 12px;
             text-transform: uppercase;
-            font-size: 0.9rem;
-            margin: 25px 0 15px 0;
+            font-size: 0.85rem;
+            margin: 30px 0 15px 0;
+            letter-spacing: 2px;
+            font-weight: bold;
         }
 
         /* Haiku Gallery Styling */
@@ -42,37 +68,69 @@
         }
 
         .haiku-card {
-            border: 1px solid #333;
+            border: 1px solid #1a1a1a;
             padding: 15px;
-            position: relative;
+            background: #fafafa;
         }
 
         .haiku-card h3 {
             margin: 0 0 10px 0;
             font-size: 0.8rem;
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+            letter-spacing: 1px;
         }
 
         .haiku-text {
             font-family: 'Playfair Display', serif;
             font-style: italic;
-            font-size: 0.95rem;
-            margin-bottom: 10px;
-            line-height: 1.2;
+            font-size: 1.05rem;
+            margin-bottom: 12px;
+            line-height: 1.3;
+            color: #000;
         }
 
-        .haiku-meta { font-size: 0.65rem; color: #555; }
+        .haiku-meta { 
+            font-size: 0.65rem; 
+            color: #555; 
+            font-weight: bold;
+        }
 
         /* Data Table Styling */
         table {
             width: 100%;
             border-collapse: collapse;
             font-size: 0.75rem;
-            margin-top: 10px;
+            margin-top: 15px;
         }
 
-        th { background: #f0f0f0; text-align: left; }
-        th, td { border: 1px solid #ccc; padding: 6px; }
+        th { 
+            background: #1a1a1a; 
+            color: #fff;
+            text-align: left; 
+            padding: 8px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        td { 
+            border: 1px solid #ccc; 
+            padding: 8px; 
+        }
+        
+        tr:nth-child(even) {
+            background: #f9f9f9;
+        }
+
+        /* Technical Commentary Box */
+        .pipeline-note {
+            font-size: 0.75rem;
+            background: #f4f4f4;
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 20px 0;
+            line-height: 1.5;
+        }
 
         .qr-footer {
             margin-top: 40px;
@@ -83,32 +141,50 @@
         }
 
         .qr-box {
-            width: 100px;
-            height: 100px;
+            width: 105px;
+            height: 105px;
             border: 1px solid #000;
             display: flex;
             align-items: center;
             justify-content: center;
-            font-size: 0.5rem;
-            text-align: center;
+            padding: 5px;
+            background: #fff;
         }
 
-        .footer-text { flex: 1; padding-left: 20px; font-size: 0.7rem; }
+        .qr-box img {
+            display: block;
+            object-fit: contain;
+        }
+
+        .footer-text { 
+            flex: 1; 
+            padding-left: 20px; 
+            font-size: 0.75rem; 
+            line-height: 1.4;
+        }
+
+        @media (max-width: 600px) {
+            .haiku-grid { grid-template-columns: 1fr; }
+            .qr-footer { flex-direction: column; text-align: center; gap: 15px; }
+            .footer-text { padding-left: 0; }
+        }
 
         @media print {
             .no-print { display: none; }
-            body { padding: 10px; }
+            body { padding: 10px; font-size: 12pt; }
         }
     </style>
 </head>
 <body>
 
-<header>
+<header role="banner">
     <h1>THE MOORE SIGNAL ARCHIVE</h1>
     <div class="pi-sub">Principal Investigator: Angela N. Moore // MANBA OBSERVER ID</div>
 </header>
 
-<p style="font-size: 0.8rem;"><strong>MISSION BRIEF:</strong> Archiving exoplanetary signals through the EXOTIC pipeline. This dispatch merges astronomical telemetry with interdisciplinary micro-verse to capture the "Signal" of distant worlds.</p>
+<div class="mission-brief">
+    <p><strong>MISSION BRIEF:</strong> Archiving exoplanetary signals through the EXOTIC pipeline. This dispatch merges astronomical telemetry with interdisciplinary micro-verse to capture the "Signal" of distant worlds.</p>
+</div>
 
 <div class="section-title">📡 [ THE DESCRIPTIVE GALLERY ]</div>
 <div class="haiku-grid">
@@ -152,51 +228,50 @@
     </tbody>
 </table>
 
+<!-- PIPELINE PIPING COMMENTARY CONTAINER -->
+<div class="pipeline-note">
+    <strong>OPERATIONAL PIPELINE SUMMARY:</strong> We utilize Google Colab to run the EXOTIC pipeline. By plugging in raw astronomical data, we generate light-curves—visual measurements of a star's brightness over time. When a planet passes in front of its star, it blocks a tiny amount of light, creating a 'dip' in the curve. These dips allow researchers to calculate the planet's orbital period (year length) and atmospheric temperature.
+</div>
+
 <div class="section-title">🌍 [ SOCIAL IMPACT: GEOGRAPHIC INITIATIVES ]</div>
 
-    <!--  I utilize Google Colab to run the EXOTIC pipeline. By plugging in raw astronomical data, I generate light-curves—visual measurements of a star's brightness over time. When a planet passes in front of its star, it blocks a tiny amount of light, creating a 'dip' in the curve. These dips allow researchers to calculate the planet's orbital period (year length) and atmospheric temperature.-->
-
-
-<p style="font-size: 0.75rem; margin-bottom: 15px; font-style: italic;">
+<p style="font-size: 0.75rem; margin-bottom: 15px; font-style: italic; line-height: 1.5;">
     <strong>Scope Note:</strong> While The Moore Signal Archive LLC is a broad hub for interdisciplinary inquiries, this session features our <strong>NASA Citizen Science</strong> research, artistic translations, and a brief footnote on our physical community dispatches.
 </p>
 
 <!-- Feature: NASA -->
-<p style="font-size: 0.75rem;">
+<p style="font-size: 0.75rem; margin-bottom: 15px; line-height: 1.5;">
     <strong>PRIMARY FEATURE: NASA CITIZEN SCIENCE</strong><br>
     Forging impact beyond our solar system by examining the vast environment of the "Deep Space" universe. We utilize <strong>Exoplanet Watch</strong> and <strong>Zooniverse</strong> data sets to broaden our collective understanding of distant worlds.
 </p>
 
 <!-- Self-Guided Points -->
-<div style="font-size: 0.7rem; background: #f9f9f9; padding: 10px; border: 1px dashed #ccc; margin: 15px 0;">
+<div style="font-size: 0.75rem; background: #fbfbfb; padding: 12px; border: 1px dashed #1a1a1a; margin: 15px 0;">
     <strong>TALKING POINTS / INQUIRY NODES:</strong>
-    <ul style="margin: 5px 0; padding-left: 20px;">
+    <ul style="margin: 8px 0 0 0; padding-left: 20px; line-height: 1.6;">
         <li>Case Study: Processing planetary transits via the NASA EXOTIC pipeline.</li>
         <li>Active Inquiry: How to join ongoing Zooniverse missions today.</li>
         <li>Translating stellar light-curves into "Descriptive Haikus."</li>
     </ul>
 </div>
 
-
 <!-- Footnote: TMA -->
-<p style="font-size: 0.75rem;">
+<p style="font-size: 0.75rem; line-height: 1.5;">
     <strong>ADDITIONAL FOOTNOTE: THE MOORE ARCHIVE (TMA)</strong><br>
     Creating community impact through "Geographic Art"—planting physical artifacts in specific locations across the nation to quietly spark curiosity and connection. For additional information please visit: <strong>Emaze.me/TMA</strong>.
 </p>
 
-
 <div class="qr-footer">
     <div class="qr-box">
-        <!-- Direct link to your QR image on GitHub so it works on any computer -->
-        <a href="https://emaze.me/nasa">
+        <a href="https://bio.site" target="_blank" rel="noopener">
             <img src="https://cyber-chic.github.io/nasa/images.css/image-qr-code.png" 
-                 width="90" height="90" alt="QR Access" style="display:block;">
+                 width="95" height="95" alt="QR Access">
         </a>
     </div>
     <div class="footer-text">
         <strong>ACCESS THE GATEWAY:</strong> Scan this code to view the full GitHub repository, direct Exosite telemetry, and archival poetry portfolios. 
         <br><br>
-        <em>themoorearchive@proton.me // Glastonbury, CT 06033</em>
+        <span style="font-family: monospace; font-size: 0.7rem; color: #444;">themoorearchive@proton.me // Glastonbury, CT 06033</span>
     </div>
 </div>
 
