@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <title>Exoplanetary Overviews - CT Tech Week</title>
     <style>
+        /* THE LOCK FIX: Swapped to landscape and unlocked layout variables */
         @page {
-            size: letter;
-            margin: 0.4in 0.4in 0.4in 0.4in;
+            size: letter landscape;
+            margin: 0.25in;
         }
         body {
             background-color: #060913;
@@ -14,49 +15,49 @@
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
-            font-size: 13px;
-            line-height: 1.4;
+            font-size: 11px; /* Sized down from 13px to prevent spillover */
+            line-height: 1.35;
             -webkit-print-color-adjust: exact;
             print-color-adjust: exact;
         }
         header {
             text-align: center;
             border-bottom: 2px dashed #1e293b;
-            padding-bottom: 10px;
-            margin-bottom: 15px;
+            padding-bottom: 6px;
+            margin-bottom: 10px;
         }
         header h1 {
             color: #38bdf8;
-            font-size: 22px;
-            margin: 0 0 4px 0;
+            font-size: 18px; /* Slightly tighter text */
+            margin: 0 0 2px 0;
             letter-spacing: 1.5px;
             text-transform: uppercase;
         }
         header p {
             color: #94a3b8;
-            font-size: 12px;
+            font-size: 11px;
             margin: 0;
         }
         .overview-bar {
             background: #0f172a;
             border: 1px solid #1e293b;
             border-radius: 6px;
-            padding: 8px;
+            padding: 6px;
             text-align: center;
-            font-size: 11px;
+            font-size: 10px;
             font-weight: bold;
             color: #38bdf8;
-            margin-bottom: 15px;
+            margin-bottom: 10px;
             letter-spacing: 0.5px;
         }
         .section-title {
             color: #f43f5e;
-            font-size: 14px;
+            font-size: 12px;
             text-transform: uppercase;
             letter-spacing: 1px;
             border-left: 4px solid #f43f5e;
             padding-left: 8px;
-            margin: 15px 0 10px 0;
+            margin: 10px 0 8px 0;
         }
         .archive-title {
             color: #10b981;
@@ -65,13 +66,13 @@
         .grid-3 {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
-            gap: 12px;
+            gap: 10px; /* Compressed card gaps */
         }
         .planet-card {
             background: #0f172a;
             border: 1px solid #1e293b;
             border-radius: 8px;
-            padding: 12px;
+            padding: 10px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -83,10 +84,10 @@
         .card-vault { border-color: rgba(16, 185, 129, 0.25); }
 
         .planet-img {
-            width: 70px;
-            height: 70px;
+            width: 55px; /* Shrunk from 70px to maximize printable room */
+            height: 55px;
             border-radius: 50%;
-            margin-bottom: 8px;
+            margin-bottom: 6px;
             flex-shrink: 0;
         }
         
@@ -100,7 +101,7 @@
             width: 100%;
         }
         .planet-name {
-            font-size: 13px;
+            font-size: 11.5px;
             font-weight: bold;
             color: #ffffff;
             margin: 0 0 4px 0;
@@ -108,7 +109,7 @@
             padding-bottom: 4px;
         }
         .stat-line {
-            font-size: 11px;
+            font-size: 10px;
             color: #94a3b8;
             margin: 1px 0;
             text-align: left;
@@ -117,69 +118,65 @@
             color: #38bdf8;
         }
         .description {
-            font-size: 11px;
+            font-size: 10px;
             color: #cbd5e1;
-            margin: 6px 0 0 0;
+            margin: 4px 0 0 0;
             font-style: italic;
-            line-height: 1.35;
+            line-height: 1.3;
             text-align: left;
             border-top: 1px dashed #1e293b;
             padding-top: 4px;
         }
         .appearance-logic {
-            margin-top: 6px;
+            margin-top: 4px;
             background: #111c30;
             border: 1px solid #1d4ed8;
             border-radius: 4px;
-            padding: 5px;
-            font-size: 10.5px;
+            padding: 4px;
+            font-size: 9.5px;
             color: #93c5fd;
             text-align: left;
-            line-height: 1.25;
+            line-height: 1.2;
         }
         .haiku-box {
-            margin-top: 6px;
+            margin-top: 4px;
             background: #022c22;
             border: 1px solid #065f46;
             border-radius: 6px;
-            padding: 8px;
+            padding: 6px;
             font-family: 'Georgia', serif;
-            font-size: 11px;
+            font-size: 10px;
             color: #a7f3d0;
             text-align: center;
-            line-height: 1.3;
+            line-height: 1.25;
             letter-spacing: 0.5px;
         }
         .pi-credit {
-            font-size: 9px;
+            font-size: 8px;
             color: #64748b;
-            margin-top: 4px;
+            margin-top: 2px;
             font-weight: bold;
             text-transform: uppercase;
         }
-        .page-break {
-            page-break-before: always;
-        }
         
-        /* Sci-Fi Ambient Glow Compliance Footer Styling */
         .qr-footer {
-            margin-top: 40px;
+            margin-top: 15px; /* Shrunk spacing to fit single sheet layout */
             background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
             border: 1px solid #1e293b;
             border-top: 2px solid #38bdf8;
             border-radius: 12px;
-            padding: 16px;
+            padding: 10px;
             display: flex;
             align-items: center;
-            gap: 20px;
+            gap: 15px;
             color: #f0f4f8;
             box-sizing: border-box;
             box-shadow: 0 0 20px rgba(56, 189, 248, 0.1);
         }
         .qr-box {
             background: #ffffff;
-            padding: 6px;
-            border-radius: 8px;
+            padding: 4px;
+            border-radius: 6px;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -187,8 +184,8 @@
             box-shadow: 0 0 15px rgba(56, 189, 248, 0.25);
         }
         .footer-text {
-            font-size: 12px;
-            line-height: 1.45;
+            font-size: 11px;
+            line-height: 1.35;
             text-align: left;
             flex-grow: 1;
         }
@@ -198,16 +195,16 @@
         }
         .link-badge-container {
             display: flex;
-            gap: 10px;
-            margin-top: 6px;
+            gap: 8px;
+            margin-top: 4px;
             margin-bottom: 2px;
         }
         .link-badge {
             background: #1e293b;
             border: 1px solid #334155;
-            padding: 4px 10px;
+            padding: 2px 8px;
             border-radius: 4px;
-            font-size: 11px;
+            font-size: 10px;
             color: #ffffff;
             display: inline-flex;
             align-items: center;
@@ -219,11 +216,12 @@
         }
         .footer-meta {
             border-top: 1px solid #1e293b;
-            margin-top: 8px;
-            padding-top: 6px;
+            margin-top: 6px;
+            padding-top: 4px;
             display: flex;
             justify-content: space-between;
             align-items: center;
+            font-size: 9px;
         }
     </style>
 </head>
@@ -322,9 +320,6 @@
 
     </div>
 
-    <!-- PAGE BREAK -->
-    <div class="page-break"></div>
-
     <!-- SECTION 2: 3 COMPLETED RECORDS -->
     <div class="section-title archive-title">📚 THE POETRY VAULT: CATALOGUED FEATURED SIGNALS</div>
     <div class="grid-3">
@@ -391,7 +386,9 @@
             <!-- YOUR BRAND NEW LIVE WEBSITE DIRECTORY BADGES -->
             <div class="link-badge-container">
                 <div class="link-badge">🪐 3D Visuals: <span>emaze.me/nasa</span></div>
-                <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
+                <div class="link-badge-container" style="margin-top: 0;">
+                    <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
+                </div>
             </div>
 
             <div class="footer-meta">
