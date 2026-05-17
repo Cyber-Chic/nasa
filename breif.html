@@ -205,11 +205,20 @@
             .footer-meta { flex-direction: column; gap: 4px; text-align: center; }
         }
 
-        @media print {
-            .no-print { display: none; }
-            body { padding: 10px; font-size: 12pt; }
-            .link-badge { background: none !important; }
-        }
+@media print {
+    .no-print { display: none; }
+    body { padding: 10px; font-size: 12pt; }
+    .link-badge { background: none !important; }
+    
+    /* FORCE THE BLACK BARS TO RENDER IN PRINT */
+    .section-title, th {
+        background-color: #000000 !important;
+        color: #ffffff !important;
+        -webkit-print-color-adjust: exact !important; /* For Chrome, Edge, Safari */
+        print-color-adjust: exact !important;         /* Standard rule */
+    }
+}
+
     </style>
 </head>
 <body>
