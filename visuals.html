@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <title>Exoplanetary Overviews - CT Tech Week</title>
     <style>
-        /* THE LOCK FIX: Swapped to landscape and unlocked layout variables */
+        /* THE ZOOM LOCK FIX: Changed to portrait so you can scale it down manually */
         @page {
-            size: letter landscape;
+            size: letter portrait;
             margin: 0.25in;
         }
         body {
@@ -15,7 +15,7 @@
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
-            font-size: 11px; /* Sized down from 13px to prevent spillover */
+            font-size: 11px; 
             line-height: 1.35;
             -webkit-print-color-adjust: exact;
             print-color-adjust: exact;
@@ -28,7 +28,7 @@
         }
         header h1 {
             color: #38bdf8;
-            font-size: 18px; /* Slightly tighter text */
+            font-size: 18px; 
             margin: 0 0 2px 0;
             letter-spacing: 1.5px;
             text-transform: uppercase;
@@ -65,8 +65,8 @@
         }
         .grid-3 {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
-            gap: 10px; /* Compressed card gaps */
+            grid-template-columns: 1fr 1fr 1fr; /* Keeps your original wide 3-column setup */
+            gap: 10px; 
         }
         .planet-card {
             background: #0f172a;
@@ -84,7 +84,7 @@
         .card-vault { border-color: rgba(16, 185, 129, 0.25); }
 
         .planet-img {
-            width: 55px; /* Shrunk from 70px to maximize printable room */
+            width: 55px; 
             height: 55px;
             border-radius: 50%;
             margin-bottom: 6px;
@@ -160,7 +160,7 @@
         }
         
         .qr-footer {
-            margin-top: 15px; /* Shrunk spacing to fit single sheet layout */
+            margin-top: 15px; 
             background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
             border: 1px solid #1e293b;
             border-top: 2px solid #38bdf8;
