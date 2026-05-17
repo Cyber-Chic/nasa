@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MakeHaven Table Sign</title>
+    <style>
+        /* Forces standard 4x6 landscape photo/index card size */
+        @page {
+            size: 6in 4in;
+            margin: 0;
+        }
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #121212;
+            color: #ffffff;
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            width: 6in;
+            height: 4in;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            -webkit-print-color-adjust: exact;
+            print-color-adjust: exact;
+        }
+        .card-container {
+            width: 5.5in;
+            height: 3.5in;
+            border: 2px solid #333333;
+            border-radius: 12px;
+            padding: 20px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        h1 {
+            font-size: 28px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin: 0 0 10px 0;
+            color: #00d2ff;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0 auto;
+            text-align: left;
+            max-width: 90%;
+        }
+        li {
+            font-size: 16px;
+            line-height: 1.6;
+            margin-bottom: 12px;
+            position: relative;
+            padding-left: 30px;
+        }
+        li::before {
+            content: "🖍️";
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+        li:nth-child(2)::before {
+            content: "🧻";
+        }
+        li:nth-child(3)::before {
+            content: "🚀";
+        }
+        strong {
+            color: #00d2ff;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="card-container">
+        <h1>✨ MAKE IT POP! ✨</h1>
+        <ul>
+            <li><strong>Rub</strong> the white crayon firmly over your engraved word to fill the cracks.</li>
+            <li><strong>Wipe</strong> the extra wax away with a tissue to buff the plastic clean.</li>
+            <li><strong>Clip</strong> your custom citizen science keychain onto your bag and enjoy!</li>
+        </ul>
+    </div>
+
+</body>
+</html>
