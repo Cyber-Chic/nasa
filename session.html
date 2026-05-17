@@ -111,6 +111,10 @@
             padding-top: 2px;
         }
 
+        .content-col {
+            flex-grow: 1;
+        }
+
         .content-col h3 {
             font-size: 16px;
             font-weight: 700;
@@ -172,6 +176,70 @@
             color: #555;
         }
 
+        /* Integrated Light-Theme QR Code Footer Layout */
+        .qr-footer {
+            margin-top: 25px;
+            background: #ffffff;
+            border: 2px solid var(--space-black);
+            border-radius: 8px;
+            padding: 16px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            color: var(--space-black);
+            box-sizing: border-box;
+        }
+        .qr-box {
+            background: #000000;
+            padding: 6px;
+            border-radius: 6px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        .footer-text {
+            font-size: 12px;
+            line-height: 1.45;
+            text-align: left;
+            flex-grow: 1;
+        }
+        .footer-text strong {
+            color: var(--space-black);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .link-badge-container {
+            display: flex;
+            gap: 10px;
+            margin-top: 8px;
+            margin-bottom: 2px;
+        }
+        .link-badge {
+            background: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-size: 11px;
+            color: #334155;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            font-family: 'Courier Prime', monospace;
+        }
+        .link-badge span {
+            color: #0284c7;
+            font-weight: bold;
+        }
+        .footer-meta {
+            border-top: 1px dashed #ccc;
+            margin-top: 8px;
+            padding-top: 6px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
         /* Print Override Styles */
         @media print {
             body {
@@ -185,6 +253,11 @@
                 max-width: 100%;
             }
             .tag {
+                background: none !important;
+                border: 1px solid black !important;
+                color: black !important;
+            }
+            .link-badge {
                 background: none !important;
                 border: 1px solid black !important;
                 color: black !important;
@@ -243,9 +316,9 @@
                 <div class="time-col">12:15 - 12:35</div>
                 <div class="content-col">
                     <h3>Active Exploration & Target Selection</h3>
-                    <p>Scan the digital Emaze Hub QR portal or browse the physical Planet Booklet. Review unfamiliar, unstudied exoplanet indices (like Kepler and TOI targets) rather than legacy worlds.</p>
+                    <p>Analyze a planet from our active research indices via the digital Emaze Hub or the physical Planet Brief. Distill your observations into a single summary word to serve as the core inspiration block for our upcoming poetry archive.</p>
                     <div class="tags">
-                        <span class="tag interactive">Interactive</span>
+                        <span class="tag interactive">Interactive</span
                         <span class="tag">QR Portal</span>
                         <span class="tag">Physical Clip Sheets</span>
                     </div>
@@ -287,12 +360,39 @@
                 Beyond the hand's reach.
             </div>
             <div class="footer-note">
-                <strong>Project Transparency:</strong> This independent initiative utilizes public domain data nodes. Not officially affiliated with or endorsed by NASA. All core logistics run via The Moore Signal Archive LLC.
+                <strong>Project Transparency:</strong> Independent research node operations managed via The Moore Signal Archive LLC.
             </div>
         </footer>
 
+        <!-- COMPLIANCE QR FOOTER SECTION WITH YOUR LIVE WEBSITES -->
+        <div class="qr-footer">
+            <div class="qr-box">
+                <img src="./images.css/image-qr-code.png" width="95" height="95" alt="QR Access Gateway">
+            </div>
+            <div class="footer-text">
+                <strong>🛰️ ACCESS THE DATA GATEWAY</strong>
+                <div style="margin-top: 2px; color: #333;">Scan this gateway terminal code to explore our expanding ecosystem of physics data telemetry, full asset codebases, and astronomy poetry.</div>
+                
+                <!-- BADGES REDESIGNED FOR THE ITINERARY SHEET -->
+                <div class="link-badge-container">
+                    <div class="link-badge">🪐 3D Visuals: <span>emaze.me/nasa</span></div>
+                    <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
+                </div>
+
+                <div class="footer-meta">
+                    <span style="font-size: 0.65rem; color: #667; font-style: italic; max-width: 65%;">
+                        Disclaimer: Independent citizen science data assembly utilizing open public domain resources. Not officially affiliated with or endorsed by NASA.
+                    </span>
+                    <span style="font-family: 'Courier Prime', monospace; font-size: 0.7rem; color: #fff; background: var(--space-black); padding: 3px 8px; border-radius: 4px; font-weight: bold;">
+                        themoorearchive@proton.me // Glastonbury, CT 06033
+                    </span>
+                </div>
+            </div>
+        </div>
+
     </div>
 </div>
+
 
 </body>
 </html>
