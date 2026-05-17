@@ -122,16 +122,25 @@
             line-height: 1.4;
         }
         
+        .url-box-container {
+            display: flex;
+            gap: 8px;
+            margin-top: 8px;
+        }
+
         .url-box { 
             font-family: 'Space Mono', monospace; 
             background: #f4f4f4; 
-            padding: 6px 10px; 
-            font-size: 0.7rem; 
-            margin-top: 8px; 
+            padding: 4px 8px; 
+            font-size: 0.65rem; 
             border: 1px solid #dddddd; 
             display: inline-block;
             font-weight: bold;
             color: #000000;
+        }
+        
+        .url-box span {
+            color: #0284c7;
         }
 
         .consent-box { 
@@ -162,17 +171,22 @@
             line-height: 1.4;
             border-top: 1px dashed #dddddd;
             padding-top: 15px;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
         }
         
         @media (max-width: 600px) {
             .gateway-section { flex-direction: column; text-align: center; gap: 15px; }
             .qr-text { padding-left: 0; }
             .sig-line { width: 100%; margin-left: 0; margin-top: 10px; }
+            .url-box-container { flex-direction: column; gap: 4px; align-items: center; }
         }
 
         @media print {
             body { padding: 0; background: #ffffff; }
             .container { border: 2px solid #000000; max-width: 100%; }
+            .url-box { background: none !important; }
         }
     </style>
 </head>
@@ -191,13 +205,13 @@
     <h1>COLLABORATOR DISPATCH</h1>
 
     <!-- WORKFORM ENTRY NODES -->
-    <span class="section-label">01 // TARGET ANALYZED (e.g., TrES-2 b, WASP-12 b)</span>
+    <span class="section-label">01 // PLANET CHOSEN FOR ANALYSIS (e.g., TrES-5 b, WASP-49 b)</span>
     <div class="input-line"></div>
 
-    <span class="section-label">02 // THE DECRYPTED SIGNAL (Single-Word Description)</span>
+    <span class="section-label">02 // YOUR SUMMARY WORD (Inspirational Keyword for Laser Engraving)</span>
     <div class="input-line"></div>
 
-    <span class="section-label">03 // NAVIGATOR IDENTIFICATION (Name or Handle)</span>
+    <span class="section-label">03 // NAVIGATOR IDENTIFICATION (Your Name or Handle)</span>
     <div class="input-line"></div>
 
     <span class="section-label">04 // PREFERRED DIRECTORY (Link to your GitHub/Social/Portfolio)</span>
@@ -206,31 +220,34 @@
     <!-- QR INTEGRATION CONTAINER LAYER -->
     <div class="gateway-section">
         <div class="qr-placeholder">
-            <a href="https://emaze.me" target="_blank" rel="noopener">
-                <img src="https://github.io" width="95" height="95" alt="QR Gateway Code">
-            </a>
+            <img src="./images.css/image-qr-code.png" width="95" height="95" alt="QR Access Gateway">
         </div>
         <div class="qr-text">
-            <strong>ACCESS THE GATEWAY:</strong><br>
-            Scan to experience NASA's immersive 3D planetary simulations, view the live Archive, and verify your contribution status.
+            <strong>ACCESS THE DATA GATEWAY:</strong><br>
+            Scan to experience NASA's immersive 3D planetary simulations, view our active portfolio directory hubs, and track upcoming poetry entries.
             <br>
-            <div class="url-box">Emaze.me/NASA</div>
+            <div class="url-box-container">
+                <div class="url-box">🪐 3D Portal: <span>emaze.me/nasa</span></div>
+                <div class="url-box">💼 Hub: <span>bio.site/mooresignal</span></div>
+            </div>
         </div>
     </div>
 
     <!-- LEGAL LIABILITY SHIELD & CONSENT PROVENANCE DECK -->
     <div class="consent-box">
-        <strong>SIGNAL GUARDIAN CONSENT & PROVENANCE:</strong><br>
-        By signing, I authorize The Moore Signal Archive LLC to utilize my contribution for archival and artistic synthesis. I acknowledge that the PI retains artistic copyright of the final work. This is a non-commercial research inquiry.
+        <strong>DATA DISPATCH DEED & PROVENANCE RECORD:</strong><br>
+        By endorsing this log, I assign my keyword discovery to the permanent telemetry rolls of this station. The resulting poetic translations are synthesized under the creative direction and copyright provenance of the Principal Investigator. Non-commercial, open-access citizen science node validation. 
+        <br><br>
+        <em>Disclaimer: This independent project utilizes public domain space resources. Not sponsored, endorsed, or officially affiliated with NASA.</em>
         <br><br>
         SIGNATURE: <div class="sig-line"></div>
     </div>
 
-    <!-- OFFICIAL SYSTEM STAMP METADATA -->
-    <div class="footer">
-        © 2026 THE MOORE SIGNAL ARCHIVE LLC // GLASTONBURY, CT // CT TECH WEEK // STATUS: 🟢NOMINAL
+    <!-- UNIFIED INTELLECTUAL LIGHT FOOTER -->
+    <div class="footer" style="display: flex; justify-content: space-between; align-items: center; border-top: 1px dashed #dddddd; padding-top: 15px; margin-top: 40px; font-size: 0.68rem; font-family: 'Space Mono', monospace; color: #555555; letter-spacing: 0.5px; width: 100%; box-sizing: border-box;">
+        <div>THE MOORE SIGNAL ARCHIVE LLC // <span>CT TECH WEEK 2026</span></div>
+        <div style="font-weight: bold; color: #1a1a1a;">themoorearchive@proton.me</div>
     </div>
-</div>
 
 </body>
 </html>
