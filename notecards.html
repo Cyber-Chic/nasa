@@ -2,88 +2,155 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>MakeHaven Table Sign</title>
+    <title>The Moore Signal Archive - Finishing Manual</title>
     <style>
-        /* Forces standard 4x6 landscape photo/index card size */
         @page {
-            size: 6in 4in;
-            margin: 0;
+            size: letter portrait;
+            margin: 0.5in;
         }
         body {
+            background-color: #060913;
+            color: #f0f4f8;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #121212;
-            color: #ffffff;
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-            width: 6in;
-            height: 4in;
-            box-sizing: border-box;
+            font-size: 14px;
+            line-height: 1.5;
             display: flex;
-            flex-direction: column;
             justify-content: center;
             align-items: center;
-            text-align: center;
+            min-height: 100vh;
             -webkit-print-color-adjust: exact;
             print-color-adjust: exact;
         }
-        .card-container {
-            width: 5.5in;
-            height: 3.5in;
-            border: 2px solid #333333;
+        .manual-card {
+            background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
+            border: 2px solid #1e293b;
+            border-top: 4px solid #00d2ff;
             border-radius: 12px;
-            padding: 20px;
+            padding: 40px;
+            width: 100%;
+            max-width: 700px;
             box-sizing: border-box;
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
+            text-align: center;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
         }
-        h1 {
-            font-size: 28px;
+        .header-tag {
+            font-family: monospace;
+            font-size: 11px;
             text-transform: uppercase;
             letter-spacing: 2px;
-            margin: 0 0 10px 0;
-            color: #00d2ff;
+            color: #38bdf8;
+            margin-bottom: 10px;
         }
+        h1 {
+            font-size: 32px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin: 0 0 30px 0;
+            color: #ffffff;
+            font-weight: 700;
+        }
+        
+        /* Sci-Fi Radar Track Ring Accent */
+        .radar-accent {
+            width: 100px;
+            height: 100px;
+            border: 2px dashed rgba(56, 189, 248, 0.4);
+            border-radius: 50%;
+            margin: 0 auto 30px auto;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .radar-accent::after {
+            content: "🖍️";
+            font-size: 36px;
+        }
+
         ul {
             list-style-type: none;
             padding: 0;
-            margin: 0 auto;
+            margin: 0 auto 40px auto;
             text-align: left;
-            max-width: 90%;
+            max-width: 85%;
         }
         li {
-            font-size: 16px;
+            font-size: 15px;
             line-height: 1.6;
-            margin-bottom: 12px;
+            margin-bottom: 25px;
             position: relative;
-            padding-left: 30px;
+            padding-left: 45px;
+            color: #cbd5e1;
+        }
+        li strong {
+            color: #00d2ff;
+            font-size: 16px;
+            display: block;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
         }
         li::before {
-            content: "🖍️";
+            content: "01";
             position: absolute;
             left: 0;
-            top: 0;
+            top: 2px;
+            font-family: monospace;
+            font-size: 12px;
+            background: #1e293b;
+            border: 1px solid #334155;
+            color: #38bdf8;
+            padding: 2px 6px;
+            border-radius: 4px;
+            line-height: 1;
         }
-        li:nth-child(2)::before {
-            content: "🧻";
+        li:nth-child(2)::before { content: "02"; }
+        li:nth-child(3)::before { content: "03"; }
+
+        .footer-directory {
+            border-top: 1px solid #1e293b;
+            padding-top: 15px;
+            margin-top: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 11px;
+            font-family: monospace;
+            color: #64748b;
         }
-        li:nth-child(3)::before {
-            content: "🚀";
-        }
-        strong {
-            color: #00d2ff;
+        .footer-directory span {
+            color: #38bdf8;
         }
     </style>
 </head>
 <body>
 
-    <div class="card-container">
+    <div class="manual-card">
+        <div class="header-tag">// ARTIFACT FABRICATION MANUAL //</div>
         <h1>✨ MAKE IT POP! ✨</h1>
+        
+        <div class="radar-accent"></div>
+
         <ul>
-            <li><strong>Rub</strong> the white crayon firmly over your engraved word to fill the cracks.</li>
-            <li><strong>Wipe</strong> the extra wax away with a tissue to buff the plastic clean.</li>
-            <li><strong>Clip</strong> your custom citizen science keychain onto your bag and enjoy!</li>
+            <li>
+                <strong>01 // Fill the Engraving</strong>
+                Apply the white crayon steadily across your freshly laser-etched keyword. Pressing down completely fills the deep text grooves with a high-contrast wax core.
+            </li>
+            <li>
+                <strong>02 // Buff the Surface</strong>
+                Wipe the flat, glossy black plastic clean using a dry tissue or microfiber cloth. The excess surface wax clears away instantly, leaving your lettering perfectly crisp and white.
+            </li>
+            <li>
+                <strong>03 // Lock the Signal</strong>
+                Secure your completely custom citizen science keychain onto your bag and share your planetary data observations with the room!
+            </li>
         </ul>
+        
+        <div class="footer-directory">
+            <div>🪐 3D: <span>emaze.me/nasa</span> // 💼 LLC: <span>bio.site/mooresignal</span></div>
+            <div style="font-weight: bold; color: #cbd5e1;">themoorearchive@proton.me</div>
+        </div>
     </div>
 
 </body>
