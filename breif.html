@@ -8,7 +8,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://googleapis.com" rel="stylesheet">
-    <style>
+  <style>
         body {
             font-family: 'Space Mono', monospace;
             line-height: 1.5;
@@ -205,20 +205,37 @@
             .footer-meta { flex-direction: column; gap: 4px; text-align: center; }
         }
 
-@media print {
-    .no-print { display: none; }
-    body { padding: 10px; font-size: 12pt; }
-    .link-badge { background: none !important; }
-    
-    /* FORCE THE BLACK BARS TO RENDER IN PRINT */
-    .section-title, th {
-        background-color: #000000 !important;
-        color: #ffffff !important;
-        -webkit-print-color-adjust: exact !important; /* For Chrome, Edge, Safari */
-        print-color-adjust: exact !important;         /* Standard rule */
-    }
-}
+        @media print {
+            .no-print { display: none; }
+            body { padding: 10px; font-size: 12pt; }
+            
+            /* FORCE ALL ACCENT STYLES AND GRAY BACKGROUNDS TO PRINT */
+            * {
+                -webkit-print-color-adjust: exact !important; /* For Chrome, Edge, Safari */
+                print-color-adjust: exact !important;         /* Standard rule */
+            }
 
+            .section-title, th {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+            }
+
+            .haiku-card {
+                background-color: #fafafa !important;
+            }
+
+            tr:nth-child(even) {
+                background-color: #f9f9f9 !important;
+            }
+
+            .pipeline-note {
+                background-color: #f4f4f4 !important;
+            }
+
+            .link-badge { 
+                background-color: #f4f4f4 !important; 
+            }
+        }
     </style>
 </head>
 <body>
