@@ -5,13 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Moore Signal Archive - Session Itinerary</title>
     <style>
-        @import url('https://googleapis.com');
-        
         :root {
             --space-black: #0D0E12;
             --cosmic-gray: #1E2028;
             --starlight: #F4F5F7;
-            --laser-orange: #FF5A36;
+            --accent-crimson: #FF5A36;
             --muted-text: #8A90A6;
         }
 
@@ -22,26 +20,23 @@
         }
 
         body {
-            font-family: 'Space Grotesk', sans-serif;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             background-color: white;
             color: var(--space-black);
             line-height: 1.4;
-            padding: 0;
+            padding: 20px;
             display: flex;
             justify-content: center;
         }
 
-        /* Optimized for a single sheet print */
         .itinerary-card {
             width: 100%;
             max-width: 800px;
-            min-height: 10.5in; /* Forces a standard letter ratio roughly */
-            padding: 40px;
+            padding: 20px;
             background: white;
             position: relative;
         }
 
-        /* Document Border Frame */
         .frame {
             border: 2px solid var(--space-black);
             padding: 30px;
@@ -67,14 +62,14 @@
         }
 
         .title-area p {
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
             font-size: 13px;
             color: #444;
         }
 
         .meta-box {
             text-align: right;
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
             font-size: 12px;
             border-left: 2px solid var(--space-black);
             padding-left: 15px;
@@ -83,11 +78,10 @@
         .meta-box strong {
             display: block;
             text-transform: uppercase;
-            font-family: 'Space Grotesk', sans-serif;
+            font-family: 'Segoe UI', sans-serif;
             font-size: 13px;
         }
 
-        /* Timeline Blocks */
         .timeline {
             margin-bottom: 30px;
         }
@@ -99,7 +93,7 @@
         }
 
         .time-col {
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
             font-size: 15px;
             font-weight: bold;
             min-width: 140px;
@@ -134,7 +128,7 @@
         }
 
         .tag {
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
             font-size: 11px;
             background: #EEEEEE;
             padding: 2px 8px;
@@ -145,11 +139,10 @@
 
         .tag.interactive {
             background: #FFF3F0;
-            border-color: var(--laser-orange);
+            border-color: var(--accent-crimson);
             color: #D32F2F;
         }
 
-        /* Footer Haiku Section */
         footer {
             border-top: 2px solid var(--space-black);
             padding-top: 20px;
@@ -160,7 +153,7 @@
         }
 
         .haiku-box {
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
             font-style: italic;
             font-size: 14px;
             line-height: 1.6;
@@ -176,7 +169,6 @@
             color: #555;
         }
 
-        /* Integrated Light-Theme QR Code Footer Layout */
         .qr-footer {
             margin-top: 25px;
             background: #ffffff;
@@ -189,32 +181,38 @@
             color: var(--space-black);
             box-sizing: border-box;
         }
+        
         .qr-box {
-            background: #000000;
-            padding: 6px;
+            background: #ffffff;
+            padding: 4px;
+            border: 1px solid #000;
             border-radius: 6px;
             display: flex;
             align-items: center;
             justify-content: center;
             flex-shrink: 0;
         }
+        
         .footer-text {
             font-size: 12px;
             line-height: 1.45;
             text-align: left;
             flex-grow: 1;
         }
+        
         .footer-text strong {
             color: var(--space-black);
             text-transform: uppercase;
             letter-spacing: 0.5px;
         }
+        
         .link-badge-container {
             display: flex;
             gap: 10px;
             margin-top: 8px;
             margin-bottom: 2px;
         }
+        
         .link-badge {
             background: #f1f5f9;
             border: 1px solid #cbd5e1;
@@ -225,12 +223,14 @@
             display: inline-flex;
             align-items: center;
             gap: 6px;
-            font-family: 'Courier Prime', monospace;
+            font-family: 'Courier New', Courier, monospace;
         }
+        
         .link-badge span {
             color: #0284c7;
             font-weight: bold;
         }
+        
         .footer-meta {
             border-top: 1px dashed #ccc;
             margin-top: 8px;
@@ -240,28 +240,13 @@
             align-items: center;
         }
 
-        /* Print Override Styles */
         @media print {
-            body {
-                background: white;
-                color: black;
-                padding: 0;
-            }
-            .itinerary-card {
-                padding: 0;
-                width: 100%;
-                max-width: 100%;
-            }
-            .tag {
-                background: none !important;
-                border: 1px solid black !important;
-                color: black !important;
-            }
-            .link-badge {
-                background: none !important;
-                border: 1px solid black !important;
-                color: black !important;
-            }
+            body { background: white; color: black; padding: 0; }
+            .itinerary-card { padding: 0; width: 100%; max-width: 100%; }
+            .tag { background: none !important; border: 1px solid black !important; color: black !important; }
+            .link-badge { background: none !important; border: 1px solid black !important; color: black !important; }
+            .link-badge span { color: black !important; }
+            .footer-meta span { background: none !important; color: black !important; border: 1px solid black; }
         }
     </style>
 </head>
@@ -290,10 +275,10 @@
                 <div class="time-col">11:00 - 12:00</div>
                 <div class="content-col">
                     <h3>Node Calibration & Setup</h3>
-                    <p>Early check-in opens. Secure your reference materials and documentation layout packets at the research table.</p>
+                    <p>Early check-in opens. Secure your reference materials, workspace clipboards, and documentation layout packets at the research table.</p>
                     <div class="tags">
-                        <span class="tag">Host Only</span>
-                        <span class="tag">Laser Test Burns</span>
+                        <span class="tag">System Setup</span>
+                        <span class="tag">Waiver Sync</span>
                     </div>
                 </div>
             </div>
@@ -302,11 +287,11 @@
             <div class="time-block">
                 <div class="time-col">12:00 - 12:15</div>
                 <div class="content-col">
-                    <h3>Intro: Signals into Syllables</h3>
-                    <p>Briefing from Principal Investigator Angela N. Moore. Translating deep space dataset patterns into contemporary haiku art. An inside look at independent data tracking.</p>
+                    <h3>Transmission Initiation</h3>
+                    <p>The session formally goes live. Quick-strike overview outlining the core goals of the citizen science exoplanet transit project and its data mapping framework.</p>
                     <div class="tags">
-                        <span class="tag">Presentation</span>
-                        <span class="tag">Citizen Science Overview</span>
+                        <span class="tag">Briefing</span>
+                        <span class="tag">NASA Data</span>
                     </div>
                 </div>
             </div>
@@ -318,7 +303,7 @@
                     <h3>Active Exploration & Target Selection</h3>
                     <p>Analyze a planet from our active research indices via the digital Emaze Hub or the physical Planet Brief. Distill your observations into a single summary word to serve as the core inspiration block for our upcoming poetry archive.</p>
                     <div class="tags">
-                        <span class="tag interactive">Interactive</span
+                        <span class="tag interactive">Interactive</span>
                         <span class="tag">QR Portal</span>
                         <span class="tag">Physical Clip Sheets</span>
                     </div>
@@ -329,10 +314,10 @@
             <div class="time-block">
                 <div class="time-col">12:35 - 12:55</div>
                 <div class="content-col">
-                    <h3>Data Entry & Live Laser Engraving</h3>
-                    <p>Log your chosen target planet and a single-word visceral response on the physical intake slip. Watch the badged operator vaporize the matte token matrix live to reveal your custom token artifact.</p>
+                    <h3>Data Entry & Cryptographic UV Ink Lab</h3>
+                    <p>Log your chosen target planet and a single-word visceral response on the physical intake slip. Manually fix your text data onto the matte black substrate blank using self-contained invisible UV ink markers.</p>
                     <div class="tags">
-                        <span class="tag interactive">Fabrication</span>
+                        <span class="tag interactive">Wavelength Encrypt</span>
                         <span class="tag">Artifact Handout</span>
                     </div>
                 </div>
@@ -371,9 +356,8 @@
             </div>
             <div class="footer-text">
                 <strong>🛰️ ACCESS THE DATA GATEWAY</strong>
-                <div style="margin-top: 2px; color: #333;">Scan this gateway terminal code to explore our expanding ecosystem of physics data telemetry, full asset codebases, and astronomy poetry.</div>
+                <div style="margin-top: 2px; color: #333; font-size: 11px;">Scan this gateway terminal code to explore our expanding ecosystem of physics data telemetry, full asset codebases, and astronomy poetry.</div>
                 
-                <!-- BADGES REDESIGNED FOR THE ITINERARY SHEET -->
                 <div class="link-badge-container">
                     <div class="link-badge">🪐 3D Visuals: <span>emaze.me/nasa</span></div>
                     <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
@@ -383,7 +367,7 @@
                     <span style="font-size: 0.65rem; color: #667; font-style: italic; max-width: 65%;">
                         Disclaimer: Independent citizen science data assembly utilizing open public domain resources. Not officially affiliated with or endorsed by NASA.
                     </span>
-                    <span style="font-family: 'Courier Prime', monospace; font-size: 0.7rem; color: #fff; background: var(--space-black); padding: 3px 8px; border-radius: 4px; font-weight: bold;">
+                    <span style="font-family: 'Courier New', Courier, monospace; font-size: 0.7rem; color: #fff; background: var(--space-black); padding: 3px 8px; border-radius: 4px; font-weight: bold;">
                         themoorearchive@proton.me // Glastonbury, CT 06033
                     </span>
                 </div>
@@ -392,7 +376,6 @@
 
     </div>
 </div>
-
 
 </body>
 </html>
