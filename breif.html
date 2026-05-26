@@ -208,55 +208,52 @@ body {
         }
 
 @media print {
-    /* Tighten the printable area margins */
-    @page {
-        size: letter;
-        margin: 0.4in 0.5in; /* Smaller top/bottom margins to gain vertical space */
+    /* 1. RESTORE YOUR ORIGINAL COMFORTABLE FONT SIZES */
+    body { 
+        padding: 10px; 
+        font-size: 11pt; /* Restores standard readable scale */
+        background-color: #ffffff !important;
+        color: #000000 !important;
     }
 
-    body {
-        padding: 0 !important; /* Remove body padding to save space */
+    /* 2. BRUTALLY FORCE BLACK BACKGROUNDS AND SOLID BORDERS */
+    * {
+        -webkit-print-color-adjust: exact !important; /* Forces Chrome/Safari colors */
+        print-color-adjust: exact !important;         /* Forces standard colors */
+        color-adjust: exact !important;               /* Fallback color rule */
     }
 
-    /* Compress the header area */
-    header {
-        margin-bottom: 15px !important;
-        padding: 12px !important;
+    /* Target headers directly to prevent the browser from stripping ink */
+    .section-title, th {
+        background: #000000 !important;
+        background-color: #000000 !important;
+        color: #ffffff !important;
+        -webkit-print-color-adjust: exact !important;
+        print-color-adjust: exact !important;
     }
 
-    /* Reduce spacing between sections */
-    .section-title {
-        margin: 15px 0 10px 0 !important;
+    /* Make gray elements dark enough to clearly see on physical paper */
+    header, td, th, .haiku-card {
+        border: 2px solid #000000 !important; /* Thickens thin borders */
     }
 
-    /* Tighten the haiku grid layout */
-    .haiku-grid {
-        gap: 12px !important;
-    }
-    .haiku-card {
-        padding: 10px !important;
+    .pipeline-note, .link-badge {
+        background-color: #eaeaea !important; /* Darker grey so it prints crisp */
+        border: 1px solid #000000 !important;
     }
 
-    /* Tighten the data table rows */
-    th, td {
-        padding: 4px 6px !important; /* Shaves off vertical padding */
-    }
-    table {
-        margin-top: 5px !important;
-    }
-
-    /* Shrink the informational boxes */
-    .pipeline-note {
-        margin: 10px 0 !important;
-        padding: 10px !important;
-    }
-
-    /* Pull the footer tight against the content */
-    .qr-footer {
-        margin-top: 15px !important;
-        padding-top: 10px !important;
+    /* 3. THE ONE-PAGE FIX: MANAGE SECTIONS WITHOUT SHRINKING FONTS */
+    .no-print { display: none; }
+    
+    .haiku-grid { gap: 15px !important; }
+    
+    /* Dynamically breaks layout items clean so they don't force a trailing page */
+    .haiku-card, tr, .pipeline-note, .qr-footer {
+        page-break-inside: avoid;
+        break-inside: avoid;
     }
 }
+
 
     </style>
 </head>
