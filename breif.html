@@ -9,15 +9,17 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://googleapis.com" rel="stylesheet">
   <style>
-        body {
-            font-family: 'Space Mono', monospace;
-            line-height: 1.5;
-            color: #1a1a1a;
-            max-width: 850px;
-            margin: auto;
-            padding: 30px;
-            background-color: #ffffff;
-        }
+body {
+    font-family: 'Space Mono', monospace;
+    line-height: 1.5;
+    color: #1a1a1a;
+    max-width: 760px; /* Changed from 850px to safely fit a printable page width */
+    width: 100%;      /* Forces responsiveness */
+    margin: auto;
+    padding: 30px;
+    background-color: #ffffff;
+    box-sizing: border-box; /* Includes padding in width calculations */
+}
 
         header {
             text-align: center;
