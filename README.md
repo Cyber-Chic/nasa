@@ -79,7 +79,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 #### 🔭 [ TrES-3 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/tres-3-b/)
 > ### **SPINNING AT TOP SPEEDS.**
 > ### **HURLING ROUND THE GALAXY.**
-> ### **TRANSENDING TIME'S SAND.**
+> ### **TRANSCENDING TIME'S SAND.**
 > **VERIFIED DATA:** [2011-08-24](https://apps.aavso.org/exosite/g/9996) • [2014-06-22](https://apps.aavso.org/exosite/g/10889) • [2022-03-16](https://apps.aavso.org/exosite/g/11122)
 
 <br>
