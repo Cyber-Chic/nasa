@@ -10,10 +10,10 @@
             margin: 0.4in 0.3in;
         }
         
-        /* THE COLOR INVERSION: White background, dark text */
+        /* THE COLOR INVERSION: White background, deep black text */
         body {
             background-color: #ffffff;
-            color: #0f172a;
+            color: #000000; /* Force basic body text to pure black */
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -26,27 +26,28 @@
         /* HEADER: Clean, crisp text accents */
         header {
             text-align: center;
-            border-bottom: 2px dashed #94a3b8;
+            border-bottom: 2px dashed #000000; /* Swapped from grey to black */
             padding-bottom: 6px;
             margin-bottom: 10px;
         }
         header h1 {
-            color: #0369a1; /* Darker blue for readable printing */
+            color: #0369a1; /* Dark blue title */
             font-size: 18px; 
             margin: 0 0 2px 0;
             letter-spacing: 1.5px;
             text-transform: uppercase;
         }
         header p {
-            color: #475569;
+            color: #000000; /* Swapped from grey to pure black */
             font-size: 10px;
+            font-weight: bold;
             margin: 0;
         }
         
-        /* OVERVIEW BAR: Transparent box saves massive ink */
+        /* OVERVIEW BAR */
         .overview-bar {
             background: #f8fafc;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #000000; /* Swapped to pure black border */
             border-radius: 6px;
             padding: 6px;
             text-align: center;
@@ -57,7 +58,7 @@
             letter-spacing: 0.5px;
         }
         
-        /* SECTION TITLES: Vibrant but clean left markers */
+        /* SECTION TITLES */
         .section-title {
             color: #e11d48;
             font-size: 11.5px;
@@ -66,14 +67,14 @@
             border-left: 4px solid #e11d48;
             padding-left: 8px;
             margin: 14px 0 8px 0;
-            page-break-after: avoid; /* Prevents title disconnecting from cards */
+            page-break-after: avoid;
         }
         .archive-title {
             color: #059669;
             border-left-color: #059669;
         }
         
-        /* GRID MANAGEMENT & PAGE BREAK PROTECTION */
+        /* GRID MANAGEMENT & CARD STRUCTURE */
         .grid-3 {
             display: grid;
             grid-template-columns: 1fr 1fr 1fr;
@@ -81,7 +82,7 @@
         }
         .planet-card {
             background: #ffffff;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #000000; /* Crisp black card outlines */
             border-radius: 8px;
             padding: 10px;
             display: flex;
@@ -89,25 +90,25 @@
             align-items: center;
             text-align: center;
             box-sizing: border-box;
-            page-break-inside: avoid; /* Keeps single card from ripping across two pages */
+            page-break-inside: avoid;
         }
         .card-active { border-top: 3px solid #e11d48; }
         .card-vault { border-top: 3px solid #059669; }
 
-        /* PLANET BALLS: Changed from heavy full-bleed circles to elegant thin rings */
+        /* PLANET RADAR RINGS */
         .planet-img {
             width: 45px; 
             height: 45px;
             border-radius: 50%;
             margin-bottom: 6px;
             flex-shrink: 0;
-            border: 3px solid #64748b;
-            background: transparent !important; /* Forces ink savings */
+            border: 3px solid #000000;
+            background: transparent !important;
         }
-        .img-void-coal { border-color: #334155; }
+        .img-void-coal { border-color: #000000; }
         .img-void-neon { border-color: #7c3aed; }
         .img-void-blue { border-color: #0284c7; }
-        .img-void-ash  { border-color: #94a3b8; }
+        .img-void-ash  { border-color: #555555; }
         .img-void-fire { border-color: #dc2626; }
 
         .planet-info {
@@ -116,32 +117,32 @@
         .planet-name {
             font-size: 11px;
             font-weight: bold;
-            color: #0f172a;
+            color: #000000;
             margin: 0 0 4px 0;
-            border-bottom: 1px solid #e2e8f0;
+            border-bottom: 1px solid #000000;
             padding-bottom: 4px;
         }
         .stat-line {
             font-size: 9.5px;
-            color: #475569;
+            color: #000000; /* Swapped from grey to pure black */
             margin: 1px 0;
             text-align: left;
         }
         .stat-line strong {
-            color: #0369a1;
+            color: #0369a1; /* Keep blue labels */
         }
         .description {
             font-size: 9.5px;
-            color: #334155;
+            color: #000000; /* Swapped from grey to pure black */
             margin: 4px 0 0 0;
             font-style: italic;
             line-height: 1.3;
             text-align: left;
-            border-top: 1px dashed #e2e8f0;
+            border-top: 1px dashed #000000;
             padding-top: 4px;
         }
         
-        /* CHANNELS: Light gray blueprint boxes */
+        /* CHANNELS: Blueprint boxes with sharp navy text */
         .appearance-logic {
             margin-top: 5px;
             background: #f1f5f9;
@@ -149,52 +150,56 @@
             border-radius: 4px;
             padding: 4px;
             font-size: 9px;
-            color: #1e3a8a;
+            color: #000000; /* Swapped to pure black for high contrast readability */
             text-align: left;
             line-height: 1.2;
         }
+        .appearance-logic strong {
+            color: #1e3a8a; /* Blue highlights inside logic box */
+        }
         
-        /* HAIKU BOXES: Light mint parchment box style */
+        /* HAIKU BOXES: Light mint background with BOLD, crisp forest green text to stop blurring */
         .haiku-box {
             margin-top: 5px;
             background: #f0fdf4;
-            border: 1px solid #a7f3d0;
+            border: 1px solid #059669; /* Sharp green border */
             border-radius: 6px;
             padding: 6px;
-            font-family: 'Georgia', serif;
+            font-family: 'Segoe UI', Roboto, sans-serif; /* Changed to sans-serif to prevent tiny serif blurring */
             font-size: 9.5px;
-            color: #065f46;
+            font-weight: bold; /* Bolded text makes the green clean and readable */
+            color: #044e37; /* Darker forest green for sharp print contrast */
             text-align: center;
             line-height: 1.3;
             letter-spacing: 0.2px;
         }
         .pi-credit {
             font-size: 8px;
-            color: #64748b;
+            color: #000000; /* Swapped from grey to black */
             margin-top: 2px;
             font-weight: bold;
             text-transform: uppercase;
         }
         
-        /* FOOTER RE-ARCHITECTURE: Clean border outlines */
+        /* FOOTER RE-ARCHITECTURE */
         .qr-footer {
             margin-top: 15px; 
             background: #ffffff;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #000000;
             border-top: 3px solid #0369a1;
             border-radius: 12px;
             padding: 10px;
             display: flex;
             align-items: center;
             gap: 15px;
-            color: #0f172a;
+            color: #000000;
             box-sizing: border-box;
             page-break-inside: avoid;
         }
         .qr-box {
             background: #ffffff;
             padding: 2px;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #000000;
             border-radius: 6px;
             display: flex;
             align-items: center;
@@ -219,11 +224,11 @@
         }
         .link-badge {
             background: #f1f5f9;
-            border: 1px solid #cbd5e1;
+            border: 1px solid #000000; /* Sharp outline */
             padding: 2px 6px;
             border-radius: 4px;
             font-size: 9.5px;
-            color: #334155;
+            color: #000000;
             display: inline-flex;
             align-items: center;
             gap: 4px;
@@ -233,7 +238,7 @@
             font-weight: bold;
         }
         .footer-meta {
-            border-top: 1px solid #e2e8f0;
+            border-top: 1px solid #000000;
             margin-top: 6px;
             padding-top: 4px;
             display: flex;
@@ -242,6 +247,7 @@
             font-size: 9px;
         }
     </style>
+
 
 </head>
 <body>
@@ -355,7 +361,8 @@
                 </div>
                 <div class="pi-credit">A. Moore</div>
                 <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: MANBA-SET 2021-05-26</div>
-                <div class="appearance-logic" style="background: #022c22; border-color: #065f46; color: #a7f3d0;">🎨 <strong>Visual Choice:</strong> Charcoal black. It reflects less than 1% of light, making it a true dark room planet that is blacker than a pot of fresh tar.</div>
+                <!-- REMOVED DARK GREEN INLINE STYLES -->
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Charcoal black. It reflects less than 1% of light, making it a true dark room planet that is blacker than a pot of fresh tar.</div>
             </div>
         </div>
 
@@ -371,13 +378,15 @@
                 </div>
                 <div class="pi-credit">A. Moore</div>
                 <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: MANBA-SET 2015-11-21</div>
-                <div class="appearance-logic" style="background: #022c22; border-color: #065f46; color: #a7f3d0;">🎨 <strong>Visual Choice:</strong> Molten red-black. Its sun is so close that gravity is actively stretching the planet out into the shape of a football.</div>
+                <!-- REMOVED DARK GREEN INLINE STYLES -->
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Molten red-black. Its sun is so close that gravity is actively stretching the planet out into the shape of a football.</div>
             </div>
         </div>
 
         <!-- Vault 3: TrES-3 b -->
         <div class="planet-card card-vault">
-            <div class="planet-img img-void-blue" style="background: radial-gradient(circle at 35% 35%, #0284c7, #0f172a, #020617); box-shadow: 0 0 10px rgba(14, 165, 233, 0.2);"></div>
+            <!-- REMOVED HEAVY GRADIENT INLINE STYLE TO MATCH THE CHOSEN RADAR RING SYSTEM -->
+            <div class="planet-img img-void-blue"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ TrES-3 b ]</div>
                 <div class="haiku-box">
@@ -387,11 +396,13 @@
                 </div>
                 <div class="pi-credit">A. Moore</div>
                 <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: 2011-08-24 • 2014-06-22</div>
-                <div class="appearance-logic" style="background: #022c22; border-color: #065f46; color: #a7f3d0;">🎨 <strong>Visual Choice:</strong> Electric cyan flare. Its blindingly fast speed sweeps its atmospheric winds into glowing, high-speed stadium loops.</div>
+                <!-- REMOVED DARK GREEN INLINE STYLES -->
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Electric cyan flare. Its blindingly fast speed sweeps its atmospheric winds into glowing, high-speed stadium loops.</div>
             </div>
         </div>
 
     </div>
+
 
     <!-- RE-DESIGNED SCI-FI COMPLIANCE QR FOOTER SECTION WITH YOUR LIVE WEBSITES -->
     <div class="qr-footer">
@@ -419,13 +430,13 @@
                 <span style="font-size: 0.65rem; color: #000000; font-weight: 500; font-style: italic; max-width: 65%;">
                     Disclaimer: Independent citizen science data assembly utilizing open public domain resources. Not officially affiliated with or endorsed by NASA.
                 </span>
-                <span style="font-family: monospace; font-size: 0.7rem; color: #38bdf8; font-weight: bold; background: #1e293b; padding: 3px 8px; border-radius: 4px; border: 1px solid #334155;">
-                    themoorearchive@proton.me // Glastonbury, CT 06033
-                </span>
+<span style="font-family: monospace; font-size: 0.7rem; color: #000000; font-weight: bold; background: #f1f5f9; padding: 3px 8px; border-radius: 4px; border: 1px solid #000000;">
+    themoorearchive@proton.me // Glastonbury, CT 06033
+</span>
+
             </div>
         </div>
     </div>
-
 
 </body>
 </html>
