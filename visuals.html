@@ -4,152 +4,169 @@
     <meta charset="UTF-8">
     <title>Exoplanetary Overviews - CT Tech Week</title>
     <style>
-        /* THE ZOOM LOCK FIX: Changed to portrait so you can scale it down manually */
+        /* PAGE SETUP: Standard letter sizes with defensive margins */
         @page {
             size: letter portrait;
-            margin: 0.25in;
+            margin: 0.4in 0.3in;
         }
+        
+        /* THE COLOR INVERSION: White background, dark text */
         body {
-            background-color: #060913;
-            color: #f0f4f8;
+            background-color: #ffffff;
+            color: #0f172a;
             font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
-            font-size: 11px; 
+            font-size: 10.5px; 
             line-height: 1.35;
             -webkit-print-color-adjust: exact;
             print-color-adjust: exact;
         }
+        
+        /* HEADER: Clean, crisp text accents */
         header {
             text-align: center;
-            border-bottom: 2px dashed #1e293b;
+            border-bottom: 2px dashed #94a3b8;
             padding-bottom: 6px;
             margin-bottom: 10px;
         }
         header h1 {
-            color: #38bdf8;
+            color: #0369a1; /* Darker blue for readable printing */
             font-size: 18px; 
             margin: 0 0 2px 0;
             letter-spacing: 1.5px;
             text-transform: uppercase;
         }
         header p {
-            color: #94a3b8;
-            font-size: 11px;
+            color: #475569;
+            font-size: 10px;
             margin: 0;
         }
+        
+        /* OVERVIEW BAR: Transparent box saves massive ink */
         .overview-bar {
-            background: #0f172a;
-            border: 1px solid #1e293b;
+            background: #f8fafc;
+            border: 1px solid #cbd5e1;
             border-radius: 6px;
             padding: 6px;
             text-align: center;
-            font-size: 10px;
+            font-size: 9.5px;
             font-weight: bold;
-            color: #38bdf8;
-            margin-bottom: 10px;
+            color: #0369a1;
+            margin-bottom: 12px;
             letter-spacing: 0.5px;
         }
+        
+        /* SECTION TITLES: Vibrant but clean left markers */
         .section-title {
-            color: #f43f5e;
-            font-size: 12px;
+            color: #e11d48;
+            font-size: 11.5px;
             text-transform: uppercase;
             letter-spacing: 1px;
-            border-left: 4px solid #f43f5e;
+            border-left: 4px solid #e11d48;
             padding-left: 8px;
-            margin: 10px 0 8px 0;
+            margin: 14px 0 8px 0;
+            page-break-after: avoid; /* Prevents title disconnecting from cards */
         }
         .archive-title {
-            color: #10b981;
-            border-left-color: #10b981;
+            color: #059669;
+            border-left-color: #059669;
         }
+        
+        /* GRID MANAGEMENT & PAGE BREAK PROTECTION */
         .grid-3 {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr; /* Keeps your original wide 3-column setup */
-            gap: 10px; 
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 12px; 
         }
         .planet-card {
-            background: #0f172a;
-            border: 1px solid #1e293b;
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
             border-radius: 8px;
             padding: 10px;
             display: flex;
             flex-direction: column;
             align-items: center;
             text-align: center;
-            box-shadow: 0 4px 10px rgba(56, 189, 248, 0.05);
             box-sizing: border-box;
+            page-break-inside: avoid; /* Keeps single card from ripping across two pages */
         }
-        .card-active { border-color: rgba(244, 63, 94, 0.25); }
-        .card-vault { border-color: rgba(16, 185, 129, 0.25); }
+        .card-active { border-top: 3px solid #e11d48; }
+        .card-vault { border-top: 3px solid #059669; }
 
+        /* PLANET BALLS: Changed from heavy full-bleed circles to elegant thin rings */
         .planet-img {
-            width: 55px; 
-            height: 55px;
+            width: 45px; 
+            height: 45px;
             border-radius: 50%;
             margin-bottom: 6px;
             flex-shrink: 0;
+            border: 3px solid #64748b;
+            background: transparent !important; /* Forces ink savings */
         }
-        
-        .img-void-coal { background: radial-gradient(circle at 35% 35%, #27272a, #111827, #020617); box-shadow: 0 0 10px rgba(148, 163, 184, 0.15); }
-        .img-void-neon { background: radial-gradient(circle at 35% 35%, #3b0764, #1e1b4b, #030712); box-shadow: 0 0 10px rgba(168, 85, 247, 0.2); }
-        .img-void-blue { background: radial-gradient(circle at 35% 35%, #1e3a8a, #0f172a, #020617); box-shadow: 0 0 10px rgba(56, 189, 248, 0.2); }
-        .img-void-ash  { background: radial-gradient(circle at 35% 35%, #3f3f46, #18181b, #09090b); box-shadow: 0 0 10px rgba(113, 113, 122, 0.15); }
-        .img-void-fire { background: radial-gradient(circle at 35% 35%, #7f1d1d, #450a0a, #020617); box-shadow: 0 0 10px rgba(239, 68, 68, 0.2); }
+        .img-void-coal { border-color: #334155; }
+        .img-void-neon { border-color: #7c3aed; }
+        .img-void-blue { border-color: #0284c7; }
+        .img-void-ash  { border-color: #94a3b8; }
+        .img-void-fire { border-color: #dc2626; }
 
         .planet-info {
             width: 100%;
         }
         .planet-name {
-            font-size: 11.5px;
+            font-size: 11px;
             font-weight: bold;
-            color: #ffffff;
+            color: #0f172a;
             margin: 0 0 4px 0;
-            border-bottom: 1px solid #1e293b;
+            border-bottom: 1px solid #e2e8f0;
             padding-bottom: 4px;
         }
         .stat-line {
-            font-size: 10px;
-            color: #94a3b8;
+            font-size: 9.5px;
+            color: #475569;
             margin: 1px 0;
             text-align: left;
         }
         .stat-line strong {
-            color: #38bdf8;
+            color: #0369a1;
         }
         .description {
-            font-size: 10px;
-            color: #cbd5e1;
+            font-size: 9.5px;
+            color: #334155;
             margin: 4px 0 0 0;
             font-style: italic;
             line-height: 1.3;
             text-align: left;
-            border-top: 1px dashed #1e293b;
+            border-top: 1px dashed #e2e8f0;
             padding-top: 4px;
         }
+        
+        /* CHANNELS: Light gray blueprint boxes */
         .appearance-logic {
-            margin-top: 4px;
-            background: #111c30;
-            border: 1px solid #1d4ed8;
+            margin-top: 5px;
+            background: #f1f5f9;
+            border: 1px solid #93c5fd;
             border-radius: 4px;
             padding: 4px;
-            font-size: 9.5px;
-            color: #93c5fd;
+            font-size: 9px;
+            color: #1e3a8a;
             text-align: left;
             line-height: 1.2;
         }
+        
+        /* HAIKU BOXES: Light mint parchment box style */
         .haiku-box {
-            margin-top: 4px;
-            background: #022c22;
-            border: 1px solid #065f46;
+            margin-top: 5px;
+            background: #f0fdf4;
+            border: 1px solid #a7f3d0;
             border-radius: 6px;
             padding: 6px;
             font-family: 'Georgia', serif;
-            font-size: 10px;
-            color: #a7f3d0;
+            font-size: 9.5px;
+            color: #065f46;
             text-align: center;
-            line-height: 1.25;
-            letter-spacing: 0.5px;
+            line-height: 1.3;
+            letter-spacing: 0.2px;
         }
         .pi-credit {
             font-size: 8px;
@@ -159,63 +176,64 @@
             text-transform: uppercase;
         }
         
+        /* FOOTER RE-ARCHITECTURE: Clean border outlines */
         .qr-footer {
             margin-top: 15px; 
-            background: linear-gradient(135deg, #0f172a 0%, #020617 100%);
-            border: 1px solid #1e293b;
-            border-top: 2px solid #38bdf8;
+            background: #ffffff;
+            border: 1px solid #cbd5e1;
+            border-top: 3px solid #0369a1;
             border-radius: 12px;
             padding: 10px;
             display: flex;
             align-items: center;
             gap: 15px;
-            color: #f0f4f8;
+            color: #0f172a;
             box-sizing: border-box;
-            box-shadow: 0 0 20px rgba(56, 189, 248, 0.1);
+            page-break-inside: avoid;
         }
         .qr-box {
             background: #ffffff;
-            padding: 4px;
+            padding: 2px;
+            border: 1px solid #cbd5e1;
             border-radius: 6px;
             display: flex;
             align-items: center;
             justify-content: center;
             flex-shrink: 0;
-            box-shadow: 0 0 15px rgba(56, 189, 248, 0.25);
         }
         .footer-text {
-            font-size: 11px;
+            font-size: 10.5px;
             line-height: 1.35;
             text-align: left;
             flex-grow: 1;
         }
         .footer-text strong {
-            color: #38bdf8;
+            color: #0369a1;
             letter-spacing: 0.5px;
         }
         .link-badge-container {
             display: flex;
-            gap: 8px;
+            gap: 6px;
             margin-top: 4px;
             margin-bottom: 2px;
         }
         .link-badge {
-            background: #1e293b;
-            border: 1px solid #334155;
-            padding: 2px 8px;
+            background: #f1f5f9;
+            border: 1px solid #cbd5e1;
+            padding: 2px 6px;
             border-radius: 4px;
-            font-size: 10px;
-            color: #ffffff;
+            font-size: 9.5px;
+            color: #334155;
             display: inline-flex;
             align-items: center;
-            gap: 6px;
+            gap: 4px;
         }
         .link-badge span {
-            color: #38bdf8;
+            color: #0369a1;
             font-weight: bold;
         }
         .footer-meta {
-            border-top: 1px solid #1e293b;
+            border-top: 1px solid #e2e8f0;
             margin-top: 6px;
             padding-top: 4px;
             display: flex;
@@ -224,6 +242,7 @@
             font-size: 9px;
         }
     </style>
+
 </head>
 <body>
 
