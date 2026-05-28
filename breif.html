@@ -4,185 +4,166 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>TMA - Vetted Exoplanet Dispatch</title>
-    <!-- INTEGRATED INSTITUTIONAL FONTS -->
-    <link rel="preconnect" href="https://googleapis.com">
-    <link rel="preconnect" href="https://gstatic.com" crossorigin>
-    <link href="https://googleapis.com/css2?family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://googleapis.com" rel="stylesheet">
     <style>
         body {
             font-family: 'Space Mono', monospace;
-            line-height: 1.5;
-            color: #000000; /* Pure black for crisp printing */
-            max-width: 760px; /* Safely fits standard paper width at 100% */
+            line-height: 1.6;
+            color: #000000;
+            max-width: 800px;
             width: 100%;
             margin: auto;
-            padding: 40px 20px; /* Extra vertical padding to balance the page */
+            padding: 50px 30px;
             background-color: #ffffff;
             box-sizing: border-box;
         }
 
         header {
-            text-align: center;
-            border: 2px solid #000000;
-            padding: 20px;
-            margin-bottom: 40px;
+            text-align: left;
+            border-bottom: 2px solid #000000;
+            padding-bottom: 25px;
+            margin-bottom: 50px;
         }
 
         h1 { 
-            text-transform: uppercase; 
+            font-family: 'Georgia', serif;
+            font-size: 28px;
+            text-transform: none; 
             margin: 0; 
             font-weight: 700;
+            letter-spacing: 0px;
         }
         
         .pi-sub { 
-            font-size: 0.8rem; 
+            font-size: 0.85rem; 
             margin-top: 8px; 
             font-weight: bold; 
-            letter-spacing: 1px;
+            letter-spacing: 0.5px;
+            color: #444444;
         }
 
         .mission-brief {
-            font-size: 0.85rem;
-            margin-bottom: 50px; /* Extra space below the main card */
+            font-size: 0.95rem;
+            margin-bottom: 60px;
             border-left: 3px solid #000000;
-            border-right: 3px solid #000000;
-            padding: 15px 25px; 
+            padding: 10px 0 10px 24px; 
             text-align: left; 
         }
 
-        /* Centered Institutional Footer Styling */
+        .brief-title {
+            font-family: 'Georgia', serif;
+            font-size: 19px;
+            font-weight: bold; 
+            margin-bottom: 18px; 
+        }
+
         .qr-footer {
-            margin-top: 40px;
+            margin-top: 50px;
             display: flex;
-            flex-direction: column; /* Stacks the QR code over the text */
-            align-items: center;    /* Centers everything horizontally */
-            text-align: center;     /* Centers all text lines */
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
             border-top: 2px solid #000000;
-            padding-top: 30px;
+            padding-top: 40px;
         }
 
         .qr-box {
-            width: 105px;
-            height: 105px;
+            width: 110px;
+            height: 110px;
             border: 2px solid #000000;
             display: flex;
             align-items: center;
             justify-content: center;
             padding: 5px;
             background: #ffffff;
-            margin-bottom: 20px; /* Pushes the text down below the box */
-        }
-
-        .qr-box img {
-            display: block;
-            object-fit: contain;
+            margin-bottom: 25px;
         }
 
         .footer-text { 
             width: 100%;
-            font-size: 0.75rem; 
-            line-height: 1.4;
-            color: #000000;
+            font-size: 0.8rem; 
+            line-height: 1.5;
         }
         
         .footer-text strong {
-            text-transform: uppercase;
-            letter-spacing: 1px;
+            font-family: 'Georgia', serif;
+            font-size: 16px;
+            text-transform: none;
+            letter-spacing: 0.5px;
             display: block;
-            margin-bottom: 4px;
+            margin-bottom: 6px;
         }
         
         .link-badge-container {
             display: flex;
             gap: 12px;
-            margin: 15px 0;
-            justify-content: center; /* Centers badges horizontally */
+            margin: 20px 0;
+            justify-content: center;
         }
         
         .link-badge {
             background: #ffffff;
             border: 2px solid #000000;
-            padding: 4px 8px;
-            font-size: 0.7rem;
+            padding: 5px 12px;
+            font-size: 0.75rem;
             font-weight: bold;
-            color: #000000;
-        }
-        
-        .link-badge span {
-            text-decoration: underline;
         }
         
         .footer-meta {
-            margin-top: 15px;
-            padding-top: 10px;
+            margin-top: 20px;
+            padding-top: 15px;
             border-top: 1px dashed #000000;
             display: flex;
-            flex-direction: column; /* Stack details vertically for centered clean lines */
-            gap: 6px;
+            flex-direction: column;
+            gap: 8px;
             align-items: center;
-            font-size: 0.65rem;
-            color: #000000;
+            font-size: 0.7rem;
         }
 
-        /* HARD LOCKED PRINT PERFORMANCE STYLES */
         @media print {
-            .no-print { display: none; }
-            
-            body { 
-                padding: 20px 0; /* Maintains good framing on paper */
-                background-color: #ffffff !important;
-                color: #000000 !important;
-            }
-            
-            * {
-                -webkit-print-color-adjust: exact !important; 
-                print-color-adjust: exact !important;         
-            }
-
-            .qr-footer {
-                page-break-inside: avoid;
-                break-inside: avoid;
-            }
+            body { padding: 30px 0; background-color: #ffffff !important; color: #000000 !important; }
+            .qr-footer { page-break-inside: avoid; break-inside: avoid; }
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1 style="font-size: 1.3rem; white-space: nowrap; letter-spacing: 2px;">CT TECH WEEK // THE MOORE SIGNAL ARCHIVE LLC</h1>
-        <div class="pi-sub">INTERDISCIPLINARY DEEP SPACE CITIZEN SCIENCE // OVERVIEW</div>
+        <h1>The Moore Signal Archive</h1>
+        <div class="pi-sub">// Interdisciplinary Deep Space Citizen Science • Overview</div>
     </header>
 
     <div class="mission-brief">
-        <div style="font-weight: bold; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 1px;">📡 SESSION BRIEF & ARCHIVE SCOPE</div>
+        <div class="brief-title">📡 Session Brief & Archive Scope</div>
         
-        <div style="margin-bottom: 10px;">• <strong>THE HUB:</strong> I operate a hub dedicated to exploring a diverse collection of creative inquiries—ranging from deep space data pipelines to the poetry of human perception.</div>
+        <div style="margin-bottom: 16px;">• <strong>The Hub:</strong> I operate an independent research hub dedicated to exploring a diverse collection of creative inquiries—ranging from deep space data points to the poetry of human perception.</div>
         
-        <div style="margin-bottom: 10px;">• <strong>EXOTIC PIPELINE:</strong> Converts raw stellar image data into clean planetary light curves by mapping shifting dips in starlight.</div>
+        <div style="margin-bottom: 16px;">• <strong>Data Translation:</strong> We look at how raw stellar light-curve telemetry mapped through NASA’s Exoplanet Watch can be decoded into structured visual and creative layouts.</div>
         
-        <div style="margin-bottom: 0;">• <strong>TALKING POINTS:</strong> Today's session breaks down the initiatives of Exoplanet Watch and Zooniverse, methods for participating in active citizen science research, and ways I have transformed those cosmic findings into structured poetry.</div>
+        <div style="margin-bottom: 0;">• <strong>Core Initiatives:</strong> Today's session breaks down my open-source learning journey across the NASA ecosystem and Zooniverse, methods for engaging with public data, and ways we can connect those cosmic findings directly to contemporary poetry.</div>
     </div>
 
-    <!-- CENTERED COMPLIANCE QR FOOTER SECTION WITH BALANCED BADGES -->
     <div class="qr-footer">
         <div class="qr-box">
             <img src="./images.css/image-qr-code.png" width="95" height="95" alt="QR Access Gateway">
         </div>
         <div class="footer-text">
-            <strong>📡 ACCESS THE DATA GATEWAY</strong>
-            <div style="color: #000000; font-weight: bold; max-width: 600px; margin: auto;">Scan this QR code to monitor my official website, access live 3D orbital visuals, and explore my findings on GitHub.</div>
+            <strong>Access the Data Gateway</strong>
+            <div style="max-width: 620px; margin: auto; font-size: 0.85rem;">Scan this single QR code to interact with 3D orbital visuals, monitor my research repositories, and connect with my speaker portfolio.</div>
             
             <div class="link-badge-container">
-                <div class="link-badge">🪐 VISUAL PORTAL: <span>emaze.me/nasa</span></div>
-                <div class="link-badge">💼 ARCHIVE HUB: <span>bio.site/mooresignal</span></div>
+                <div class="link-badge">🪐 3D Visuals: <span>NASA Simulations</span></div>
+                <div class="link-badge">💼 Profile Portfolio: <span>bio.site/mooresignal</span></div>
             </div>
 
             <div class="footer-meta">
-                <span style="font-style: italic; max-width: 90%;">
-                    Data Architecture & Synthesis via The Moore Signal Archive LLC. Public records utilization. Non-affiliated with NASA official operations.
+                <span style="font-style: italic; max-width: 90%; color: #555555;">
+                    Disclaimer: Independent citizen science tracking utilizing open public domain data. Not officially affiliated with or endorsed by NASA.
                 </span>
-                <span style="font-weight: bold; font-family: monospace; letter-spacing: 0.5px;">
-                    themoorearchive@proton.me // Glastonbury, CT 06033
+                <span style="font-weight: bold; letter-spacing: 0.5px; margin-top: 4px;">
+                    themoorearchive@proton.me
                 </span>
             </div>
         </div>
