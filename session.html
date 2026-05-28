@@ -88,7 +88,7 @@
 
         .time-block {
             display: flex;
-            margin-bottom: 18px;
+            margin-bottom: 22px;
             page-break-inside: avoid;
         }
 
@@ -148,7 +148,7 @@
             padding-top: 20px;
             margin-top: 25px;
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
             align-items: center;
         }
 
@@ -159,225 +159,95 @@
             line-height: 1.6;
             border-left: 3px solid var(--space-black);
             padding-left: 15px;
-            max-width: 60%;
-        }
-
-        .footer-note {
-            font-size: 11px;
-            text-align: right;
-            max-width: 35%;
-            color: #555;
-        }
-
-        .qr-footer {
-            margin-top: 25px;
-            background: #ffffff;
-            border: 2px solid var(--space-black);
-            border-radius: 8px;
-            padding: 16px;
-            display: flex;
-            align-items: center;
-            gap: 20px;
-            color: var(--space-black);
-            box-sizing: border-box;
-        }
-        
-        .qr-box {
-            background: #ffffff;
-            padding: 4px;
-            border: 1px solid #000;
-            border-radius: 6px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-        
-        .footer-text {
-            font-size: 12px;
-            line-height: 1.45;
+            max-width: 80%;
             text-align: left;
-            flex-grow: 1;
-        }
-        
-        .footer-text strong {
-            color: var(--space-black);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-        
-        .link-badge-container {
-            display: flex;
-            gap: 10px;
-            margin-top: 8px;
-            margin-bottom: 2px;
-        }
-        
-        .link-badge {
-            background: #f1f5f9;
-            border: 1px solid #cbd5e1;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-size: 11px;
-            color: #334155;
-            display: inline-flex;
-            align-items: center;
-            gap: 6px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-        
-        .link-badge span {
-            color: #0284c7;
-            font-weight: bold;
-        }
-        
-        .footer-meta {
-            border-top: 1px dashed #ccc;
-            margin-top: 8px;
-            padding-top: 6px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
         }
 
         @media print {
             body { background: white; color: black; padding: 0; }
             .itinerary-card { padding: 0; width: 100%; max-width: 100%; }
             .tag { background: none !important; border: 1px solid black !important; color: black !important; }
-            .link-badge { background: none !important; border: 1px solid black !important; color: black !important; }
-            .link-badge span { color: black !important; }
-            .footer-meta span { background: none !important; color: black !important; border: 1px solid black; }
         }
     </style>
 </head>
 <body>
 
-<div class="itinerary-card">
-    <div class="frame">
+<div class="itinerary-card" style="max-width: 850px; padding: 40px 10px;">
+    <div class="frame" style="border: none; padding: 0;">
         
-        <header>
+        <!-- Header Section with Increased Spacing -->
+        <header style="border-bottom: 2px solid var(--space-black); padding-bottom: 25px; margin-bottom: 50px; display: flex; justify-content: space-between; align-items: flex-start;">
             <div class="title-area">
-                <h1>The Moore Signal Archive</h1>
-                <p style="font-weight: bold; color: #000000;">// An Immersive Poetry Installation • CT Tech Week</p>
+                <h1 style="font-family: 'Georgia', serif; font-size: 32px; font-weight: 700; letter-spacing: 0.5px; color: var(--space-black);">The Moore Signal Archive</h1>
+                <p style="font-weight: bold; color: #444444; font-family: 'Courier New', Courier, monospace; font-size: 15px; margin-top: 6px;">// A Casual Pop-Up • CT Tech Week</p>
             </div>
-            <div class="meta-box">
-                <strong>Installation Brief</strong>
+            <div class="meta-box" style="border-left: 2px solid var(--space-black); padding-left: 24px; font-size: 14px; line-height: 1.6; font-family: 'Courier New', Courier, monospace;">
+                <strong style="font-family: 'Segoe UI', sans-serif; font-size: 15px; letter-spacing: 0.5px;">Session Itinerary</strong>
                 Date: Tuesday, June 2nd<br>
                 Host: Angela N. Moore, PI<br>
-                Location: The Ely Center of Contemporary Art
+                Location: 162 James St, New Haven
             </div>
         </header>
 
-        <div class="timeline">
+        <!-- Timeline Section with Expanded Spacing to Fill Page -->
+        <div class="timeline" style="margin-bottom: 60px;">
             
-            <!-- Block 1 -->
-            <div class="time-block">
-                <div class="time-col">11:00 - 12:00</div>
-                <div class="content-col">
-                    <h3>Gallery Welcome & Gathering</h3>
-                    <p>Doors open at the gallery space. Meet the host, settle into the space, and pick up your interactive event packets and materials.</p>
-                    <div class="tags">
-                        <span class="tag">Early Arrival</span>
-                        <span class="tag">Art Materials</span>
+            <!-- Block 1: The Briefing -->
+            <div class="time-block" style="margin-bottom: 45px; display: flex;">
+                <div class="time-col" style="font-family: 'Courier New', Courier, monospace; font-size: 17px; font-weight: bold; min-width: 150px; border-right: 2px solid var(--space-black); padding-right: 20px; margin-right: 25px; padding-top: 2px;">12:00 - 12:15</div>
+                <div class="content-col" style="flex-grow: 1;">
+                    <h3 style="font-family: 'Georgia', serif; font-size: 18px; font-weight: 700; letter-spacing: 0.5px; margin-bottom: 6px;">Introduction & Creative Overview</h3>
+                    <p style="font-size: 15px; color: #222222; line-height: 1.5; margin-bottom: 10px;">The session formally begins with a short introduction. I will be sharing my real-world experiences navigating raw data through NASA's Exoplanet Watch and deep-space Zooniverse classifications, and showing how we connect these inquiries directly to contemporary poetry.</p>
+                    <div class="tags" style="display: flex; gap: 8px;">
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">Overview</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">Space Data</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">GitHub Tracking</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Block 2 -->
-            <div class="time-block">
-                <div class="time-col">12:00 - 12:15</div>
-                <div class="content-col">
-                    <h3>Introduction & Creative Overview</h3>
-                    <p>The session formally begins. A short introduction outlining how to conduct citizen science research for NASA, and how we map those deep space discoveries into creative writing and contemporary poetry.</p>
-                    <div class="tags">
-                        <span class="tag">Opening</span>
-                        <span class="tag">Space Data</span>
+            <!-- Block 2: Interactive Exploration & Q&A -->
+            <div class="time-block" style="margin-bottom: 45px; display: flex;">
+                <div class="time-col" style="font-family: 'Courier New', Courier, monospace; font-size: 17px; font-weight: bold; min-width: 150px; border-right: 2px solid var(--space-black); padding-right: 20px; margin-right: 25px; padding-top: 2px;">12:15 - 12:45</div>
+                <div class="content-col" style="flex-grow: 1;">
+                    <h3 style="font-family: 'Georgia', serif; font-size: 18px; font-weight: 700; letter-spacing: 0.5px; margin-bottom: 6px;">3D Simulation, Word Selection & Open Q&A</h3>
+                    <p style="font-size: 15px; color: #222222; line-height: 1.5; margin-bottom: 10px;">Scan a single QR code to enter our digital interactive hub right on your smartphone. Together, we will navigate official 3D NASA planetary simulations, explore different worlds, and choose a single word describing your observations. This window is completely open for individual questions about my citizen science experiences or how to get involved.</p>
+                    <div class="tags" style="display: flex; gap: 8px;">
+                        <span class="tag interactive" style="font-family: 'Courier New', monospace; font-size: 12px; background: #FFF3F0; border: 1px solid var(--accent-crimson); color: #D32F2F; padding: 3px 10px; border-radius: 3px;">Interactive Hub</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">NASA Simulations</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">Open Q&A</span>
                     </div>
                 </div>
             </div>
 
-            <!-- Block 3 -->
-            <div class="time-block">
-                <div class="time-col">12:15 - 12:35</div>
-                <div class="content-col">
-                    <h3>Planet Exploration & Word Selection</h3>
-                    <p>Explore our cosmic planetary guides using the digital Emaze Hub or physical display sheets. Find a world that speaks to you, and choose a single, powerful word that describes its atmosphere.</p>
-                    <div class="tags">
-                        <span class="tag interactive">Interactive</span>
-                        <span class="tag">QR Portal</span>
-                        <span class="tag">Planet Guides</span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Block 4 -->
-            <div class="time-block">
-                <div class="time-col">12:35 - 12:55</div>
-                <div class="content-col">
-                    <h3>Invisible Ink Lab & Interactive UV Craft</h3>
-                    <p>Write your chosen planet and your selected inspiration word on your paper slate using specialized invisible ink markers. Step under the blacklights to watch your hidden words instantly glow into view.</p>
-                    <div class="tags">
-                        <span class="tag interactive">UV Light</span>
-                        <span class="tag interactive">Invisible Ink</span>
-                        <span class="tag">Word Selection</span>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Block 5 -->
-            <div class="time-block">
-                <div class="time-col">12:55 - 1:00</div>
-                <div class="content-col">
-                    <h3>Gallery Collection & Wrap Up</h3>
-                    <p>Finished word cards are collected. After the event, the host will expand your chosen words into custom archive poems to be featured in our upcoming post-event digital showcase.</p>
-                    <div class="tags">
-                        <span class="tag">Creative Archive</span>
-                        <span class="tag">Closing</span>
+            <!-- Block 3: Intake Submission & Memento Wrap-Up -->
+            <div class="time-block" style="margin-bottom: 45px; display: flex;">
+                <div class="time-col" style="font-family: 'Courier New', Courier, monospace; font-size: 17px; font-weight: bold; min-width: 150px; border-right: 2px solid var(--space-black); padding-right: 20px; margin-right: 25px; padding-top: 2px;">12:45 - 1:00</div>
+                <div class="content-col" style="flex-grow: 1;">
+                    <h3 style="font-family: 'Georgia', serif; font-size: 18px; font-weight: 700; letter-spacing: 0.5px; margin-bottom: 6px;">Intake Submission & Memento Wrap-Up</h3>
+                    <p style="font-size: 15px; color: #222222; line-height: 1.5; margin-bottom: 10px;">Log your observations onto your navigator intake sheet and return the completed form to the host to help inspire the digital archive. This milestone marks the official start of our session wrap-up: once you submit your form, you are welcome to collect your polished Black Obsidian Star Stone and specialized invisible UV ink pen memento package.</p>
+                    <p style="font-style: italic; font-size: 14px; color: #555555; line-height: 1.5; margin-bottom: 10px;">Note: As you complete your tracking, you are welcome to collect your mementos and exit the space at your convenience, or stay to continue the conversation.</p>
+                    <div class="tags" style="display: flex; gap: 8px;">
+                        <span class="tag interactive" style="font-family: 'Courier New', monospace; font-size: 12px; background: #FFF3F0; border: 1px solid var(--accent-crimson); color: #D32F2F; padding: 3px 10px; border-radius: 3px;">Form Submission</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">Memento Collection</span>
+                        <span class="tag" style="font-family: 'Courier New', monospace; font-size: 12px; background: #EEEEEE; padding: 3px 10px; border: 1px solid #CCC; border-radius: 3px;">Exit Window</span>
                     </div>
                 </div>
             </div>
 
         </div>
 
-        <footer>
-            <div class="haiku-box">
+        <!-- Footer Area Expanded Downwards -->
+        <footer style="border-top: 2px solid var(--space-black); padding-top: 35px; display: flex; justify-content: flex-start;">
+            <div class="haiku-box" style="border-left: 3px solid var(--space-black); padding-left: 24px; font-family: 'Courier New', Courier, monospace; font-style: italic; font-size: 16px; line-height: 1.7; max-width: 100%;">
                 Exploring planets,<br>
                 Mysterious worlds that dwell,<br>
                 Beyond the hand's reach.
             </div>
-            <div class="footer-note">
-                <strong>Project Transparency:</strong> Independent research operations managed via The Moore Signal Archive LLC.
-            </div>
         </footer>
-
-        <!-- COMPLIANCE QR FOOTER SECTION WITH YOUR LIVE WEBSITES -->
-        <div class="qr-footer">
-            <div class="qr-box">
-                <img src="./images.css/image-qr-code.png" width="95" height="95" alt="QR Access Gateway">
-            </div>
-            <div class="footer-text">
-                <strong>🛰️ ACCESS THE DATA GATEWAY</strong>
-                <div style="margin-top: 2px; font-size: 11px; font-weight: 500; color: #000000;">Scan this QR code to monitor my official website, access live 3D orbital visuals, and explore my findings on GitHub.</div>
-                
-                <div class="link-badge-container">
-                    <div class="link-badge">🪐 3D Visuals: <span>emaze.me/nasa</span></div>
-                    <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
-                </div>
-
-                <div class="footer-meta">
-                    <span style="font-size: 0.65rem; font-weight: bold; font-style: italic; max-width: 65%; color: #000000;">
-                        Disclaimer: Independent citizen science data assembly utilizing open public domain resources. Not officially affiliated with or endorsed by NASA.
-                    </span>
-                    <span style="font-family: 'Courier New', Courier, monospace; font-size: 0.7rem; background: #f1f5f9; border: 1px solid var(--space-black); padding: 3px 8px; border-radius: 4px; font-weight: bold; color: #000000;">
-                        themoorearchive@proton.me // Glastonbury, CT 06033
-                    </span>
-                </div>
-            </div>
-        </div>
 
     </div>
 </div>
 
 </body>
-
 </html>
