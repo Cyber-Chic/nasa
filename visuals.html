@@ -2,440 +2,357 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Exoplanetary Overviews - CT Tech Week</title>
+    <title>Exoplanetary Overviews - Active Targets</title>
     <style>
         /* PAGE SETUP: Standard letter sizes with defensive margins */
-        @page {
-            size: letter portrait;
-            margin: 0.4in 0.3in;
+        @page { 
+            size: letter portrait; 
+            margin: 0.4in 0.3in; 
         }
         
-        /* THE COLOR INVERSION: White background, deep black text */
         body {
-            background-color: #ffffff;
-            color: #000000; /* Force basic body text to pure black */
-            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            font-size: 10.5px; 
-            line-height: 1.35;
-            -webkit-print-color-adjust: exact;
-            print-color-adjust: exact;
+            background-color: #ffffff; 
+            color: #000000;
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            margin: 0; 
+            padding: 0; 
+            font-size: 11px; 
+            line-height: 1.4;
         }
         
-        /* HEADER: Clean, crisp text accents */
-        header {
-            text-align: center;
-            border-bottom: 2px dashed #000000; /* Swapped from grey to black */
-            padding-bottom: 6px;
-            margin-bottom: 10px;
+        header { 
+            text-align: center; 
+            border-bottom: 2px dashed #000000; 
+            padding-bottom: 6px; 
+            margin-bottom: 12px; 
         }
-        header h1 {
-            color: #0369a1; /* Dark blue title */
+        
+        header h1 { 
+            color: #0369a1; 
             font-size: 18px; 
-            margin: 0 0 2px 0;
-            letter-spacing: 1.5px;
-            text-transform: uppercase;
-        }
-        header p {
-            color: #000000; /* Swapped from grey to pure black */
-            font-size: 10px;
-            font-weight: bold;
-            margin: 0;
+            margin: 0 0 2px 0; 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
         }
         
-        /* OVERVIEW BAR */
+        header p { 
+            font-size: 10px; 
+            font-weight: bold; 
+            margin: 0; 
+        }
+        
         .overview-bar {
-            background: #f8fafc;
-            border: 1px solid #000000; /* Swapped to pure black border */
+            background: #f8fafc; 
+            border: 1px solid #000000; 
             border-radius: 6px;
-            padding: 6px;
-            text-align: center;
-            font-size: 9.5px;
+            padding: 6px; 
+            text-align: center; 
+            font-size: 9.5px; 
             font-weight: bold;
-            color: #0369a1;
-            margin-bottom: 12px;
-            letter-spacing: 0.5px;
+            color: #0369a1; 
+            margin-bottom: 15px;
         }
         
-        /* SECTION TITLES */
         .section-title {
-            color: #e11d48;
-            font-size: 11.5px;
-            text-transform: uppercase;
+            color: #e11d48; 
+            font-size: 11.5px; 
+            text-transform: uppercase; 
             letter-spacing: 1px;
-            border-left: 4px solid #e11d48;
-            padding-left: 8px;
-            margin: 14px 0 8px 0;
-            page-break-after: avoid;
+            border-left: 4px solid #e11d48; 
+            padding-left: 8px; 
+            margin: 15px 0 10px 0;
         }
-        .archive-title {
-            color: #059669;
-            border-left-color: #059669;
-        }
-        
-        /* GRID MANAGEMENT & CARD STRUCTURE */
+
+        /* 🚀 HARD LOCKED SYMMETRICAL GRID CONFIGURATION */
         .grid-3 {
             display: grid;
-            grid-template-columns: 1fr 1fr 1fr;
+            grid-template-columns: repeat(3, 1fr);
+            grid-auto-rows: 1fr; /* Ensures all rows dynamically scale to match */
             gap: 12px; 
+            margin-bottom: 20px;
         }
+        
         .planet-card {
             background: #ffffff;
-            border: 1px solid #000000; /* Crisp black card outlines */
+            border: 1px solid #000000;
             border-radius: 8px;
-            padding: 10px;
+            padding: 12px;
             display: flex;
             flex-direction: column;
             align-items: center;
             text-align: center;
             box-sizing: border-box;
+            height: 100%; /* Spans full cell height */
+            min-height: 250px; /* Forces short cards to match deep cards */
             page-break-inside: avoid;
         }
-        .card-active { border-top: 3px solid #e11d48; }
-        .card-vault { border-top: 3px solid #059669; }
-
-        /* PLANET RADAR RINGS */
-        .planet-img {
-            width: 45px; 
-            height: 45px;
-            border-radius: 50%;
-            margin-bottom: 6px;
-            flex-shrink: 0;
-            border: 3px solid #000000;
-            background: transparent !important;
-        }
-        .img-void-coal { border-color: #000000; }
-        .img-void-neon { border-color: #7c3aed; }
-        .img-void-blue { border-color: #0284c7; }
-        .img-void-ash  { border-color: #555555; }
-        .img-void-fire { border-color: #dc2626; }
 
         .planet-info {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between; 
             width: 100%;
+            height: 100%;
+            flex-grow: 1; /* Drives internal expansion */
         }
-        .planet-name {
-            font-size: 11px;
-            font-weight: bold;
-            color: #000000;
-            margin: 0 0 4px 0;
-            border-bottom: 1px solid #000000;
-            padding-bottom: 4px;
-        }
-        .stat-line {
-            font-size: 9.5px;
-            color: #000000; /* Swapped from grey to pure black */
-            margin: 1px 0;
-            text-align: left;
-        }
-        .stat-line strong {
-            color: #0369a1; /* Keep blue labels */
-        }
-        .description {
-            font-size: 9.5px;
-            color: #000000; /* Swapped from grey to pure black */
-            margin: 4px 0 0 0;
-            font-style: italic;
-            line-height: 1.3;
-            text-align: left;
-            border-top: 1px dashed #000000;
-            padding-top: 4px;
+
+        /* PLANET RADAR RINGS - HARD LOCKED DIMENSIONS */
+        .planet-img { 
+            width: 45px; 
+            height: 45px; 
+            max-width: 45px; /* 🚀 Hard-locks width from warping */
+            max-height: 45px; /* 🚀 Hard-locks height from warping */
+            border-radius: 50%; 
+            margin-bottom: 8px; 
+            border: 3px solid #000000; 
+            flex-shrink: 0; /* 🚀 Prevents browser from squishing the circles */
         }
         
-        /* CHANNELS: Blueprint boxes with sharp navy text */
+        .planet-name { 
+            font-size: 11px; 
+            font-weight: bold; 
+            margin: 0 0 6px 0; 
+            border-bottom: 1px solid #000000; 
+            padding-bottom: 4px; 
+        }
+        
+        .stat-line { 
+            font-size: 9.5px; 
+            margin: 2px 0; 
+            text-align: left; 
+        }
+        
+        .stat-line strong { 
+            color: #0369a1; 
+        }
+        
+        .description { 
+            font-size: 9.5px; 
+            margin: 6px 0 0 0; 
+            font-style: italic; 
+            line-height: 1.3; 
+            text-align: left; 
+            border-top: 1px dashed #000000; 
+            padding-top: 6px; 
+        }
+        
+        /* CHANNELS: Blueprint boxes with sharp navy text - SIZE LOCKED */
         .appearance-logic {
-            margin-top: 5px;
+            margin-top: auto;   /* 🚀 Pushes the box flush to the absolute bottom of the card */
             background: #f1f5f9;
             border: 1px solid #93c5fd;
             border-radius: 4px;
-            padding: 4px;
+            padding: 5px;
             font-size: 9px;
-            color: #000000; /* Swapped to pure black for high contrast readability */
+            color: #000000;
             text-align: left;
             line-height: 1.2;
+            width: 100%;        /* 🚀 Forces box to fill the entire card width */
+            min-height: 42px;   /* 🚀 HARD baseline: matches 2-line boxes to 3-line boxes */
+            box-sizing: border-box;
         }
-        .appearance-logic strong {
-            color: #1e3a8a; /* Blue highlights inside logic box */
+
+        
+        .appearance-logic strong { 
+            color: #1e3a8a; 
         }
         
-        /* HAIKU BOXES: Light mint background with BOLD, crisp forest green text to stop blurring */
+        
+        /* THE HAIKU BOXES - RAZOR SHARP HIGH-CONTRAST PRINT LOOK */
         .haiku-box {
-            margin-top: 5px;
-            background: #f0fdf4;
-            border: 1px solid #059669; /* Sharp green border */
+            margin-top: 8px; 
+            background: #ffffff; /* 🚀 Stripped background tint to stop text blurring */
+            border: 1px solid #000000; /* 🚀 Crisp solid black framework */
             border-radius: 6px;
-            padding: 6px;
-            font-family: 'Segoe UI', Roboto, sans-serif; /* Changed to sans-serif to prevent tiny serif blurring */
-            font-size: 9.5px;
-            font-weight: bold; /* Bolded text makes the green clean and readable */
-            color: #044e37; /* Darker forest green for sharp print contrast */
+            padding: 8px; 
+            font-family: 'Segoe UI', Roboto, sans-serif;
+            font-size: 9.5px; 
+            font-weight: bold; 
+            color: #000000; /* 🚀 Pure black for ultimate high-contrast legibility */
             text-align: center;
-            line-height: 1.3;
-            letter-spacing: 0.2px;
+            line-height: 1.4;
+            letter-spacing: 0.5px;
         }
-        .pi-credit {
-            font-size: 8px;
-            color: #000000; /* Swapped from grey to black */
-            margin-top: 2px;
-            font-weight: bold;
-            text-transform: uppercase;
-        }
+
         
-        /* FOOTER RE-ARCHITECTURE */
-        .qr-footer {
-            margin-top: 15px; 
-            background: #ffffff;
-            border: 1px solid #000000;
-            border-top: 3px solid #0369a1;
-            border-radius: 12px;
-            padding: 10px;
-            display: flex;
-            align-items: center;
-            gap: 15px;
-            color: #000000;
+        .pi-credit { 
+            font-size: 8px; 
+            margin-top: 2px; 
+            font-weight: bold; 
+            text-transform: uppercase; 
+        }
+
+        /* 🚀 DASHED NOTES FOOTER STYLES */
+        .notes-footer { 
+            margin-top: 25px; 
+            border: 1px solid #000000; 
+            border-top: 3px solid #0369a1; 
+            border-radius: 8px; 
+            padding: 12px; 
             box-sizing: border-box;
             page-break-inside: avoid;
         }
-        .qr-box {
-            background: #ffffff;
-            padding: 2px;
-            border: 1px solid #000000;
-            border-radius: 6px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-        .footer-text {
-            font-size: 10.5px;
-            line-height: 1.35;
+        
+        .notes-header { 
+            font-size: 10px; 
+            font-weight: bold; 
+            color: #0369a1; 
+            text-transform: uppercase; 
+            letter-spacing: 1px; 
+            margin-bottom: 8px; 
             text-align: left;
-            flex-grow: 1;
         }
-        .footer-text strong {
-            color: #0369a1;
-            letter-spacing: 0.5px;
-        }
-        .link-badge-container {
-            display: flex;
-            gap: 6px;
-            margin-top: 4px;
-            margin-bottom: 2px;
-        }
-        .link-badge {
-            background: #f1f5f9;
-            border: 1px solid #000000; /* Sharp outline */
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 9.5px;
-            color: #000000;
-            display: inline-flex;
-            align-items: center;
-            gap: 4px;
-        }
-        .link-badge span {
-            color: #0369a1;
-            font-weight: bold;
-        }
-        .footer-meta {
-            border-top: 1px solid #000000;
-            margin-top: 6px;
-            padding-top: 4px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 9px;
+        
+        .notes-lines { 
+            border-bottom: 1px dashed #cccccc; 
+            height: 22px; 
+            margin-bottom: 6px; 
         }
     </style>
-
 
 </head>
 <body>
 
     <header>
         <h1>🌌 [ EXOPLANETARY OVERVIEWS ]</h1>
-        <p>🎨 THE DESCRIPTIVE GALLERY: FEATURED SIGNALS // CT TECH WEEK</p>
+        <p>🎯 THE DESCRIPTIVE GALLERY: FEATURED SIGNALS // CT TECH WEEK</p>
     </header>
 
     <div class="overview-bar">
-        STUDIED SYSTEMS: TrES-2 b • TrES-3 b • TrES-5 b • Qatar-2 b • WASP-10 b • WASP-12 b • WASP-49 b • WASP-52 b • WASP-140 b
+        ACTIVE TRACKING SYSTEMS: TrES-5 b • Qatar-2 b • WASP-10 b • WASP-49 b • WASP-52 b • WASP-140 b • TrES-2 b • WASP-12 b • TrES-3 b
     </div>
 
-    <!-- SECTION 1: 6 ACTIVE OPEN TELEMETRY CHANNELS -->
+    <!-- SECTION 1: THE 6 ACTIVE INQUIRY TARGETS -->
     <div class="section-title">🎯 ACTIVE TELEMETRY: OPEN FOR CHOSEN INSPIRATIONAL KEYWORDS</div>
     <div class="grid-3">
         
         <!-- Target 1: TrES-5 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-neon"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #7c3aed;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ TrES-5 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Very Far (~1,100 ly)</div>
-                <div class="stat-line"><strong>Weight:</strong> Heavy (Nearly 2x Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 1.5 Days!</div>
-                <div class="description">A giant planet that orbits a star so faint and dim that human telescopes had to work extra hard to spot it.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Deep purple. It sits next to a dim orange star, washing the planet's dark gas clouds in a faint purple tint.</div>
+                <div class="stat-line"><strong>Weight:</strong> Heavy (~2x Jupiter)</div>
+                <div class="stat-line"><strong>Year:</strong> 1.5 Days</div>
+                <div class="description">A giant planet orbiting a faint, dim star that required extra telescope observation time to locate.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Deep purple clouds washed in a faint tint from an orange parent star.</div>
             </div>
         </div>
 
         <!-- Target 2: Qatar-2 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-coal"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #000000;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ Qatar-2 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Far (~590 ly)</div>
                 <div class="stat-line"><strong>Weight:</strong> Massive (2.5x Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 1.3 Days!</div>
-                <div class="description">This planet is stuck and cannot spin. One side permanently faces its sun and roasts, while the other side faces frozen dark space.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Matte black. The heavy atmosphere behaves like a giant sponge that completely swallows up all incoming starlight.</div>
+                <div class="stat-line"><strong>Year:</strong> 1.3 Days</div>
+                <div class="description">Stuck in synchronous rotation; one side permanently roasts while the other faces dark, frozen space.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Matte black atmosphere acting as a sponge swallowing starlight.</div>
             </div>
         </div>
 
         <!-- Target 3: WASP-10 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-blue"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #0284c7;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ WASP-10 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Far (~460 ly)</div>
                 <div class="stat-line"><strong>Weight:</strong> Huge (Over 3x Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 3.1 Days!</div>
-                <div class="description">An incredibly tightly packed planet. It travels along an egg-shaped oval path and is hard and dense like our Moon.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Dark navy. The immense weight of the planet squeezes its air into thick, glass-like sapphire clouds.</div>
+                <div class="stat-line"><strong>Year:</strong> 3.1 Days</div>
+                <div class="description">Tightly packed, dense planet orbiting along an egg-shaped path. Hard and solid atmospheric layers.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Dark navy. Heavy weight squeezes atmospheric content into sapphire glass clouds.</div>
             </div>
         </div>
 
         <!-- Target 4: WASP-49 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-ash"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #555555;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ WASP-49 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Far (~635 ly)</div>
-                <div class="stat-line"><strong>Weight:</strong> Light (1/3 of Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 2.8 Days!</div>
-                <div class="description">A lighter planet trapped inside a fast gas cloud. Scientists think a hidden, highly volcanic moon is blasting out this gas.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Ash gray. High amounts of salt vapor eat away all warm orange and yellow colors, leaving a ghostly silhouette.</div>
+                <div class="stat-line"><strong>Weight:</strong> Light (1/3 Jupiter)</div>
+                <div class="stat-line"><strong>Year:</strong> 2.8 Days</div>
+                <div class="description">Lighter gas giant wrapped inside a fast cloud, potentially fueled by a hidden, highly volcanic moon.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Ash gray silhouette caused by high amounts of localized salt vapor.</div>
             </div>
         </div>
 
         <!-- Target 5: WASP-52 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-blue"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #0284c7;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ WASP-52 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Far (~570 ly)</div>
-                <div class="stat-line"><strong>Weight:</strong> Medium (Half of Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 1.7 Days!</div>
-                <div class="description">A puffy gas planet that sits too close to its sun. The solar heat is boiling the air so fast that it blows off into space.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Icy blue rim. Highlights a massive tail of escaping gas that the planet leaves behind like a comet.</div>
+                <div class="stat-line"><strong>Weight:</strong> Medium (1/2 Jupiter)</div>
+                <div class="stat-line"><strong>Year:</strong> 1.7 Days</div>
+                <div class="description">Puffy world sitting so close to its parent sun that solar wind actively boils its outer air into space.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Icy blue rim highlighting a massive tail of escaping cometary gas.</div>
             </div>
         </div>
 
         <!-- Target 6: WASP-140 b -->
-        <div class="planet-card card-active">
-            <div class="planet-img img-void-neon"></div>
+        <div class="planet-card">
+            <div class="planet-img" style="border-color: #7c3aed;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ WASP-140 b ]</div>
                 <div class="stat-line"><strong>Distance:</strong> Medium (~380 ly)</div>
                 <div class="stat-line"><strong>Weight:</strong> Massive (2.5x Jupiter)</div>
-                <div class="stat-line"><strong>Year Length:</strong> Only 2.2 Days!</div>
-                <div class="description">A heavy world skimming across a narrow edge around a very young star that is spinning at chaotic speeds.</div>
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Violet rings. Represents the constant bombardment of intense, high-energy UV rays hitting the upper gas layers.</div>
+                <div class="stat-line"><strong>Year:</strong> 2.2 Days</div>
+                <div class="description">Heavy world skimming a narrow boundary edge around a rapidly spinning, turbulent young star.</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Violet rings mapping intense, high-energy UV ray bombardment.</div>
             </div>
         </div>
 
-    </div>
+    </div> <!-- Closes First Grid Container -->
 
-    <!-- SECTION 2: 3 COMPLETED RECORDS -->
-    <div class="section-title archive-title">📚 THE POETRY VAULT: CATALOGUED FEATURED SIGNALS</div>
+    <!-- SECTION 2: THE 3 VAULT RELEASES (RESTORED INTERRUPT) -->
+    <div class="section-title archive-title" style="color: #059669; border-left: 4px solid #059669; padding-left: 8px; margin: 25px 0 10px 0; text-transform: uppercase; font-weight: bold; letter-spacing: 1px;">📚 THE POETRY VAULT: CATALOGUED FEATURED SIGNALS</div>
     <div class="grid-3">
         
         <!-- Vault 1: TrES-2 b -->
-        <div class="planet-card card-vault">
-            <div class="planet-img img-void-coal"></div>
+        <div class="planet-card" style="border-top: 3px solid #059669;">
+            <div class="planet-img" style="border-color: #000000;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ TrES-2 b ]</div>
-                <div class="haiku-box">
-                    A VOID DRENCHED BY NIGHT.<br>
-                    DARKER THAN THE MIND'S SHADOWS.<br>
-                    WITH LIFELESS COAL PULSE.
-                </div>
+                <div class="haiku-box">A VOID DRENCHED BY NIGHT.<br>DARKER THAN THE MIND'S SHADOWS.<br>WITH LIFELESS COAL PULSE.</div>
                 <div class="pi-credit">A. Moore</div>
-                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: MANBA-SET 2021-05-26</div>
-                <!-- REMOVED DARK GREEN INLINE STYLES -->
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Charcoal black. It reflects less than 1% of light, making it a true dark room planet that is blacker than a pot of fresh tar.</div>
+                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA SUMMARY: LIGHT MATRIX</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Charcoal black. Reflects less than 1% of light, making it darker than a pot of fresh tar.</div>
             </div>
         </div>
 
         <!-- Vault 2: WASP-12 b -->
-        <div class="planet-card card-vault">
-            <div class="planet-img img-void-fire"></div>
+        <div class="planet-card" style="border-top: 3px solid #059669;">
+            <div class="planet-img" style="border-color: #dc2626;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ WASP-12 b ]</div>
-                <div class="haiku-box">
-                    RAGING HOT FLAMES REIGN.<br>
-                    FURIOUSLY SCORCHING AIRS.<br>
-                    RULED BY PURE CHAOS.
-                </div>
+                <div class="haiku-box">RAGING HOT FLAMES REIGN.<br>FURIOUSLY SCORCHING AIRS.<br>RULED BY PURE CHAOS.</div>
                 <div class="pi-credit">A. Moore</div>
-                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: MANBA-SET 2015-11-21</div>
-                <!-- REMOVED DARK GREEN INLINE STYLES -->
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Molten red-black. Its sun is so close that gravity is actively stretching the planet out into the shape of a football.</div>
+                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA SUMMARY: PROFILE VARIANCE</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Molten red-black. Extreme sun proximity actively stretches the planet into a football shape.</div>
             </div>
         </div>
 
         <!-- Vault 3: TrES-3 b -->
-        <div class="planet-card card-vault">
-            <!-- REMOVED HEAVY GRADIENT INLINE STYLE TO MATCH THE CHOSEN RADAR RING SYSTEM -->
-            <div class="planet-img img-void-blue"></div>
+        <div class="planet-card" style="border-top: 3px solid #059669;">
+            <div class="planet-img" style="border-color: #0284c7;"></div>
             <div class="planet-info">
                 <div class="planet-name">🔭 [ TrES-3 b ]</div>
-                <div class="haiku-box">
-                    SPINNING AT TOP SPEEDS.<br>
-                    HURLING ROUND THE GALAXY.<br>
-                    TRANSENDING TIME'S SAND.
-                </div>
+                <div class="haiku-box">SPINNING AT TOP SPEEDS.<br>HURLING ROUND THE GALAXY.<br>TRANSCENDING TIME'S SAND.</div>
                 <div class="pi-credit">A. Moore</div>
-                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA: 2011-08-24 • 2014-06-22</div>
-                <!-- REMOVED DARK GREEN INLINE STYLES -->
-                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Electric cyan flare. Its blindingly fast speed sweeps its atmospheric winds into glowing, high-speed stadium loops.</div>
+                <div class="stat-line" style="text-align: center; font-size: 10px; margin-top: 4px;">DATA SUMMARY: ACCELERATION INDEX</div>
+                <div class="appearance-logic">🎨 <strong>Visual Choice:</strong> Electric cyan flare. Blinding speed sweeps its atmosphere into glowing high-speed stadium loops.</div>
             </div>
         </div>
 
-    </div>
+    </div> <!-- Closes Vault Grid Container -->
 
-
-    <!-- RE-DESIGNED SCI-FI COMPLIANCE QR FOOTER SECTION WITH YOUR LIVE WEBSITES -->
-    <div class="qr-footer">
-        <div class="qr-box">
-            <img src="./images.css/image-qr-code.png" width="95" height="95" alt="QR Access Gateway">
-        </div>
-        <div class="footer-text">
-            <strong>🛰️ ACCESS THE DATA GATEWAY</strong>
-            
-            <!-- CHANGED TO PURE BLACK FOR CRISP PRINTING -->
-            <div style="margin-top: 2px; color: #000000; font-weight: 500;">
-                Scan this gateway terminal code to explore our expanding ecosystem of physics data telemetry, full asset codebases, and astronomy poetry.
-            </div>
-            
-            <!-- YOUR BRAND NEW LIVE WEBSITE DIRECTORY BADGES -->
-            <div class="link-badge-container">
-                <div class="link-badge">🪐 3D Visuals: <span>emaze.me/nasa</span></div>
-                <div class="link-badge-container" style="margin-top: 0;">
-                    <div class="link-badge">💼 Official LLC: <span>bio.site/mooresignal</span></div>
-                </div>
-            </div>
-
-            <div class="footer-meta">
-                <!-- CHANGED TO PURE BLACK AND SLIGHTLY BOLDER FOR PERFECT LEGIBILITY -->
-                <span style="font-size: 0.65rem; color: #000000; font-weight: 500; font-style: italic; max-width: 65%;">
-                    Disclaimer: Independent citizen science data assembly utilizing open public domain resources. Not officially affiliated with or endorsed by NASA.
-                </span>
-<span style="font-family: monospace; font-size: 0.7rem; color: #000000; font-weight: bold; background: #f1f5f9; padding: 3px 8px; border-radius: 4px; border: 1px solid #000000;">
-    themoorearchive@proton.me // Glastonbury, CT 06033
-</span>
-
-            </div>
-        </div>
+    <!-- THE PERFECT GAP-FILLING NOTES MODULE -->
+    <div class="notes-footer">
+        <div class="notes-header">📡 NAVIGATOR REFLECTIONS & WORD PROFILE SKETCHES</div>
+        <div class="notes-lines"></div>
+        <div class="notes-lines" style="border: none; margin-bottom: 0;"></div>
     </div>
 
 </body>
