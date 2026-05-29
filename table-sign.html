@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Moore Signal Archive - Table Sign</title>
+    <style>
+        @page {
+            size: letter portrait;
+            margin: 0.5in;
+        }
+        
+        body {
+            background-color: #ffffff;
+            color: #000000;
+            font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            line-height: 1.5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh; /* 🚀 Magic fix: Vertically centers the entire card on the paper */
+            box-sizing: border-box;
+        }
+
+        .sign-card {
+            width: 100%;
+            max-width: 650px;
+            border: 2px solid #000000;
+            padding: 40px;
+            box-sizing: border-box;
+            text-align: center; /* 🚀 Centers all text columns inside the card wrapper */
+        }
+
+        header {
+            text-align: center;
+            border-bottom: 2px dashed #000000;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+
+        header h1 {
+            font-family: 'Georgia', serif;
+            font-size: 28px;
+            margin: 0 0 6px 0;
+            letter-spacing: 0.5px;
+        }
+
+        header p {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 12px;
+            font-weight: bold;
+            margin: 0;
+            color: #444444;
+        }
+
+        .qr-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 35px;
+        }
+
+        .qr-box {
+            width: 130px;
+            height: 130px;
+            border: 2px solid #000000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #ffffff;
+            margin-bottom: 10px;
+        }
+
+        .qr-box img {
+            display: block;
+            object-fit: contain;
+        }
+
+        .section-title {
+            font-family: 'Georgia', serif;
+            font-size: 16px;
+            font-weight: bold;
+            margin: 25px 0 12px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            text-align: center;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style-type: none; /* Removed indent bullets for clean centering layout */
+            margin-bottom: 20px;
+        }
+
+        li {
+            font-size: 13px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .narrative-p {
+            font-size: 13px;
+            text-align: center;
+            margin-bottom: 12px;
+            color: #111111;
+            padding: 0 10px;
+        }
+
+        .signal-bullet {
+            font-size: 12.5px;
+            font-style: italic;
+            border-top: 1px dashed #000000;
+            padding-top: 15px;
+            margin-top: 20px;
+            text-align: center;
+            padding-left: 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="sign-card">
+
+    <header>
+        <h1>The Moore Signal Archive</h1>
+        <p>// LITERARY DISPATCH • SELECTION HUB</p>
+    </header>
+
+    <!-- QR CODE CENTER ANCHOR -->
+    <div class="qr-section">
+        <div class="qr-box">
+            <img src="./images.css/image-qr-code.png" width="110" height="110" alt="QR Code Link">
+        </div>
+    </div>
+
+    <!-- SECTION 1 -->
+    <div class="section-title">🪐 1. Secure Your Copy</div>
+    <ul>
+        <li><strong>At the Table:</strong> Physical poetry books are available on-site for <strong>$9.99</strong> (Zelle or cash accepted).</li>
+        <li><strong>Online Shop:</strong> Scan the QR code above to order copies directly through Amazon.</li>
+    </ul>
+
+    <!-- SECTION 2 -->
+    <div class="section-title">🌍 2. Flagship Initiative: The Global Drop (TMA)</div>
+    <div class="narrative-p">
+        Our primary research hub tracks multiple creative inquiries. While today's session serves as an active NASA citizen science workspace, our flagship initiative tracks traveling literary artifacts released inside micro-libraries, contemporary galleries, and a global geocaching network.
+    </div>
+    
+    <div class="signal-bullet">
+        <strong>Today's Signal:</strong> Tap the <strong>Globe Icon</strong> on your smartphone to view the registry. As part of this ongoing narrative, our active display copy will be <strong>released</strong> inside the <strong>Free Little Library</strong> directly in front of this building to mark the conclusion of our session.
+    </div>
+
+</div>
+
+</body>
+</html>
