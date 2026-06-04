@@ -195,9 +195,10 @@ The following navigators provided intentional observations during our archival b
 
 <br>
 
-**Principal Investigator A. N. Moore** is available for **Co-Investigator (Co-I)** collaborations on upcoming research initiatives. The Archive welcomes inquiries from research teams looking to utilize our processed light curve datasets. 
+**DATA CITATION NOTICE:** 
+All processed light curve transit datasets cataloged under observer code MANBA are registered with the public AAVSO database and relevant NASA citizen science repositories. In accordance with official AAVSO Data Usage Guidelines and NASA project data release policies, research teams utilizing these specific observer logs as a core component of their publications are expected to include proper attribution or extend Co-Author / Co-Investigator (Co-I) designations. 
 
-To initiate a collaborative review and fulfill the required Co-Author/Co-I attribution protocols, please transmit a project brief outlining your timeline and target requirements to our primary registry directory: `themoorearchive@proton.me`.
+To initiate a collaborative review and fulfill the required Co-Author/Co-I attribution protocols, please send a project brief outlining your timeline and target requirements to our primary registry directory: `themoorearchive@proton.me`.
 
 <br>
 
