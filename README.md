@@ -80,8 +80,9 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 > ### **SPINNING AT TOP SPEEDS.**
 > ### **HURLING ROUND THE GALAXY.**
 > ### **TRANSCENDING TIME'S SAND.**
+> — *Descriptive Haiku // Principal Investigator A. Moore*
+>
 > **VERIFIED DATA:** [2011-08-24](https://apps.aavso.org/exosite/g/9996) • [2014-06-22](https://apps.aavso.org/exosite/g/10889) • [2022-03-16](https://apps.aavso.org/exosite/g/11122)
-
 <br>
 
 <details>
@@ -183,7 +184,7 @@ The following navigators provided intentional observations during our archival b
 <br>
 
 **04 // THE ZOONIVERSE ECOSYSTEM**  
-[Ongoing Research Portfolio](https://www.zooniverse.org/users/Zooniverse-Volunteer/collections) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
+[Ongoing Research Portfolio](https://zooniverse.org) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
 
 <br>
 
@@ -194,7 +195,9 @@ The following navigators provided intentional observations during our archival b
 
 <br>
 
-**Principal Investigator A. N. Moore** is available for **Co-Investigator (Co-I)** roles involving exoplanet transit analysis, deep-space pattern recognition, and interdisciplinary data synthesis—as well as adjacent inquiries requiring high-fidelity analytical praxis.
+**Principal Investigator A. N. Moore** is available for **Co-Investigator (Co-I)** collaborations on upcoming research initiatives. The Archive welcomes inquiries from research teams looking to utilize our processed light curve datasets. 
+
+To initiate a collaborative review and fulfill the required Co-Author/Co-I attribution protocols, please transmit a project brief outlining your timeline and target requirements to our primary registry directory: `themoorearchive@proton.me`.
 
 <br>
 
@@ -208,8 +211,8 @@ TECHNICAL ARCHIVIST NOTES:
 
 **SUBMISSION GUIDELINES:**
 
-*   **01 // PROPRIETARY DATASETS (MANBA)**  
-    The MANBA Archival Sets represent a closed-loop research pipeline curated by The Moore Signal Archive LLC. Requests for the utilization or publication of these specific transit reports require a formal Institutional Request. Please include project scope and professional affiliation.
+*   **01 // CURATED DATASETS (MANBA)**  
+    The MANBA Archival Sets represent a closed-loop research pipeline curated by The Moore Signal Archive LLC. Requests for the utilization or publication of these specific transit reports require a formal Portfolio Request. Please include project scope and professional affiliation.
 
 *   **02 // OPEN-SCIENCE CONTRIBUTIONS (ZOONIVERSE)**  
     Historical contributions (archived under observer handle: The Moore Signal Archive) have been transitioned into The Moore Signal Archive LLC stewardship framework for long-term signal persistence. While raw classifications contribute to the public record, the analytical synthesis and archival documentation remain the proprietary work of the Archive.
