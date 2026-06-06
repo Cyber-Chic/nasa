@@ -116,33 +116,33 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 <br>
 
 #### 🛰️ [ CITIZEN SCIENCE: ZOONIVERSE DISPATCHES ]
-*Active classifications recorded via global citizen science nodes.*
+*Active classifications recorded via global citizen science research.*
 
 <br>
 
-#### 🌌 [ NODAL ANALYSIS: DATASET #001 ] | [ 📂 PROJECT PORTAL ](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet)
+#### 🌌 [ DATASET #001 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://eyes.nasa.gov/apps/solar-system/)
 > ### **CRAZY LIGHT FLASHES!**
 > ### **WITH RAYS BURSTING ROUND THE CORE-**
 > ### **ECLIPSING THE SCENE...**
-> *Phenomena: Deep Space Analysis // Word: Captivated // Data reduction verified.*
+> — *Phenomena: The Daily Minor Planet // Subject Word: Captivated*
 >
 > **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 105418882)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)
 
 <br>
 
-#### 🌌 [ NODAL ANALYSIS: DATASET #002 ] | [ 📂 PROJECT PORTAL ](https://zooniverse.org)
+#### 🌌 [ DATASET #002 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://nasa.gov)
 > ### **DECRYPTING SIGNAL...**
-> *Phenomena: Deep Space Analysis // Telemetry archived // Synthesis pending.*
+> *Raw data archived // Synthesis pending.*
 >
-> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 000000)](https://zooniverse.org)
+> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (QUEUED)](https://www.zooniverse.org/users/Zooniverse-Volunteer/favorites)
 
 <br>
 
-#### 🌌 [ NODAL ANALYSIS: DATASET #003 ] | [ 📂 PROJECT PORTAL ](https://zooniverse.org)
+#### 🌌 [ DATASET #003 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://nasa.gov)
 > ### **SIGNAL PENDING...**
-> *Phenomena: Deep Space Analysis // Classification queued // Awaiting entry.*
+> *Astronomical data queued // Awaiting entry.*
 >
-> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (SUBJECT ID: 000000)](https://zooniverse.org)
+> **VERIFIED FIELD DATA:** [THE MOORE ARCHIVE FAVORITES COLL. (QUEUED)](https://www.zooniverse.org/users/Zooniverse-Volunteer/favorites)
 
 <br>
 
@@ -184,7 +184,7 @@ The following navigators provided intentional observations during our archival b
 <br>
 
 **04 // THE ZOONIVERSE ECOSYSTEM**  
-[Ongoing Research Portfolio](https://zooniverse.org) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
+[Ongoing Research Portfolio](https://www.zooniverse.org/users/Zooniverse-Volunteer/collections) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through the NASA-backed Zooniverse network.*
 
 <br>
 
