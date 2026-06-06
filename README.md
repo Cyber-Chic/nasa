@@ -129,7 +129,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🌌 [ DATASET #002 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://nasa.gov)
+#### 🌌 [ DATASET #002 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://eyes.nasa.gov/apps/solar-system/)
 > ### **DECRYPTING SIGNAL...**
 > *Raw data archived // Synthesis pending.*
 >
@@ -137,7 +137,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 <br>
 
-#### 🌌 [ DATASET #003 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://nasa.gov)
+#### 🌌 [ DATASET #003 ] | [ 🛰️ VIEW LIVE COSMIC MAP ](https://eyes.nasa.gov/apps/solar-system/)
 > ### **SIGNAL PENDING...**
 > *Astronomical data queued // Awaiting entry.*
 >
