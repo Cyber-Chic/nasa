@@ -52,7 +52,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 ---
 
 ### 🎨 [ THE DESCRIPTIVE GALLERY: FEATURED SIGNALS ]
-*Selected "Signal Captures" merging astronomical telemetry with interdisciplinary micro-verse.*
+*Selected "Signal Captures" merging astronomical data with interdisciplinary micro-verse.*
 
 <br>
 
@@ -99,7 +99,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 
 #### 🔭 [ WASP-52 b ] | [ 🪐 VIEW PLANET ](https://science.nasa.gov/exoplanet-catalog/wasp-52-b/)
 > ### **SIGNAL PENDING...**
-*Raw data archived (2 Observations) // Decryption queued.*
+>*Raw data archived (2 Observations) // Decryption queued.*
 >
 > **VERIFIED DATA:** [2015-11-19](https://apps.aavso.org/exosite/g/11239) • [2020-10-20](https://apps.aavso.org/exosite/g/10772)
 
@@ -152,7 +152,7 @@ A light curve demonstrates changes in brightness over time. When an exoplanet "t
 ## 🛰️ SIGNAL GUARDIANS // COLLABORATIVE ARCHIVE
 **MISSION LOG: // NAVIGATORS**
 
-The following navigators provided intentional observations during our archival briefings. By matching a **single-word frequency** to a specific **target orbit**, they help manifest the research cycle.
+The following navigators provided intentional observations during our archival briefings. By matching a **single-word frequency** to a specific **target orbit**, they help manifest the cosmic haiku archive.
 
 
 | NAVIGATOR | TARGET ANALYZED | SIGNAL LENGTH | DECRYPTED HAIKU | EVENT HUB |
