@@ -2,100 +2,130 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>THE MOORE SIGNAL ARCHIVE</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>The Moore Archive // Observation Node</title>
 <style>
-:root{--bg:#000000;--txt:#ffffff;--mut:#888888;--brd:#222222;}
-*{box-sizing:border-box;margin:0;padding:0;}
-body{background-color:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;font-size:14px;line-height:1.6;padding:60px 20px;display:flex;justify-content:center;}
-.container{max-width:520px;width:100%;display:flex;flex-direction:column;gap:48px;}
-header{display:flex;flex-direction:column;gap:12px;}
-h1{font-size:15px;font-weight:600;letter-spacing:0.12em;text-transform:uppercase;}
-.tagline{font-family:"SF Mono",Monaco,monospace;font-size:11px;color:var(--mut);letter-spacing:0.05em;}
-.intro-text{font-size:13.5px;}
-.console{font-family:"SF Mono",Monaco,monospace;font-size:11px;background:#111;padding:14px;border:1px solid #1a1a1a;text-align:center;}
-.image-frame{width:100%;aspect-ratio:16/9;overflow:hidden;border:1px solid #1a1a1a;}
-.image-frame img{width:100%;height:100%;object-fit:cover;filter:grayscale(100%) contrast(110%);}
-section{display:flex;flex-direction:column;gap:20px;}
-.label{font-family:"SF Mono",Monaco,monospace;font-size:11px;color:var(--mut);letter-spacing:0.1em;text-transform:uppercase;border-bottom:1px dashed var(--brd);padding-bottom:8px;}
-.block{display:flex;flex-direction:column;gap:16px;}
-p{font-size:13.5px;color:var(--txt);}
-.portal-buttons{display:flex;flex-direction:column;gap:12px;}
-.portal-btn{display:block;width:100%;background:transparent;color:var(--txt);border:1px solid var(--brd);text-align:left;padding:16px;font-size:13px;text-decoration:none;transition:all 0.2s ease;border-radius:2px;}
-.portal-btn:hover{background:#111;border-color:var(--txt);}
-.poetry-box{border-left:2px solid var(--txt);padding-left:18px;margin:8px 0;}
-.poem{font-size:14px;line-height:1.8;}
-.poem-meta{font-family:"SF Mono",Monaco,monospace;font-size:11px;color:var(--mut);margin-top:6px;}
-.ledger{background:#0a0a0a;border:1px solid #111;padding:20px;}
-.ledger-text{font-family:"SF Mono",Monaco,monospace;font-size:12px;color:var(--mut);line-height:1.8;white-space:pre-wrap;}
-.ledger-text strong{color:var(--txt);letter-spacing:0.05em;}
-.btn-main{display:block;width:100%;background:var(--txt);color:#000;text-align:center;padding:15px;font-family:"SF Mono",Monaco,monospace;font-size:12px;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;text-decoration:none;margin-top:16px;border-radius:2px;}
-.btn-main:hover{opacity:0.85;}
-footer{font-family:"SF Mono",Monaco,monospace;font-size:10px;color:#555;line-height:1.8;text-transform:uppercase;border-top:1px dashed var(--brd);padding-top:20px;}
-footer a{color:var(--txt);text-decoration:none;border-bottom:1px solid #333;}
+* { box-sizing: border-box; }
+body {
+  background: #000000; color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  margin: 0; padding: 0; -webkit-font-smoothing: antialiased;
+}
+.wrapper { width: 100%; max-width: 600px; margin: 0 auto; padding: 80px 24px; }
+header { margin-bottom: 60px; }
+.meta-tag { 
+  font-family: monospace; font-size: 11px; color: #888888; 
+  text-transform: uppercase; letter-spacing: 2px; 
+}
+h1 { 
+  font-size: 24px; font-weight: 500; letter-spacing: -0.5px; 
+  margin: 12px 0 0 0; text-transform: uppercase; 
+}
+.lead-in { font-size: 15px; line-height: 1.7; color: #bbbbbb; margin-bottom: 25px; }
+.img-block { width: 100%; margin: 40px 0; }
+.img-block img { width: 100%; display: block; filter: grayscale(100%); }
+.caption { font-family: monospace; font-size: 10px; color: #666666; margin-top: 12px; }
+.text-label { 
+  font-family: monospace; font-size: 11px; color: #888888; 
+  text-transform: uppercase; letter-spacing: 2px; display: block; margin: 40px 0 16px 0; 
+}
+.poem-box { margin: 30px 0; font-family: Georgia, serif; font-size: 18px; font-style: italic; line-height: 1.8; }
+.poem-word { font-family: monospace; font-size: 11px; color: #666666; display: block; margin-top: 8px; }
+.menu-list { display: flex; flex-direction: column; margin: 20px 0; }
+.menu-item {
+  display: flex; flex-direction: column; align-items: flex-start;
+  text-decoration: none; padding: 22px 0; border-top: 1px solid #222222;
+}
+.menu-list :last-child { border-bottom: 1px solid #222222; }
+.node-num { font-family: monospace; font-size: 11px; color: #888888; margin-bottom: 6px; }
+.node-row { display: flex; justify-content: space-between; width: 100%; align-items: center; }
+.menu-label { font-size: 13px; text-transform: uppercase; letter-spacing: 1px; color: #ffffff; }
+.menu-item:hover .menu-label { color: #888888; }
+.menu-arrow { font-size: 12px; color: #444444; }
+.menu-item:hover .menu-arrow { color: #ffffff; }
+.note-p { font-size: 13px; line-height: 1.6; color: #888888; }
+.inline-link { color: #ffffff; text-decoration: none; border-bottom: 1px dashed #444444; }
+.inline-link:hover { border-bottom-style: solid; }
+footer { margin-top: 80px; padding-top: 30px; border-top: 1px solid #222222; font-family: monospace; font-size: 11px; color: #555555; line-height: 1.8; }
+.legal { font-size: 10px; color: #333333; margin-top: 20px; line-height: 1.5; }
 </style>
 </head>
 <body>
-<div class="container">
-<header>
-    <h1>The Moore Signal Archive</h1>
-    <div class="tagline">📍 CITIZEN SCIENCE & SPACE ART QUEST // CT TECH WEEK</div>
-</header>
-<p class="intro-text">Experience a bite-sized, interactive fusion of tech, poetry, and citizen science—accessible entirely on your own schedule from any mobile device or desktop.</p>
-<div class="console">[ UNLOCK INTERACTIVE PORTAL ] ──► [ CHOOSE DEPLOYMENT FIELD ]</div>
-<div class="image-frame">
-    <img src="https://github.com" alt="Angela N. Moore - Open NASA Data Verification Setup">
-</div>
-<section>
-    <div class="label">01 // The Core Inquiry</div>
-    <div class="block">
-        <p>Created by Connecticut Creative Technologist and author Angela N. Moore, this self-guided digital display bridges creative art with real-world space data. Moore volunteered as a citizen stargazer for NASA's minor planet project, searching raw telescope data fields to track unmapped asteroids.</p>
+
+<div class="wrapper">
+  <header>
+    <div class="meta-tag">Exhibition // #CTTechWeek Asynchronous Node</div>
+    <h1>The Moore Archive</h1>
+  </header>
+
+  <main>
+    <div class="lead-in">
+      My name is Angela N. Moore. As an independent artist and archivist, I analyze public deep-space datasets annually, identify a core citizen science project, and execute creative literary interventions based on the findings.
     </div>
-</section>
-<section>
-    <div class="label">02 // Operational Doorways</div>
-    <div class="block">
-        <p>Initialize a pathway below to explore the active telemetry lines at your own pace:</p>
-        <div class="portal-buttons">
-            <!-- REPLACE href LINK COORDINATES BELOW WITH YOUR ACTUAL URL DESTINATIONS -->
-            <a href="#" class="portal-btn"><strong>PORTAL_01 //</strong> View the exact, verified outer space telescope photo analyzed in this series.</a>
-            <a href="#" class="portal-btn"><strong>PORTAL_02 //</strong> Interact with a live, real-time 3D telemetry map of the known universe via NASA’s Eyes.</a>
-            <a href="#" class="portal-btn"><strong>PORTAL_03 //</strong> Launch your own direct, low-friction tracking sequence via active citizen science platforms.</a>
+    
+    <div class="lead-in">
+      This self-guided, asynchronous virtual display bridges open-source space data with creative curation—offered annually as an independent partner feature of the statewide CT Tech Week ecosystem.
+    </div>
+
+    <div class="img-block">
+      <img src="https://github.io" alt="Archival Frame">
+      <div class="caption">01 // Creative deployment environment, tracking telemetry and open data configurations.</div>
+    </div>
+
+    <span class="text-label">Active Structural Poem</span>
+    <div class="poem-box">
+      "Crazy light flashes!<br>
+      With rays bursting round the core—<br>
+      Eclipsing the scene..."
+      <span class="poem-word">// Observation Term: Captivated</span>
+    </div>
+
+    <span class="text-label">Interactive Protocol Doors</span>
+    <div class="menu-list">
+      
+      <!-- STEP 1 IS THE FIRST LINK -->
+      <a href="https://bio.site" target="_blank" class="menu-item">
+        <span class="node-num">[STEP 01 // DATASET CHRONICLE]</span>
+        <div class="node-row">
+          <span class="menu-label">View this year's specific deep space data image</span>
+          <span class="menu-arrow">→</span>
         </div>
-    </div>
-</section>
-<section>
-    <div class="label">03 // Terrestrial Geography Layer</div>
-    <div class="block">
-        <p>While our main virtual matrix tracks celestial fields, the studio simultaneously logs physical earth location data. Discover our sister deployment—a global metallic Encryption Key hunt circulating through Free Little Art Galleries, micro-libraries, and localized public coordinates via the global Geocaching Network.</p>
-    </div>
-</section>
-<section>
-    <div class="label">04 // Anchored Cosmic Artifact</div>
-    <div class="poetry-box">
-        <div class="poem">"CRAZY LIGHT FLASHES!<br>WITH RAYS BURSTING ROUND THE CORE—<br>ECLIPSING THE SCENE..."</div>
-        <div class="poem-meta">— ANGELA N. MOORE // TARGET REFERENCE: IMAGE #105418882 // CORE DESCRIPTOR: CAPTIVATED</div>
-    </div>
-</section>
-<section>
-    <div class="label">05 // Exhibition Request Terminal</div>
-    <div class="ledger">
-        <div class="ledger-text"><strong>CURRENT AVAILABILITY: RESTRICTED ARCHIVAL CYCLE</strong>
-Outside of our annual flagship event at CT Tech Week, in-person institutional bookings are strictly limited to protect active studio research focus. 
+      </a>
+      
+      <!-- STEP 2 IS THE SECOND LINK -->
+      <a href="https://nasa.gov" target="_blank" class="menu-item">
+        <span class="node-num">[STEP 02 // UNIVERSAL TELEMETRY]</span>
+        <div class="node-row">
+          <span class="menu-label">Explore live 3D NASA interactive universe map</span>
+          <span class="menu-arrow">→</span>
+        </div>
+      </a>
+      
+      <!-- STEP 3 IS THE THIRD LINK -->
+      <a href="https://zooniverse.org" target="_blank" class="menu-item">
+        <span class="node-num">[STEP 03 // FIELD ANALYSIS]</span>
+        <div class="node-row">
+          <span class="menu-label">Join the active search via Daily Minor Planet</span>
+          <span class="menu-arrow">→</span>
+        </div>
+      </a>
 
-Vetted organizations may transmit alignment parameters below:
-
-01. HOST INSTITUTION / VENUE
-02. TABLE SPACE AVAILABLE
-03. EXHIBITION FOCUS (SPACE / TMA / COMBINED)</div>
     </div>
-    <a href="mailto:themoorearchive@proton.me" class="btn-main">Transmit Inquiry Parameters</a>
-</section>
-<footer>
-    MANAGING ENTITY: THE MOORE SIGNAL ARCHIVE LLC // GLASTONBURY, CT<br>
-    SOURCE CONTROL: <a href="https://github.com" target="_blank">://://github.com</a> // SIGNAL STATUS: 🟢 NOMINAL<br><br>
-    INDEPENDENT CITIZEN SCIENCE TRACKING UTILIZING OPEN PUBLIC DOMAIN RESOURCES. THIS INQUIRY IS NOT OFFICIALLY AFFILIATED WITH, SPONSORED BY, OR ENDORSED BY NASA OR ZOONIVERSE.
-</footer>
+
+    <span class="text-label">Terrestrial Adjacency</span>
+    <div class="note-p">
+      Simultaneous to celestial tracking operations, the studio coordinates an Earth-bound location project. This sister hunt distributes an exclusive physical Encryption Key across geographic points, cataloged independently via the official <a href="https://findafreelittleartgallery.com" target="_blank" class="inline-link">Free Little Art Galleries</a> index.
+    </div>
+  </main>
+
+  <footer>
+    &copy; 2026 The Moore Signal Archive LLC // The signal survives on honor.<br>
+    Glastonbury, CT Office // Contact: themoorearchive@proton.me
+    <div class="legal">
+      Independent data curation project utilizing public resources. This initiative maintains no official operational affiliation with or endorsement by NASA, Zooniverse, or the official CT Tech Week executive committee.
+    </div>
+  </footer>
 </div>
+
 </body>
 </html>
