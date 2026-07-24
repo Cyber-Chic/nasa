@@ -11,13 +11,10 @@ Whether you discovered a **[space coin](https://geocaching.com)** tucked inside 
 
 Every verse listed below translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art.
 
-To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulator art prints are actively being sent straight into outer space! Our artwork reaches the cosmos through two unique frequencies:
-
-* 🛰️ **The Broadcast Signal (Via Starlight):** A digital rendering of our signature coin face is beamed directly to **SAT GUS**, an active 12U CubeSat satellite orbiting 500km above Earth, displaying on-screen against the real curvature of the planet.
-  ↳ ⏳ **[STATUS: PENDING ORBITAL CAPTURE // VIEW LIVE SATELLITE RADAR & DATA](https://crunchlabs.com)**
-
-* 🚀 **The Rocket Signal (Via Postcard):** High-fidelity 4x6 prints of our digital cosmos artwork are launched physically past the Karman Line into zero-gravity space aboard commercial rocket flights.
-  ↳ ⏳ **[STATUS: PENDING ROCKET DISPATCH // VIEW SPACE POSTCARD PROJECT OVERVIEW](https://clubforfuture.org)**
+To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulator art prints are actively being sent straight into outer space through two unique signals:
+* 🛰️ **The Broadcast Signal:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://crunchlabs.com)**, an active 12U CubeSat satellite orbiting 500km above Earth, displaying on-screen against the real curvature of the planet. 
+* 🚀 **The Rocket Signal:** High-fidelity 4x6 prints captured from our 3d Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
+<br> 📡 LOG: Orbital captures populate below dynamically as each transmission beam clears the queue.
 
 ---
 
