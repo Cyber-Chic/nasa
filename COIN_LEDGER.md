@@ -9,13 +9,13 @@
 ### 👋 WELCOME, TRAVELER!
 Whether you discovered a **[space coin](https://geocaching.com)** tucked inside a **[Free Little Art Gallery [ FEATURE ]](https://freelittleartgalleries.art)** as part of a global treasure hunt for collectible art pieces—or you are an independent explorer tracking this network from afar, welcome to the archive.
 
-Every verse listed below translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art.
+Every verse listed below translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other celestial phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art.
 
 To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulator art prints are actively being sent straight into outer space through two unique signals:
 * 🛰️ **The Broadcast Signal:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://crunchlabs.com)**, an active 12U CubeSat satellite orbiting 500km above Earth, displaying on-screen against the real curvature of the planet. 
-* 🚀 **The Rocket Signal:** High-fidelity 4x6 prints captured from our 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
+* 🚀 **The Rocket Signal:** High-fidelity prints captured from our 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
 
-> 📡 **LOG:** Orbital captures populate below dynamically as each transmission beam clears the queue.
+> 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
 
 ---
 
@@ -52,7 +52,7 @@ To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulato
 *   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1 - 2 years)](https://crunchlabs.com)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
-*   **Explore the Science:** 247 [View my Planetary Transit Curve (Python)](https://nasa.gov)
+*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://nasa.gov)
 </details>
 
 <br>
@@ -68,7 +68,7 @@ To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulato
 *   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1 - 2 years)](https://crunchlabs.com)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
-*   **Explore the Science:** 247 [View my Planetary Transit Curve (Python)](https://nasa.gov)
+*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://nasa.gov)
 </details>
 
 <br>
