@@ -13,8 +13,9 @@ Every verse listed below translates real astronomical research I personally cond
 
 To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulator art prints are actively being sent straight into outer space through two unique signals:
 * 🛰️ **The Broadcast Signal:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://crunchlabs.com)**, an active 12U CubeSat satellite orbiting 500km above Earth, displaying on-screen against the real curvature of the planet. 
-* 🚀 **The Rocket Signal:** High-fidelity 4x6 prints captured from our 3d Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
-<br> 📡 LOG: Orbital captures populate below dynamically as each transmission beam clears the queue.
+* 🚀 **The Rocket Signal:** High-fidelity 4x6 prints captured from our 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
+
+> 📡 **LOG:** Orbital captures populate below dynamically as each transmission beam clears the queue.
 
 ---
 
@@ -26,7 +27,7 @@ To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulato
 
 ### 🌌 [ CAPTURE ID: COIN-001 ]
 > ### **CRAZY LIGHT FLASHES!**
-> ### **WITH RAYS BURSTING ROUND THE CORE—**
+> ### **WITH RAYS BURSTING ROUND the CORE—**
 > ### **ECLIPSING THE SCENE...**
 
 <details>
