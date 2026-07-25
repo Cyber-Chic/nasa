@@ -37,7 +37,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 *   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
-*   **Explore the Science:** 📊 [View the Public Research Log & Dashboard](https://zooniverse.org)
+*   **Explore the Science:** 📊 [View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)
 </details>
 
 <br>
