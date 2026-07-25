@@ -4,10 +4,8 @@
 > [!TIP]
 > **📱 MOBILE LOGIC:** Reading on a phone? Use your browser's menu to select **"Find on Page"** and type your coin number to jump straight to your verse!
 
----
-
 ### 👋 WELCOME, TRAVELER!
-Whether you discovered a **[space coin](https://geocaching.com)** tucked inside a **[Free Little Art Gallery [ FEATURE ]](https://freelittleartgalleries.art)** as part of a global treasure hunt for collectible art pieces—or you are an independent explorer tracking this network from afar, welcome to the archive.
+Whether you discovered a **[space coin](https://geocaching.com)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art) [FEATURE]** as part of a global treasure hunt for collectible art pieces—or you are an independent explorer tracking this network from afar, welcome to the archive.
 
 Every verse listed below translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other celestial phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art.
 
@@ -19,11 +17,12 @@ To complete this physical-to-orbital transmission, our custom 3D Galaxy Simulato
 
 ---
 
-**CHOOSE YOUR PATH TO EXPLORE:**
+### 🗺️ CHOOSE YOUR PATH TO EXPLORE
 * 🪐 **The Visual Universe:** Launch my live **[Interactive 3D Galaxy Map](https://github.io)** to explore the cosmos and see these handwritten verses cycle dynamically on your screen.
-* 🪙 **The Master Coin Portfolio:** Visit our official **[Geocaching Trackable Log Book (ID: TBB2WKZ)](https://geocaching.com)** to log your physical coin discovery, share photos, and read our global traveler notes.
+* 🪙 **The Master Coin Portfolio:** Visit our official **[Geocaching project page](https://geocaching.com) (ID: TBB2WKZ)** to log your physical coin discovery, share photos, and read our global traveler notes.
 
 ---
+
 
 ### 🌌 [ CAPTURE ID: COIN-001 ]
 > ### **CRAZY LIGHT FLASHES!**
