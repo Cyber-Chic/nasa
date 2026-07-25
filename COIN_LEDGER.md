@@ -12,7 +12,7 @@ Each custom-minted coin scattered across the world features a fragmented poetry 
 To complete this physical-to-orbital transmission, our custom coins and 3D Galaxy Map art prints are actively sent into space through two unique paths:
 
 * 🛰️ **The Orbital Uplink:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://crunchlabs.com)**, an active 12U CubeSat satellite orbiting 500km above Earth. The image displays on an onboard screen and is photographed against the real curvature of the planet.
-* 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://clubforfuture.org)**.
+* 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
 
 
 > 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
@@ -34,7 +34,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://crunchlabs.com)**
+*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
 *   **Explore the Science:** 📊 [View the Public Research Log & Dashboard](https://zooniverse.org)
@@ -50,10 +50,10 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://crunchlabs.com)**
+*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
-*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://nasa.gov)
+*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)
 </details>
 
 <br>
@@ -66,10 +66,10 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://crunchlabs.com)**
+*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
-*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://nasa.gov)
+*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)
 </details>
 
 <br>
@@ -82,10 +82,10 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://crunchlabs.com)**
+*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
 *   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-3b Transit Records)
-*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://nasa.gov)
+*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)
 </details>
 
 ---
