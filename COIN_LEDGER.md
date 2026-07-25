@@ -7,15 +7,23 @@
 ### 👋 WELCOME, TRAVELER!
 Whether you discovered a **[space coin](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) [FEATURE]** as part of a global treasure hunt for collectible art pieces—or you are an independent explorer tracking this network from afar, welcome to the archive.
 
-Each custom-minted coin scattered across the world features a fragmented poetry verse and a unique tracker ID—the complete archival database of which is logged below. Every verse listed translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other celestial phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art. To bring these observations to life, I built a custom 3D visualizer that pairs my handwritten poetry with an artistic rendering of the cosmos designed to capture the sheer wonder of the universe.
+Each custom-minted coin scattered across the world features a fragmented poetry verse and a unique tracker ID—the complete archival database of which is logged below. Every verse listed translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other celestial phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art. To bring these observations to life, I built a custom 3D visualizer that pairs my handwritten poetry with an artistic rendering of the cosmos designed to capture the sheer wonder of the universe. Beyond the visuals, the platform actively serves as an onboarding pipeline—streamlining viewers directly into active Zooniverse astronomy projects where anyone can begin contributing to real space research with zero prior experience.
 
 To complete this physical-to-orbital transmission, our custom coins and 3D Galaxy Map art prints are actively sent into space through two unique paths:
 
 * 🛰️ **The Orbital Uplink:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://space.crunchlabs.com/)**, an active 12U CubeSat satellite orbiting 500km above Earth. The image displays on an onboard screen and is photographed against the real curvature of the planet.
 * 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
 
-
 > 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
+
+---
+
+### 🗺️ CHOOSE YOUR PATH TO EXPLORE
+* 🪐 **The Visual Universe:** Launch my live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to explore the cosmos and see my handwritten verses cycle dynamically on your screen.
+* 🪙 **The Master Coin Portfolio:** Visit my official **[Geocaching project page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ) (ID: TBB2WKZ)** to log your physical coin discovery, share photos, and read global traveler notes.
+
+> 📡 **NOTE:** All coins share the same signature logo on the back—be sure to check the front face for your unique poem snippet & coin number!
+
 
 
 ### 🗺️ CHOOSE YOUR PATH TO EXPLORE
