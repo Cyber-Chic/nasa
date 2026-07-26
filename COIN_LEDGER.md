@@ -34,8 +34,8 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
-*   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
 *   **Explore the Science:** 📊 [View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)
 </details>
@@ -50,7 +50,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Expedition Details</summary>
 
-*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**  Spacecraft & Mission! 
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
 *   **Explore the Science:** 📊 [View Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)
@@ -66,8 +66,8 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
-*   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
 *   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)
 </details>
@@ -82,8 +82,8 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 <details>
 <summary>✨ View Cosmic Target & Space Photo Data</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
-*   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-3b Transit Records)
 *   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)
 </details>
