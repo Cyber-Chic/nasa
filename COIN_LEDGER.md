@@ -32,7 +32,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 > ### **ECLIPSING THE SCENE...**
 
 <details>
-<summary>✨ View Cosmic Target & Space Photo Data</summary>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
@@ -64,7 +64,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 > ### **RULED BY PURE CHAOS.**
 
 <details>
-<summary>✨ View Cosmic Target & Space Photo Data</summary>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
@@ -80,7 +80,7 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 > ### **TRANSCENDING TIME'S SAND.**
 
 <details>
-<summary>✨ View Cosmic Target & Space Photo Data</summary>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)** 
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
