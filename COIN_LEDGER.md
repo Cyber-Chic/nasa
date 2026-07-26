@@ -5,14 +5,23 @@
 > **📱 MOBILE LOGIC:** Reading on a phone? Use your browser's menu to select **"Find on Page"** and type your coin number to jump straight to your verse!
 
 ### 👋 WELCOME, TRAVELER!
-Whether you discovered a **[space coin](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/) [FEATURE]** as part of a global treasure hunt for collectible art pieces—or you are an independent explorer tracking this network from afar, welcome to the archive.
+Whether you discovered a **[space coin](https://geocaching.com)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art)** as part of a global treasure hunt—or you are tracking this network from afar, welcome.
 
-Each custom-minted coin scattered across the world features a fragmented poetry verse and a unique tracker ID—the complete archival database of which is logged below. Every verse listed translates real astronomical research I personally conducted—including tracking planet transits for **Exoplanet Watch** or classifying galaxies & other celestial phenomena on the **Zooniverse** network. I wanted to turn these cold cosmic records into living, emotional art. To bring these observations to life, I built a custom 3D visualizer that pairs my handwritten poetry with an artistic rendering of the cosmos designed to capture the sheer wonder of the universe. Beyond the visuals, the platform actively serves as an onboarding pipeline—streamlining viewers directly into active Zooniverse astronomy projects where anyone can begin contributing to real space research with zero prior experience.
+Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly processes data from real-world scientific operations, including analyzing planet transits for **Exoplanet Watch** or classifying deep-space structures on the **Zooniverse** network.
 
-To complete this physical-to-orbital transmission, our custom coins and 3D Galaxy Map art prints are actively sent into space through two unique paths:
+To bridge cold cosmic archives with human emotion, I built a custom 3D map visualizer that breathes artistic life into these planetary observations. This platform acts as a direct onboarding pipeline, streamlining viewers straight into active research hubs where anyone can begin cataloging real space phenomena with zero prior experience.
 
-* 🛰️ **The Orbital Uplink:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://space.crunchlabs.com/)**, an active 12U CubeSat satellite orbiting 500km above Earth. The image displays on an onboard screen and is photographed against the real curvature of the planet.
-* 🚀 **The Rocket Payload:** High-fidelity poetry prints captured from my 3D Galaxy Map are launched physically past the Kármán Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
+---
+
+### 🛰️ THE TWIN SPACE PIPELINES
+To complete this physical-to-orbital transmission, our artwork actively splits into two unique space-bound paths:
+
+*   **1. Digital Coin Uplink (Satellite):**
+    *   A high-resolution rendering of our signature coin face is beamed directly to **[SAT GUS](https://crunchlabs.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
+    *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
+*   **2. Physical Print Payload (Rocket):**
+    *   High-fidelity poetry prints extracted directly from the 3D map are loaded as physical cargo aboard commercial rockets.
+    *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://clubforfuture.org)** before returning to Earth.
 
 > 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
 
