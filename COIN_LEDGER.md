@@ -23,7 +23,8 @@ To complete this physical-to-orbital transmission, our artwork is launched to ou
     *   High-fidelity poetry prints extracted directly from the 3D map are loaded as physical cargo aboard commercial rockets.
     *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
 
-> 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
+> 📡 <strong>LOG:</strong> Visual captures of our verified space-bound artwork populate <strong><a href="https://www.artgram.co/themooresignal" style="color:#38bdf8;text-decoration:underline;">here</a></strong> as incoming transmissions clear the queue.
+
 
 ---
 
