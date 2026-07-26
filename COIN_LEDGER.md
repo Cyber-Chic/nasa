@@ -12,19 +12,11 @@ Each custom-minted coin scattered across the world features a fragmented poetry 
 To complete this physical-to-orbital transmission, our custom coins and 3D Galaxy Map art prints are actively sent into space through two unique paths:
 
 * 🛰️ **The Orbital Uplink:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://space.crunchlabs.com/)**, an active 12U CubeSat satellite orbiting 500km above Earth. The image displays on an onboard screen and is photographed against the real curvature of the planet.
-* 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Karman Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
+* 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Kármán Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
 
 > 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
 
 ---
-
-### 🗺️ CHOOSE YOUR PATH TO EXPLORE
-* 🪐 **The Visual Universe:** Launch my live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to explore the cosmos and see my handwritten verses cycle dynamically on your screen.
-* 🪙 **The Master Coin Portfolio:** Visit my official **[Geocaching project page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ) (ID: TBB2WKZ)** to log your physical coin discovery, share photos, and read global traveler notes.
-
-> 📡 **NOTE:** All coins share the same signature logo on the back—be sure to check the front face for your unique poem snippet & coin number!
-
-
 
 ### 🗺️ CHOOSE YOUR PATH TO EXPLORE
 * 🪐 **The Visual Universe:** Launch my live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to explore the cosmos and see my handwritten verses cycle dynamically on your screen.
