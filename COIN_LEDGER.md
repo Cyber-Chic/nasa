@@ -14,7 +14,7 @@ To bridge cold cosmic archives with human emotion, I built a custom 3D map visua
 ---
 
 ### 🛰️ THE TWIN SPACE PIPELINES
-To complete this physical-to-orbital transmission, our artwork actively splits into two unique space-bound paths:
+To complete this physical-to-orbital transmission, our artwork is launched to outer space via two unique celestial pathways:
 
 *   **1. Digital Coin Uplink (Satellite):**
     *   A high-resolution rendering of our signature coin face is beamed directly to **[SAT GUS](https://spaceselfie.com/)**, an active 12U CubeSat satellite operating in low Earth orbit.
