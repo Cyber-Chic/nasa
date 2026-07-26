@@ -12,7 +12,7 @@ Each custom-minted coin scattered across the world features a fragmented poetry 
 To complete this physical-to-orbital transmission, our custom coins and 3D Galaxy Map art prints are actively sent into space through two unique paths:
 
 * 🛰️ **The Orbital Uplink:** A digital rendering of our signature coin face is beamed directly to **[SAT GUS](https://space.crunchlabs.com/)**, an active 12U CubeSat satellite orbiting 500km above Earth. The image displays on an onboard screen and is photographed against the real curvature of the planet.
-* 🚀 **The Rocket Payload:** High-fidelity prints captured from my 3D Galaxy Map are launched physically past the Kármán Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
+* 🚀 **The Rocket Payload:** High-fidelity poetry prints captured from my 3D Galaxy Map are launched physically past the Kármán Line into zero-gravity space aboard **[commercial rocket flights](https://www.clubforfuture.org/postcards)**.
 
 > 📡 **LOG:** Visual captures of our verified space-bound artwork populate below as incoming transmissions clear the queue.
 
@@ -48,12 +48,12 @@ To complete this physical-to-orbital transmission, our custom coins and 3D Galax
 > ### **WITH LIFELESS COAL PULSE.**
 
 <details>
-<summary>✨ View Cosmic Target & Space Photo Data</summary>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
 
-*   **Project Status:** ⏳ Staged for Orbit // **[Preparing for Launch (EST. 1–2 years)](https://www.clubforfuture.org/postcards)**
-*   **Satellite Footage:** `[ Queue Active ]` 📷 *Orbital space capture pending.*
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**  Spacecraft & Mission! 
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
-*   **Explore the Science:** [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)
+*   **Explore the Science:** 📊 [View Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)
 </details>
 
 <br>
