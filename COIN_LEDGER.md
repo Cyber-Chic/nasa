@@ -13,17 +13,26 @@ To bridge cold cosmic archives with human emotion, I built a custom 3D map visua
 
 ---
 
-### 🛰️ THE TWIN SPACE PIPELINES
-To complete this physical-to-orbital transmission, our artwork is launched to outer space via two unique celestial pathways:
+<h3>🛰️ THE TWIN SPACE PIPELINES</h3>
+<p>To complete this physical-to-orbital transmission, our artwork is launched to outer space via two unique celestial pathways:</p>
 
-*   **1. Digital Coin Uplink (Satellite):**
-    *   A high-resolution rendering of our signature coin face is beamed directly to **[SAT GUS](https://spaceselfie.com/)**, an active 12U CubeSat satellite operating in low Earth orbit.
-    *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
-*   **2. Physical Print Payload (Rocket):**
-    *   High-fidelity poetry prints extracted directly from the 3D map are loaded as physical cargo aboard commercial rockets.
-    *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
+<ul>
+    <li><strong>1. Physical Print Payload (Rocket):</strong>
+        <ul>
+            <li>Authentic prints showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.</li>
+            <li>These physical artifacts cross the K&aacute;rm&aacute;n Line into zero-gravity space on designated <a href="https://www.clubforfuture.org/postcards" rel="noopener" target="_blank" style="color:#38bdf8;text-decoration:underline;">commercial rocket flights</a> before returning to Earth.</li>
+        </ul>
+    </li>
+    <li style="margin-top:15px;"><strong>2. Digital Coin Uplink (Satellite):</strong> <!-- Spacing fixed here -->
+        <ul>
+            <li>A high-resolution rendering of our signature coin back is beamed directly to <a href="https://spaceselfie.com" rel="noopener" target="_blank" style="color:#38bdf8;text-decoration:underline;">SAT GUS</a>, an active 12U CubeSat satellite operating in low Earth orbit.</li>
+            <li>The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.</li>
+        </ul>
+    </li>
+</ul>
 
-> 📡 <strong>LOG:</strong> Visual captures of our verified space-bound artwork populate <strong><a href="https://www.artgram.co/themooresignal" style="color:#38bdf8;text-decoration:underline;">here</a></strong> as incoming transmissions clear the queue.
+
+<p style="margin-top:20px;">📡 <strong>LOG:</strong> Visual captures of our verified space-bound artwork populate <strong><a href="https://www.artgram.co/themooresignal/about" rel="noopener" style="color:#38bdf8;text-decoration:underline;" target="_blank">here</a></strong> as incoming transmissions clear the queue.</p>
 
 
 ---
