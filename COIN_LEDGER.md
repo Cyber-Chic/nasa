@@ -10,7 +10,7 @@
 
 *   **THE COIN IS YOURS:** Digital copies are launched to space! The physical artifact is a free gift to you! 🎁
 *   **READ YOUR POEM:** Check the front face of your coin for your unique number, then scroll down this page (or search your number) to read your full cosmic poem.
-*   **LOG YOUR FIND:** Click our **[Official Geocaching Page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** to type a quick note, log your coin ID (**TBB2WKZ**), or post a photo of where you found it!
+*   **LOG YOUR FIND:** Click our **[Official Geocaching Page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** to type a quick note, log your coin ID (**EXAMPLE: COIN-001**), or post a photo of where you found it!
 
 ---
 
