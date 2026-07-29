@@ -35,6 +35,54 @@ To complete this physical-to-orbital transmission, our artwork is launched to ou
 
 ---
 
+### 🌌 [ CAPTURE ID: COIN-001 ]
+> ### **CRAZY LIGHT FLASHES!**
+> ### **WITH RAYS BURSTING ROUND THE CORE—**
+> ### **ECLIPSING THE SCENE...**
+
+<details>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
+
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
+*   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
+*   **Explore the Science:** 📊 **[View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
+</details>
+
+---
+
+### 🌌 [ CAPTURE ID: COIN-002 ]
+> ### **A VOID DRENCHED BY NIGHT.**
+> ### **DARKER THAN THE MIND'S SHADOWS.**
+> ### **WITH LIFELESS COAL PULSE.**
+
+<details>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
+
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
+*   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
+*   **Explore the Science:** 📊 **[View Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)**
+</details>
+
+---
+
+### 🌌 [ CAPTURE ID: COIN-003 ]
+> ### **RAGING HOT FLAMES REIGN.**
+> ### **FURIOUSLY SCORCHING AIRS.**
+> ### **RULED BY PURE CHAOS.**
+
+<details>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
+
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
+*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
+*   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
+*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)**
+</details>
+
+---
+
 ### 🌌 [ CAPTURE ID: COIN-004 ]
 > ### **SPINNING AT TOP SPEEDS.**
 > ### **HURLING ROUND THE GALAXY.**
@@ -50,5 +98,3 @@ To complete this physical-to-orbital transmission, our artwork is launched to ou
 </details>
 
 ---
-
-
