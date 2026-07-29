@@ -7,33 +7,23 @@
 ### 👋 WELCOME, TRAVELER!
 Whether you discovered a **[space coin](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** as part of a global treasure hunt—or you are tracking this network from afar, welcome.
 
-Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly processes data from real-world scientific operations, including analyzing planet transits for **Exoplanet Watch** or classifying deep-space structures on the **Zooniverse** network.
+Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly represents  data from real-world scientific operations, including analyzing planet transits for **Exoplanet Watch** or classifying deep-space structures on the **Zooniverse** network.
 
 To bridge cold cosmic archives with human emotion, I built a custom 3D map visualizer that breathes artistic life into these planetary observations. This platform acts as a direct onboarding pipeline, streamlining viewers straight into active research hubs where anyone can begin cataloging real space phenomena with zero prior experience.
 
 ---
 
-<h3>🛰️ THE TWIN SPACE PIPELINES</h3>
-<p>To complete this physical-to-orbital transmission, our artwork is launched to outer space via two unique celestial pathways:</p>
+### 🛰️ THE TWIN SPACE PIPELINES
+To complete this physical-to-orbital transmission, our artwork is launched to outer space via two unique celestial pathways:
 
-<ul>
-    <li><strong>1. Physical Print Payload (Rocket):</strong>
-        <ul>
-            <li>Authentic prints showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.</li>
-            <li>These physical artifacts cross the K&aacute;rm&aacute;n Line into zero-gravity space on designated <a href="https://www.clubforfuture.org/postcards" rel="noopener" target="_blank" style="color:#38bdf8;text-decoration:underline;">commercial rocket flights</a> before returning to Earth.</li>
-        </ul>
-    </li>
-    <li style="margin-top:15px;"><strong>2. Digital Coin Uplink (Satellite):</strong> <!-- Spacing fixed here -->
-        <ul>
-            <li>A high-resolution rendering of our signature coin back is beamed directly to <a href="https://spaceselfie.com" rel="noopener" target="_blank" style="color:#38bdf8;text-decoration:underline;">SAT GUS</a>, an active 12U CubeSat satellite operating in low Earth orbit.</li>
-            <li>The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.</li>
-        </ul>
-    </li>
-</ul>
+*   **1. Physical Print Payload (Rocket):**
+    *   Authentic prints showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
+    *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
+*   **2. Digital Coin Uplink (Satellite):**
+    *   A high-resolution rendering of our signature coin back is beamed directly to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
+    *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
 
-
-<p style="margin-top:20px;">📡 <strong>LOG:</strong> Visual captures of our verified space-bound artwork populate <strong><a href="https://www.artgram.co/themooresignal/about" rel="noopener" style="color:#38bdf8;text-decoration:underline;" target="_blank">here</a></strong> as incoming transmissions clear the queue.</p>
-
+📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
 
 ---
 
@@ -44,54 +34,6 @@ To bridge cold cosmic archives with human emotion, I built a custom 3D map visua
 > 📡 **NOTE:** All coins share the same signature logo on the back—be sure to check the front face for your unique poem snippet & coin number!
 
 ---
-
-### 🌌 [ CAPTURE ID: COIN-001 ]
-> ### **CRAZY LIGHT FLASHES!**
-> ### **WITH RAYS BURSTING ROUND the CORE—**
-> ### **ECLIPSING THE SCENE...**
-
-<details>
-<summary>✨ View Cosmic Target & Expedition Details</summary>
-
-*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
-*   **Explore the Science:** 📊 [View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)
-</details>
-
-<br>
-
-### 🌌 [ CAPTURE ID: COIN-002 ]
-> ### **A VOID DRENCHED BY NIGHT.**
-> ### **DARKER THAN THE MIND'S SHADOWS.**
-> ### **WITH LIFELESS COAL PULSE.**
-
-<details>
-<summary>✨ View Cosmic Target & Expedition Details</summary>
-
-*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
-*   **Explore the Science:** 📊 [View Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)
-</details>
-
-<br>
-
-### 🌌 [ CAPTURE ID: COIN-003 ]
-> ### **RAGING HOT FLAMES REIGN.**
-> ### **FURIOUSLY SCORCHING AIRS.**
-> ### **RULED BY PURE CHAOS.**
-
-<details>
-<summary>✨ View Cosmic Target & Expedition Details</summary>
-
-*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
-*   **Explore the Science:** 📊 [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)
-</details>
-
-<br>
 
 ### 🌌 [ CAPTURE ID: COIN-004 ]
 > ### **SPINNING AT TOP SPEEDS.**
@@ -104,8 +46,9 @@ To bridge cold cosmic archives with human emotion, I built a custom 3D map visua
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data (TrES-3b Transit Records)
-*   **Explore the Science:** 📊 [View my Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)
+*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)**
 </details>
 
 ---
+
 
