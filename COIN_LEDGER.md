@@ -15,7 +15,8 @@
 ---
 
 ### 🛰️ THE DEEP SCIENCE (FOR COSMIC EXPLORERS)
-*If you want to know how deep the rabbit hole goes, here is the official transmission matrix:*
+<details>
+<summary>Click on the left arrow if you want to know how deep the rabbit hole goes:</summary>
 
 Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly represents data from my real-world astrophysics **[initiatives](https://github.com/Cyber-Chic/cosmos/)**, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
 
@@ -29,6 +30,8 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
     *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
 
 📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
+
+</details>
 
 🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see the handwritten verses mapped dynamically to real cosmic targets.
 
