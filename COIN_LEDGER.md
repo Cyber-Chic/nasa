@@ -7,7 +7,7 @@
 ### 👋 WELCOME, TRAVELER!
 Whether you discovered a **[space coin](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** tucked inside a **[Free Little Art Gallery](https://freelittleartgalleries.art/2026/05/the-heart-of-the-project/)** as part of a global treasure hunt—or you are tracking this network from afar, welcome.
 
-Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly represents  data from real-world astrophysics projects, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
+Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly represents  data from real-world astrophysics initiatives, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
 
 To bridge cold cosmic archives with human emotion, I built a custom 3D map visualizer that breathes artistic life into these planetary observations. This platform acts as a direct onboarding pipeline, streamlining viewers straight into active research hubs where anyone can begin cataloging real space phenomena with zero prior experience.
 
