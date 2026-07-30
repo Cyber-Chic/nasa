@@ -20,7 +20,7 @@
 <summary>✨ Click here if you want to know how deep the rabbit hole goes...</summary>
 <br>
 
-Each custom coin features a fragmented poetry verse translating celestial research I have conducted across active astrophysical pipelines. Every verse directly represents data from my real-world astrophysics **[initiatives](https://github.com/Cyber-Chic/cosmos/)**, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
+Each custom coin features a fragmented poetry verse translating celestial citizen science research I have conducted across active astrophysical pipelines. Every verse directly represents data from my real-world astrophysics **[initiatives](https://github.com/Cyber-Chic/cosmos/)**, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
 
 To complete this physical-to-orbital transmission, our artifacts are launched to outer space via two unique celestial pathways:
 
@@ -52,7 +52,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** My Citizen Science Research (Cosmic Targets & Signals)
+*   **The Inspiration:** My Citizen Science Research **[(Cosmic Targets & Signals)](https://spacesinfo.com/space-sciences/)**
 *   **Explore the Science:** 📊 **[View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
 </details>
 
@@ -68,8 +68,8 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data (TrES-2b Transit Records)
-*   **Explore the Science:** 📊 **[View Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)**
+*   **The Inspiration:** Planet Space Data  **[(TrES-2b Transit Records)](https://simple.wikipedia.org/wiki/TrES-2b)**
+*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)**
 </details>
 
 ---
@@ -84,7 +84,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data (WASP-12b Transit Records)
+*   **The Inspiration:** Planet Space Data  **[(WASP-12b Transit Records)](https://simple.wikipedia.org/wiki/WASP-12b)**
 *   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)**
 </details>
 
@@ -100,7 +100,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data (TrES-3b Transit Records)
+*   **The Inspiration:** Planet Space Data **[(TrES-3b Transit Records)](https://en.wikipedia.org/wiki/TrES-3b)**
 *   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)**
 </details>
 
