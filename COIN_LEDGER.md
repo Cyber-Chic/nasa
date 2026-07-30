@@ -38,10 +38,6 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see the handwritten verses mapped dynamically to real cosmic targets.
-
----
-
-
 ### 🌌 [ CAPTURE ID: COIN-001 ]
 > ### **CRAZY LIGHT FLASHES!**
 > ### **WITH RAYS BURSTING ROUND THE CORE—**
@@ -49,6 +45,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 <details>
 <summary>✨ View Cosmic Target & Expedition Details</summary>
+<br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
@@ -65,10 +62,11 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 <details>
 <summary>✨ View Cosmic Target & Expedition Details</summary>
+<br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data  **[(TrES-2b Transit Records)](https://simple.wikipedia.org/wiki/TrES-2b)**
+*   **The Inspiration:** Planet Space Data **[(TrES-2b Transit Records)](https://simple.wikipedia.org/wiki/TrES-2b)**
 *   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)**
 </details>
 
@@ -81,10 +79,11 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 <details>
 <summary>✨ View Cosmic Target & Expedition Details</summary>
+<br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data  **[(WASP-12b Transit Records)](https://simple.wikipedia.org/wiki/WASP-12b)**
+*   **The Inspiration:** Planet Space Data **[(WASP-12b Transit Records)](https://simple.wikipedia.org/wiki/WASP-12b)**
 *   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)**
 </details>
 
@@ -97,6 +96,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 <details>
 <summary>✨ View Cosmic Target & Expedition Details</summary>
+<br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
