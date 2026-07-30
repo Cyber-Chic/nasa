@@ -49,7 +49,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** My Citizen Science Research **[(Platform & Methodology   Operational Framework)](https://www.zooniverse.org/about)**
+*   **The Inspiration:** My Citizen Science Research **[(Platform & Methodology)](https://www.zooniverse.org/about)**
 *   **Explore the Science:** 📊 **[View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
 </details>
 
