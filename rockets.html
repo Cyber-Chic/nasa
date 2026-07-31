@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The 10-Second Photon Rocket - Easy STEM Project</title>
+<style>
+    :root {
+        --bg: #090d16;
+        --card-bg: #131b2e;
+        --border-color: #1e293b;
+        --lab-green: #4ade80;
+        --text-main: #f8fafc;
+        --text-muted: #94a3b8;
+        --danger: #f87171;
+    }
+
+    body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        background-color: var(--bg);
+        color: var(--text-main);
+        line-height: 1.6;
+        margin: 0;
+        padding: 40px 20px;
+        -webkit-font-smoothing: antialiased;
+    }
+
+    .container {
+        max-width: 600px;
+        margin: 0 auto;
+    }
+
+    header {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+        font-weight: 800;
+        letter-spacing: -0.03em;
+        margin: 0 0 10px 0;
+    }
+
+    .subtitle {
+        font-size: 0.95rem;
+        color: var(--lab-green);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: 700;
+    }
+
+    .intro p {
+        font-size: 1.1rem;
+        color: #cbd5e1;
+        margin-bottom: 20px;
+    }
+
+    .section-title {
+        font-size: 1.25rem;
+        font-weight: 700;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        color: #fff;
+    }
+
+    /* Clean, Spacious Block Layout */
+    .step-block {
+        background-color: var(--card-bg);
+        border: 1px solid var(--border-color);
+        padding: 24px;
+        border-radius: 12px;
+        margin-bottom: 16px;
+    }
+
+    .step-meta {
+        font-size: 0.8rem;
+        font-weight: 700;
+        color: var(--lab-green);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 4px;
+    }
+
+    .step-title {
+        font-size: 1.1rem;
+        font-weight: 700;
+        margin-bottom: 8px;
+        color: #fff;
+    }
+
+    .step-text {
+        font-size: 1rem;
+        color: #cbd5e1;
+        margin: 0;
+    }
+
+    /* Simple, Clean Action Button */
+    .store-link {
+        display: inline-block;
+        background-color: var(--lab-green);
+        color: #090d16;
+        text-decoration: none;
+        font-size: 0.85rem;
+        font-weight: 700;
+        padding: 6px 14px;
+        border-radius: 6px;
+        margin-top: 12px;
+        transition: opacity 0.2s ease;
+    }
+
+    .store-link:hover {
+        opacity: 0.9;
+    }
+
+    /* Visual Matrix Guide */
+    .matrix-box {
+        background-color: #020617;
+        border: 1px dashed var(--border-color);
+        padding: 20px;
+        border-radius: 8px;
+        font-family: ui-monospace, monospace;
+        font-size: 0.9rem;
+        color: var(--lab-green);
+        text-align: center;
+        margin: 20px 0;
+    }
+
+    /* Flat, Easy-to-Read Footnotes */
+    .safety-section {
+        margin-top: 60px;
+        border-top: 1px solid var(--border-color);
+        padding-top: 40px;
+    }
+
+    .safety-title {
+        font-size: 0.9rem;
+        color: var(--danger);
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        font-weight: 700;
+        margin-bottom: 20px;
+    }
+
+    .safety-text {
+        font-size: 0.9rem;
+        color: var(--text-muted);
+        margin-bottom: 16px;
+        line-height: 1.5;
+    }
+
+    .safety-text strong {
+        color: #fff;
+    }
+
+    /* Footer */
+    .main-footer {
+        text-align: center;
+        margin-top: 80px;
+        padding-top: 30px;
+        border-top: 1px dashed var(--border-color);
+    }
+
+    .archive-btn {
+        display: inline-block;
+        margin-top: 10px;
+        font-size: 1.1rem;
+        color: #fff;
+        text-decoration: none;
+        border-bottom: 2px solid var(--lab-green);
+        padding-bottom: 2px;
+    }
+</style>
+<body>
+
+    <div class="container">
+        
+        <header>
+            <h1>The 10-Second Photon Rocket</h1>
+            <div class="subtitle">Easy STEM Space Project</div>
+        </header>
+
+        <section class="intro">
+            <p>Imagine holding a rocket engine that does not use fire, smoke, or heavy fuel. Instead, it shoots trillions of tiny light particles—called photons—straight into space!</p>
+            <p>Real space scientists are studying this technology right now to fly spacecraft to distant stars at the speed of light. Today, you will build a miniature model. It takes exactly three items, zero wires, and 10 seconds to build.</p>
+        </section>
+
+        <h2 class="section-title">Items You Need</h2>
+        
+        <div class="step-block">
+            <div class="step-meta">Component 1</div>
+            <div class="step-title">CR2032 3V Lithium Battery</div>
+            <p class="step-text">This is your fuel core. It looks like a shiny silver coin.</p>
+            <a class="store-link" href="https://walmart.com" target="_blank">Find at Walmart ↗</a>
+        </div>
+
+        <div class="step-block">
+            <div class="step-meta">Component 2</div>
+            <div class="step-title">5mm LED Light Bulb</div>
+            <p class="step-text">This is your engine. It looks like a tiny clear plastic raindrop with two metal wire legs sticking out of the bottom.</p>
+            <a class="store-link" href="https://microcenter.com" target="_blank">Find at Micro Center ↗</a>
+        </div>
+
+        <div class="step-block">
+            <div class="step-meta">Component 3</div>
+            <div class="step-title">Duct Tape</div>
+            <p class="step-text">This is your rocket hull. Any heavy tape will work to lock your parts together.</p>
+        </div>
+
+        <h2 class="section-title">How to Connect the Pieces</h2>
+        
+        <div class="matrix-box">
+Long Leg (+)  👉  Smooth Flat Side (+) of Battery
+<br><br>
+Short Leg (-) 👉  Bumpy Textured Side of Battery
+        </div>
+
+        <h2 class="section-title">Step-by-Step Instructions</h2>
+        
+        <div class="step-block">
+            <div class="step-meta">Step 1</div>
+            <div class="step-title">Check the Legs</div>
+            <p class="step-text">Hold your tiny LED bulb. Notice that one metal wire leg is slightly longer than the other.</p>
+        </div>
+
+        <div class="step-block">
+            <div class="step-meta">Step 2</div>
+            <div class="step-title">Place the Battery</div>
+            <p class="step-text">Slide your coin battery right between the two metal wire legs.</p>
+        </div>
+
+        <div class="step-block">
+            <div class="step-meta">Step 3</div>
+            <div class="step-title">Pinch to Light Up</div>
+            <p class="step-text">Squeeze the long wire leg against the flat, smooth side of the battery (the "+" side). Touch the short leg to the bumpy back side. The bulb will turn on instantly!</p>
+        </div>
+
+        <div class="step-block">
+            <div class="step-meta">Step 4</div>
+            <div class="step-title">Lock it Together</div>
+            <p class="step-text">Wrap a piece of duct tape tightly around the whole thing. The tape keeps the wires pressed against the battery so the light stays on by itself.</p>
+        </div>
+
+        <p style="color: var(--lab-green); font-style: italic; margin-top: 30px; text-align: center;">Go into a dark room, point your rocket at the ceiling, and watch your light beam travel into the night!</p>
+
+        <section class="safety-section">
+            <div class="safety-title">Safety Rules for Parents</div>
+            <p class="safety-text"><strong>1. Battery Danger:</strong> Coin batteries are a severe hazard if swallowed. Keep loose pieces away from small children and pets.</p>
+            <p class="safety-text"><strong>2. Adult Supervision:</strong> An adult must help with this project. Once the light works, an adult should tape the parts securely so they cannot come loose.</p>
+            <p class="safety-text"><strong>3. Electrical Safety:</strong> The 3V battery is safe to touch and will not shock you. Never try to plug LED bulbs into wall outlets.</p>
+            <p class="safety-text"><strong>4. Disclaimer:</strong> This project is for educational use. By building it, you assume all responsibility for safety.</p>
+        </section>
+
+        <footer class="main-footer">
+            <p style="color: var(--text-muted); font-size: 0.95rem;">Ready for your next cosmic mission?</p>
+            <a class="archive-btn" href="your-archive-link.html">The Moore Signal Archive</a>
+            <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 10px;">See how our cosmic poetry coins are launched into outer space.</p>
+        </footer>
+
+    </div>
+
+</body>
+</html>
