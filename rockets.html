@@ -13,7 +13,7 @@
         --text-main: #f8fafc;
         --text-muted: #64748b;
         --text-body: #cbd5e1;
-        --danger-border: rgba(248, 113, 113, 0.2); /* Subtle, elegant red border */
+        --danger-border: rgba(248, 113, 113, 0.2);
     }
 
     body {
@@ -115,6 +115,21 @@
         opacity: 0.9;
     }
 
+    .research-link {
+        display: inline-block;
+        color: var(--lab-green);
+        text-decoration: none;
+        font-size: 0.9rem;
+        font-weight: 600;
+        margin-top: 10px;
+        border-bottom: 1px dashed var(--lab-green);
+        transition: border-color 0.2s ease;
+    }
+
+    .research-link:hover {
+        border-bottom-style: solid;
+    }
+
     .matrix-box {
         background-color: #020617;
         border: 1px dashed var(--border-color);
@@ -127,7 +142,6 @@
         margin: 20px 0;
     }
 
-    /* Premium Bordered Safety Panel */
     .safety-section {
         margin-top: 80px;
         border: 1px dashed var(--danger-border);
@@ -179,6 +193,7 @@
     }
 </style>
 </head>
+
 
 
 <body>
@@ -254,6 +269,18 @@ Short Leg (-) 👉  Bumpy Textured Side of Battery Core
 
         <p style="color: var(--lab-green); font-style: italic; margin-top: 30px; text-align: center;">Testing: With an adult supervisor, this assembly can be taken outside into a clear night environment. Aim your module upward into the open sky—your projected photon stream travels at 186,000 miles per second, exiting the atmosphere into deep space within a fraction of a millisecond.</p>
 
+        
+        <!-- Streamlined Single Citizen Science Gateway -->
+        <h2 class="section-title">Active Deep-Space Research</h2>
+        
+        <div class="step-block">
+            <div class="step-meta">Global Field Telemetry</div>
+            <div class="step-title">Conduct Real Citizen Science Astronomy</div>
+            <p class="step-text">Now that your local photon stream is charting a course through space, expand your telemetry window. Team up directly with research institutions to map out actual deep-space datasets and discover remote star structures online.</p>
+            <a class="research-link" href="https://www.zooniverse.org/projects?discipline=astronomy" target="_blank">Launch Real Astronomy Research Assignments via Zooniverse →</a>
+        </div>
+
+        
         <!-- Elegant Bordered Technical Footnotes Section -->
         <section class="safety-section">
             <div class="safety-title">[ Technical Footnotes & Safety Protocols ]</div>
@@ -273,5 +300,3 @@ Short Leg (-) 👉  Bumpy Textured Side of Battery Core
 
 </body>
 </html>
-
-
