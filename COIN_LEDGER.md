@@ -48,7 +48,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113788/?n=Yhe+Pretty+Coinz+Collection)**
+*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113788/?n=The+Pretty+Coinz+Collection)**
 *   **The Inspiration:** My Astrophysics Research **[[(View Inspirational Image)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
 *   **Explore the Methodology:** 📊 **[View The Official Process (Zooniverse)](https://www.zooniverse.org/about)**
 </details>
@@ -83,7 +83,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](HERE)**
-*   **The Inspiration:** Planet Space Data **[(WASP-12b Transit Records)](https://simple.wikipedia.org/wiki/WASP-12b)**
+*   **The Inspiration:** Planet Space Data **[(View WASP-12b Planetary Record)](https://simple.wikipedia.org/wiki/WASP-12b)**
 *   **Explore the Methodology:**  📊 **[View my Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11335/)**
 </details>
 
@@ -100,7 +100,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](HERE)**
-*   **The Inspiration:** Planet Space Data **[(TrES-3b Transit Records)](https://en.wikipedia.org/wiki/TrES-3b)**
+*   **The Inspiration:** Planet Space Data **[(View TrES-3b Planetary Record))](https://en.wikipedia.org/wiki/TrES-3b)**
 *   **Explore the Methodology:**  📊 **[My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11122/)**
 </details>
 
