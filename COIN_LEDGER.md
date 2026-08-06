@@ -65,9 +65,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** Planet Space Data **[(TrES-2b Transit Records)](https://simple.wikipedia.org/wiki/TrES-2b)**
-*   **Explore the Methodology:**  📊 **[My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/10772/)**
+*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](HERE)**
+*   **The Inspiration:** Planet Space Data **[(View TrES-2b Planetary Record)](https://simple.wikipedia.org/wiki/TrES-2b)**
+*   **Explore the Methodology:**  📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/10772/)**
 </details>
 
 ---
@@ -82,9 +82,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
+*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](HERE)**
 *   **The Inspiration:** Planet Space Data **[(WASP-12b Transit Records)](https://simple.wikipedia.org/wiki/WASP-12b)**
-*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11335/)**
+*   **Explore the Methodology:**  📊 **[View my Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11335/)**
 </details>
 
 ---
@@ -99,9 +99,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
+*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](HERE)**
 *   **The Inspiration:** Planet Space Data **[(TrES-3b Transit Records)](https://en.wikipedia.org/wiki/TrES-3b)**
-*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/11122/)**
+*   **Explore the Methodology:**  📊 **[My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11122/)**
 </details>
 
 ---
