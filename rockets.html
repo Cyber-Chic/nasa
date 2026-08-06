@@ -322,16 +322,94 @@ Short Leg (-) &nbsp;👉&nbsp;  Bumpy Textured Side of Battery
             <a class="research-link" href="https://cyber-chic.github.io/cosmos/universe" target="_blank">Launch 3D Galaxy Map & Cosmic Poetry Visualizer →</a>
         </div>
 
+        
+  <!-- Interactive Certificate Generator Module -->
+        <h2 class="section-title">Mission Completion Certificate</h2>
+        <div class="step-block" style="text-align: center;">
+            <div class="step-meta">Official Recognition</div>
+            <div class="step-title">Claim Your Flight Crew Certificate</div>
+            <p class="step-text" style="margin-bottom: 20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
+            <button onclick="printBlankCertificate()" style="background-color: var(--lab-green); color: #090d16; border: none; font-size: 0.9rem; font-weight: 700; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.05em;">Print Mission Certificate 🖨️</button>
+        </div>
+
+            <!-- Hidden Printable Certificate Template -->
+        <div id="print-area" style="display: none;">
+            <!-- FIX: Added display: flex and flex-direction to ensure background grows dynamically and scales safely -->
+            <div style="width: 100%; max-width: 800px; min-height: 550px; display: flex; flex-direction: column; border: 8px double #131b2e; background-color: #090d16; color: #cbd5e1; font-family: monospace; padding: 40px; box-sizing: border-box; text-align: center; position: relative;">
+                
+                <!-- FIX: Changed height to 100% with flex flex-direction: column for reliable inner expanding -->
+                <div style="border: 2px solid #1e293b; flex: 1; display: flex; flex-direction: column; justify-content: space-between; box-sizing: border-box; padding: 30px; position: relative;">
+                    
+                    <!-- Decorative Corners -->
+                    <div style="position: absolute; top: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                    <div style="position: absolute; top: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                    <div style="position: absolute; bottom: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                    <div style="position: absolute; bottom: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+
+                    <!-- Dynamic Telemetry Serial Number Stamp -->
+                    <div id="cert-serial" style="position: absolute; top: 15px; right: 40px; color: #64748b; font-size: 0.75rem; letter-spacing: 1px; font-family: monospace;">SERIAL: TMSA-XXXXXX</div>
+
+                    <!-- FIX: Wrapped the body text in an auto-scoping container to prevent margin clipping -->
+                    <div>
+                        <div style="color: #4ade80; font-weight: bold; letter-spacing: 4px; font-size: 0.9rem; margin-bottom: 20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
+                        
+                        <h1 style="color: #fff; font-size: 2.2rem; margin: 10px 0; font-family: sans-serif; font-weight: 800; letter-spacing: -1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
+                        <p style="color: #64748b; font-size: 0.85rem; margin-bottom: 25px;">THIS OFFICIALLY CERTIFY THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
+                        
+                        <div style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
+                        
+                        <!-- Elegant physical signature line for ink input -->
+                        <div style="width: 80%; max-width: 450px; border-bottom: 2px dashed #4ade80; margin: 0 auto 10px auto; height: 35px;"></div>
+                        <div style="font-size: 0.75rem; color: #64748b; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
+                        
+                        <p style="font-size: 0.85rem; line-height: 1.5; max-width: 580px; margin: 15px auto; color: #cbd5e1;">For successfully assembling a solid-state 10-Second Photon Rocket payload, initiating circuit ignition, and discharging trillions of light particles directly into the vacuum of deep space at a velocity of 186,000 miles per second.</p>
+                    </div>
+                    
+                    <!-- Bottom Information Section with Built-In Tech QR Graphic Layout -->
+                    <div style="margin-top: 25px; display: flex; justify-content: space-between; align-items: flex-end; padding: 0 10px;">
+                        
+                        <div style="text-align: left; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;">
+                            <strong>MISSION SECTOR:</strong><br>Earth / Space
+                        </div>
+
+                        <!-- Central Operational Verification Node & Anchor QR Block Placeholder -->
+                        <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+                            <!-- Vector-based Tech Simulation Layout for QR Core -->
+                            <div style="width: 55px; height: 55px; border: 2px solid #4ade80; padding: 3px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: #020617; box-sizing: border-box;">
+                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
+                                <div style="background: transparent;"></div>
+                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
+                                <div style="background: transparent;"></div>
+                                <div style="background: #4ade80;"></div>
+                                <div style="background: transparent;"></div>
+                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
+                                <div style="background: transparent;"></div>
+                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
+                            </div>
+                            <span style="font-size: 0.65rem; color: #4ade80; font-family: monospace; letter-spacing: 1px;">[ APPROVED ]</span>
+                        </div>
+
+                        <div style="text-align: right; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;">
+                            <strong>MISSION CENTER:</strong><br>The Moore Signal Archive
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
         <h2 class="section-title">🔬 Citizen Science & Space Art</h2>
         <div class="step-block">
             <div class="step-meta">Data Observation</div>
             <div class="step-title" style="margin-top: 5px; margin-bottom: 10px;">Citizen Science Research</div>
-            <p class="step-text">Our poetry is inspired by real objects tracked during our citizen science research sessions, analyzing raw planetary transits via Exoplanet Watch records and classifying targets on Zooniverse. We highly encourage everyone visiting our portal to jump into these active databases, contribute to global discoveries, and explore deep-space classification for yourself!</p>
+            <p class="step-text">Our educational space projects are inspired by our citizen science research sessions. We highly encourage everyone visiting our portal to jump into these active databases, contribute to global discoveries, and explore deep-space classification for yourself!</p>
             <a class="research-link" href="https://www.zooniverse.org/projects?discipline=astronomy" target="_blank" style="margin-bottom: 25px; display: inline-block;">Contribute to Astronomy Projects via Zooniverse →</a>
             
             <div class="step-meta">The Space Cargo Manifest</div>
             <div class="step-title" style="margin-top: 5px; margin-bottom: 10px;">Launching Art to Space</div>
-            <p class="step-text">We launch real art into space via two unique pathways. Hand-signed physical art prints are loaded as physical cargo aboard commercial rockets crossing the Kármán Line, while a high-resolution rendering of our work is beamed directly to an active satellite orbiting Earth.</p>
+            <p class="step-text">Ready for your next space mission? Our limited-edition artifacts are hidden across the globe, loaded as physical cargo aboard commercial rockets and launched into space! This is part of our exciting cosmic treasure hunt! </p>
             <a class="research-link" href="https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ" target="_blank" style="display: inline-block;">View the Official Project Overview to Learn More →</a>
         </div>
 
@@ -364,6 +442,28 @@ Short Leg (-) &nbsp;👉&nbsp;  Bumpy Textured Side of Battery
         </footer>
 
     </div>
+
+            <!-- Embedded JavaScript Logic -->
+        <script>
+            function printBlankCertificate() {
+                var now = new Date();
+                var year = now.getFullYear().toString().substring(2);
+                var month = String(now.getMonth() + 1).padStart(2, '0');
+                var day = String(now.getDate()).padStart(2, '0');
+                var randomNoise = Math.floor(1000 + Math.random() * 9000);
+                
+                var compiledSerial = "SERIAL: TMSA-" + year + month + day + "-" + randomNoise;
+                document.getElementById("cert-serial").innerText = compiledSerial;
+                
+                var printContents = document.getElementById("print-area").innerHTML;
+                var originalContents = document.body.innerHTML;
+                
+                document.body.innerHTML = printContents;
+                window.print();
+                document.body.innerHTML = originalContents;
+                window.location.reload();
+            }
+        </script>
 
 </body>
 </html>
