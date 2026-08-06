@@ -67,7 +67,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
 *   **The Inspiration:** Planet Space Data **[(TrES-2b Transit Records)](https://simple.wikipedia.org/wiki/TrES-2b)**
-*   **Explore the Science:** 📊 **[View My Planetary Transit Curve (Python)](https://apps.aavso.org/exosite/g/10772/)**
+*   **Explore the Methodology:**  📊 **[My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/10772/)**
 </details>
 
 ---
