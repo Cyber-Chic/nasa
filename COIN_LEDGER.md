@@ -8,7 +8,7 @@
 
 ### 👋 YOU FOUND A SPACE COIN! NOW WHAT?
 
-*   **THE COIN IS YOURS:** Digital copies are launched to space! The physical artifact is a free gift to you! 🎁
+*   **THE COIN IS YOURS:** Captures of each coin are transformed into limited-edition postcards, and launched into space!  The physical artifact is a free gift to you! 🎁
 *   **READ YOUR POEM:** Check the front face of your coin for your unique number, then scroll down this page (or search your number) to read your full cosmic poem.
 *   **LOG YOUR FIND:** Click our **[Official Geocaching Page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** to type a quick note, log your coin ID (**EXAMPLE: COIN-001**), or post a photo of where you found it!
 
@@ -25,7 +25,7 @@ Each custom coin features a fragmented poetry verse translating celestial citize
 To complete this physical-to-orbital transmission, our artifacts are launched to outer space via two unique celestial pathways:
 
 *   **1. Blue Origin Launches (Rockets):**
-    *   Authentic prints showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
+    *   Authentic postcards showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
     *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
 *   **2. Digital Coin Uplink (Satellite):**
     *   A high-resolution rendering of our signature coin back is beamed directly to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
@@ -48,9 +48,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
-*   **Log Footage:** `[ Queue Active ]` 📷 *Artifact capture pending.*
-*   **The Inspiration:** My Astrophysics Analysis **[(Research & Methodology)](https://www.zooniverse.org/about)**
-*   **Explore the Science:** 📊 **[View The Official Data Log (Zooniverse)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
+*   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113788/?n=Yhe+Pretty+Coinz+Collection)**
+*   **The Inspiration:** My Astrophysics Research **[[(View Inspirational Image)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
+*   **Explore the Methodology:** 📊 **[View The Official Process (Zooniverse)](https://www.zooniverse.org/about)**
 </details>
 
 ---
@@ -105,3 +105,6 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 </details>
 
 ---
+
+
+
