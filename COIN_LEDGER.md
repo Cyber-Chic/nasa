@@ -25,7 +25,7 @@ Each custom coin features a fragmented poetry verse translating celestial citize
 To complete this physical-to-orbital transmission, our artifacts are launched to outer space via two unique celestial pathways:
 
 *   **1. Blue Origin Launches (Rockets):**
-    *   Authentic postcards showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
+    *   Postcards showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
     *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
 *   **2. Digital Coin Uplink (Satellite):**
     *   A high-resolution rendering of our signature coin back is beamed directly to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
