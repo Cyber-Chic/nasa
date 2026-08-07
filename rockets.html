@@ -6,213 +6,44 @@
     <title>The 10-Second Photon Rocket - Easy STEM Project</title>
 <style>
     :root {
-        --bg: #090d16;
-        --card-bg: #131b2e;
-        --border-color: #1e293b;
-        --lab-green: #4ade80;
-        --text-main: #f8fafc;
-        --text-muted: #64748b;
-        --text-body: #cbd5e1;
-        --danger-border: rgba(248, 113, 113, 0.2);
+        --bg:#090d16;--card-bg:#131b2e;--border-color:#1e293b;
+        --lab-green:#4ade80;--text-main:#f8fafc;--text-muted:#64748b;--text-body:#cbd5e1;
     }
-
     body {
-        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-        background-color: var(--bg);
-        color: var(--text-body);
-        line-height: 1.6;
-        margin: 0;
-        padding: 40px 20px;
-        -webkit-font-smoothing: antialiased;
+        font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+        background-color:var(--bg);color:var(--text-body);line-height:1.6;margin:0;padding:40px 20px;-webkit-font-smoothing:antialiased;
     }
-
-    .container {
-        max-width: 600px;
-        margin: 0 auto;
-    }
-
-    header {
-        text-align: center;
-        margin-bottom: 50px;
-    }
-
-    h1 {
-        font-size: 2.2rem;
-        font-weight: 800;
-        letter-spacing: -0.03em;
-        margin: 0 0 10px 0;
-        color: var(--text-main);
-    }
-
-    .subtitle {
-        font-size: 0.95rem;
-        color: var(--lab-green);
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        font-weight: 700;
-    }
-
-    .intro p {
-        font-size: 1.1rem;
-        color: #cbd5e1;
-        margin-bottom: 20px;
-    }
-
-    .section-title {
-        font-size: 1.1rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        margin-top: 50px;
-        margin-bottom: 20px;
-        color: var(--text-main);
-    }
-
-    .step-block {
-        background-color: var(--card-bg);
-        border: 1px solid var(--border-color);
-        padding: 24px;
-        border-radius: 12px;
-        margin-bottom: 16px;
-    }
-
-    .step-meta {
-        font-size: 0.8rem;
-        font-weight: 700;
-        color: var(--lab-green);
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-        margin-bottom: 4px;
-    }
-
-    .step-title {
-        font-size: 1.1rem;
-        font-weight: 700;
-        margin-bottom: 8px;
-        color: #fff;
-    }
-
-    .step-text {
-        font-size: 1rem;
-        color: #cbd5e1;
-        margin: 0;
-    }
-
-    .store-link {
-        display: inline-block;
-        background-color: var(--lab-green);
-        color: #090d16;
-        text-decoration: none;
-        font-size: 0.85rem;
-        font-weight: 700;
-        padding: 6px 14px;
-        border-radius: 6px;
-        margin-top: 12px;
-        transition: opacity 0.2s ease;
-    }
-
-    .store-link:hover {
-        opacity: 0.9;
-    }
-
-    .research-link {
-        display: inline-block;
-        color: var(--lab-green);
-        text-decoration: none;
-        font-size: 0.9rem;
-        font-weight: 600;
-        margin-top: 10px;
-        border-bottom: 1px dashed var(--lab-green);
-        transition: border-color 0.2s ease;
-    }
-
-    .research-link:hover {
-        border-bottom-style: solid;
-    }
-
-    .matrix-box {
-        background-color: #020617;
-        border: 1px dashed var(--border-color);
-        padding: 20px;
-        border-radius: 8px;
-        font-family: ui-monospace, monospace;
-        font-size: 0.9rem;
-        color: var(--lab-green);
-        text-align: center;
-        margin: 20px 0;
-    }
-
-    .timeline {
-        border-left: 2px solid var(--border-color);
-        padding-left: 20px;
-        margin-left: 10px;
-    }
-
-    .timeline-item {
-        margin-bottom: 15px;
-        position: relative;
-    }
-
-    .timeline-time {
-        font-weight: 700;
-        color: var(--lab-green);
-    }
-
-    .safety-section {
-        margin-top: 80px;
-        border: 1px dashed var(--danger-border);
-        background-color: rgba(248, 113, 113, 0.01);
-        padding: 30px;
-        border-radius: 12px;
-    }
-
-    .safety-title {
-        font-size: 0.8rem;
-        color: var(--text-muted);
-        text-transform: uppercase;
-        letter-spacing: 0.1em;
-        font-weight: 700;
-        margin-bottom: 20px;
-        text-align: center;
-    }
-
-    .safety-text {
-        font-size: 0.8rem;
-        color: var(--text-muted);
-        margin-bottom: 12px;
-        line-height: 1.5;
-    }
-
-    .safety-text:last-child {
-        margin-bottom: 0;
-    }
-
-    .safety-text strong {
-        color: #abaeb3;
-    }
-
-    .main-footer {
-        text-align: center;
-        margin-top: 80px;
-        padding-top: 30px;
-        border-top: 1px dashed var(--border-color);
-    }
-
-    .archive-btn {
-        display: inline-block;
-        margin-top: 10px;
-        font-size: 1.1rem;
-        color: #fff;
-        text-decoration: none;
-        border-bottom: 2px solid var(--lab-green);
-        padding-bottom: 2px;
-    }
+    .container {max-width:600px;margin:0 auto;}
+    header {text-align:center;margin-bottom:50px;}
+    h1 {font-size:2.2rem;font-weight:800;letter-spacing:-0.03em;margin:0 0 10px 0;color:var(--text-main);}
+    .subtitle {font-size:0.95rem;color:var(--lab-green);text-transform:uppercase;letter-spacing:0.05em;font-weight:700;}
+    .intro p {font-size:1.1rem;color:#cbd5e1;margin-bottom:20px;}
+    .section-title {font-size:1.1rem;font-weight:700;text-transform:uppercase;letter-spacing:0.05em;margin-top:50px;margin-bottom:20px;color:var(--text-main);}
+    .step-block {background-color:var(--card-bg);border:1px solid var(--border-color);padding:24px;border-radius:12px;margin-bottom:16px;}
+    .step-meta {font-size:0.8rem;font-weight:700;color:var(--lab-green);text-transform:uppercase;letter-spacing:0.05em;margin-bottom:4px;}
+    .step-title {font-size:1.1rem;font-weight:700;margin-bottom:8px;color:#fff;}
+    .step-text {font-size:1rem;color:#cbd5e1;margin:0;}
+    .info-box {background-color:rgba(74,222,128,0.02);border:1px dashed var(--border-color);padding:18px;border-radius:12px;margin-top:15px;font-size:0.95rem;}
+    .store-link {display:inline-block;background-color:var(--lab-green);color:#090d16;text-decoration:none;font-size:0.85rem;font-weight:700;padding:8px 16px;border-radius:6px;margin-top:12px;transition:opacity 0.2s ease;}
+    .store-link:hover {opacity:0.9;}
+    .research-link {display:inline-block;color:var(--lab-green);text-decoration:none;font-size:0.9rem;font-weight:600;margin-top:10px;border-bottom:1px dashed var(--lab-green);transition:border-color 0.2s ease;}
+    .research-link:hover {border-bottom-style:solid;}
+    .matrix-box {background-color:#020617;border:1px dashed var(--border-color);padding:20px;border-radius:8px;font-family:ui-monospace,monospace;font-size:0.9rem;color:var(--lab-green);text-align:center;margin:20px 0;}
+    .timeline {border-left:2px solid var(--border-color);padding-left:20px;margin-left:10px;margin-top:20px;}
+    .timeline-item {margin-bottom:15px;position:relative;}
+    .timeline-time {font-weight:700;color:var(--lab-green);margin-right:6px;}
+    .address-card {background-color:#020617;border:1px solid var(--border-color);padding:15px;border-radius:8px;font-family:ui-monospace,monospace;font-size:0.9rem;color:#fff;margin:15px 0;line-height:1.4;}
+    .safety-section {margin-top:80px;border:1px dashed var(--border-color);background-color:rgba(255,255,255,0.01);padding:30px;border-radius:12px;}
+    .safety-title {font-size:0.8rem;color:var(--text-muted);text-transform:uppercase;letter-spacing:0.1em;font-weight:700;margin-bottom:20px;text-align:center;}
+    .safety-text {font-size:0.8rem;color:var(--text-muted);margin-bottom:12px;line-height:1.5;}
+    .safety-text:last-child {margin-bottom:0;}
+    .safety-text strong {color:#abaeb3;}
+    .main-footer {text-align:center;margin-top:80px;padding-top:30px;border-top:1px dashed var(--border-color);}
+    .archive-btn {display:inline-block;margin-top:10px;font-size:1.1rem;color:#fff;text-decoration:none;border-bottom:2px solid var(--lab-green);padding-bottom:2px;}
 </style>
 </head>
 <body>
-
     <div class="container">
-        
         <header>
             <h1>🚀 The 10-Second Space-Only Photon Rocket</h1>
             <div class="subtitle">A Revolutionary Deep-Space STEM Demonstration</div>
@@ -222,215 +53,178 @@
             <p>Imagine holding a space engine that doesn't use fire, smoke, or heavy rocket fuel. Instead, it blasts trillions of light particles—called photons—directly out of its nozzle!</p>
             <p>On Earth, this little rocket is too heavy to move against gravity. But if you dropped this exact module into the frozen void of deep space, the microscopic push of its light beam would slowly propel it forward forever. Today, you are building a Space-Only Rocket Prototype to model how future starships will travel to distant worlds at fractional speeds of light!</p>
             
-            <!-- 🛸 INTERACTIVE PHYSICS PROOF SELECTOR -->
-            <details style="background-color: rgba(74, 222, 128, 0.02); border: 1px dashed var(--border-color); padding: 18px; border-radius: 12px; margin-top: 25px; cursor: pointer; transition: background-color 0.2s ease;">
-                <summary style="font-size: 0.95rem; font-weight: 700; color: var(--lab-green); list-style: none; display: flex; align-items: center; gap: 8px; outline: none; -webkit-user-select: none; user-select: none;">
+            <details style="background-color:rgba(74,222,128,0.02);border:1px dashed var(--border-color);padding:18px;border-radius:12px;margin-top:25px;cursor:pointer;">
+                <summary style="font-size:0.95rem;font-weight:700;color:var(--lab-green);list-style:none;display:flex;align-items:center;gap:8px;outline:none;user-select:none;">
                     🛸 Is this really a rocket? Click to verify the space physics.
                 </summary>
-                <div style="margin-top: 15px; font-size: 0.95rem; color: var(--text-body); cursor: default; line-height: 1.6; border-top: 1px dashed var(--border-color); padding-top: 15px;">
-                    <p style="margin: 0 0 12px 0; color: #fff; font-weight: 600;">Yes! By strict aerospace criteria, this configuration qualifies as a true rocket engine:</p>
-                    <ul style="padding-left: 20px; margin: 0; list-style-type: square;">
-                        <li style="margin-bottom: 8px;"><strong>Fully Self-Contained:</strong> It carries 100% of its required energy internally. It does not need to ingest outside atmospheric oxygen, enabling operations in a deep vacuum.</li>
-                        <li style="margin-bottom: 8px;"><strong>Action & Reaction:</strong> Light particles (photons) carry authentic physical momentum. Discharging them outward creates a direct, microscopic forward push in the opposite direction (Newton's Third Law).</li>
-                        <li style="margin-bottom: 0;"><strong>Space-Only Rating:</strong> While this thrust is far too gentle to register against Earth's heavy atmospheric air friction and surface gravity, this exact module becomes an active, accelerating propulsion vehicle the moment it drifts into interstellar space.</li>
+                <div style="margin-top:15px;font-size:0.95rem;color:var(--text-body);cursor:default;line-height:1.6;border-top:1px dashed var(--border-color);padding-top:15px;">
+                    <p style="margin:0 0 12px 0;color:#fff;font-weight:600;">Yes! By strict aerospace criteria, this configuration qualifies as a true rocket engine:</p>
+                    <ul style="padding-left:20px;margin:0;list-style-type:square;">
+                        <li style="margin-bottom:8px;"><strong>Fully Self-Contained:</strong> It carries 100% of its required energy internally. It does not need to ingest outside atmospheric oxygen, enabling operations in a deep vacuum.</li>
+                        <li style="margin-bottom:8px;"><strong>Action & Reaction:</strong> Light particles (photons) carry authentic physical momentum. Discharging them outward creates a direct, microscopic forward push in the opposite direction (Newton's Third Law).</li>
+                        <li style="margin-bottom:0;"><strong>Space-Only Rating:</strong> While this thrust is far too gentle to register against Earth's heavy atmospheric air friction and surface gravity, this exact module becomes an active, accelerating propulsion vehicle the moment it drifts into interstellar space.</li>
                     </ul>
                 </div>
             </details>
         </section>
-
-
-        <h2 class="section-title">🛠️ Mission Cargo (Your Materials)</h2>
-        
+        <!-- SECTION 2: MATERIALS MANIFEST -->
+        <h2 class="section-title">📋 Component Manifest (Your Materials)</h2>
         <div class="step-block">
-            <div class="step-meta">Component 1: Aerospace Name: The Onboard Energy Core</div>
-            <div class="step-title">CR2032 3V Lithium Battery</div>
-            <p class="step-text">This coin-shaped core holds 100% of your rocket's electrical energy inside itself, meaning it can run in the airless vacuum of space.</p>
-            <a class="store-link" href="https://www.amazon.com/Duracell-Lithium-Battery-Lasting-Count/dp/B07GN8ZYZR" target="_blank">Shop Online ↗</a>
+            <div class="step-meta">Component 1: The Energy Core & Photon Thruster</div>
+            <div class="step-title">Glow-in-the-Dark Pen or Paint</div>
+            <p class="step-text">The glowing ink acts as your energy storage system, capturing ambient light particles and throwing them back out.</p>
         </div>
-
         <div class="step-block">
-            <div class="step-meta">Component 2: Aerospace Name: The Photon Thruster</div>
-            <div class="step-title">5mm LED Light Bulb</div>
-            <p class="step-text">This is your engine. It shapes energy into a hyper-focused beam of light particles to create a tiny forward push.</p>
-            <a class="store-link" href="https://www.amazon.com/California-JOS-50-PCS-Colorful/dp/B0CR886L92" target="_blank">Shop Online ↗</a>
+            <div class="step-meta">Component 2: The Structural Rocket Hull</div>
+            <div class="step-title">Standard Paper Postcard or Cardstock</div>
+            <p class="step-text">This serves as your lightweight vehicle frame, keeping your glowing engine completely flat without heavy hardware.</p>
         </div>
-
         <div class="step-block">
-            <div class="step-meta">Component 3: Aerospace Name: The Structural Hull</div>
-            <div class="step-title">Duct Tape</div>
-            <p class="step-text">This heavy-duty armor locks your engine and energy core together into one solid vehicle.</p>
-            <a class="store-link" href="https://www.amazon.com/PATIKIL-Holographic-Metalized-Reflective-Detailing/dp/B0B5H43KL2" target="_blank">Shop Online ↗</a>
+            <div class="step-meta">Component 3: The Engine Ignition System</div>
+            <div class="step-title">Bright Lamp or Phone Flashlight</div>
+            <p class="step-text">Your external light source used to trigger and pack the rocket's chemical energy core.</p>
         </div>
 
         <h2 class="section-title">🛸 Inside The Moore Signal Archive</h2>
         <div class="step-block">
-            <p class="step-text" style="margin-bottom: 15px;">This Space-Only Photon Rocket is an introductory project by <strong>The Moore Signal Archive</strong>, an impact-first creative studio developing original educational resources.</p>
-            <p class="step-text" style="margin-bottom: 15px;">While our work connects directly to astrophysical data, our projects focus on human connection: we ask everyone who builds or interacts with our archive to commit <strong>one quiet act of kindness</strong> here on Earth.</p>
-            <a class="research-link" href="hhttps://github.com/cyber-chic" target="_blank" style="font-weight: 700;">Explore our GitHub Profile & Archive →</a>
+            <p class="step-text" style="margin-bottom:15px;">This Space-Only Photon Rocket is an introductory project by <strong>The Moore Signal Archive</strong>, an impact-first creative studio developing original educational resources.</p>
+            <p class="step-text" style="margin-bottom:15px;">While our work connects directly to astrophysical data, our projects focus on human connection: we ask everyone who builds or interacts with our archive to commit <strong>one quiet act of kindness</strong> here on Earth.</p>
+            <a class="research-link" href="https://github.com" target="_blank" style="font-weight:700;">Explore our GitHub Profile & Archive →</a>
         </div>
 
+        <!-- SECTION 3: ASSEMBLY STEPS -->
         <h2 class="section-title">⚡ Assembly Protocol (How to Connect)</h2>
-        
-        <div class="matrix-box">
-Long Leg (+)  &nbsp;👉&nbsp;  Smooth Flat Side (+) of Battery
-<br><br>
-Short Leg (-) &nbsp;👉&nbsp;  Bumpy Textured Side of Battery
-        </div>
+        <div class="matrix-box">💡 NO BATTERIES REQUIRED &nbsp;👉&nbsp; 100% Quantum Light Driven</div>
 
         <h2 class="section-title">Step-by-Step Instructions</h2>
-        
         <div class="step-block">
             <div class="step-meta">Step 1</div>
-            <div class="step-title">Check the Legs</div>
-            <p class="step-text">Hold your tiny LED bulb. Notice that one metal wire leg is slightly longer than the other.</p>
+            <div class="step-title">Apply the Chemical Core</div>
+            <p class="step-text">Use your glow pen to sign your initials, write a poem, or draw a design directly onto the postcard surface.</p>
         </div>
-
         <div class="step-block">
             <div class="step-meta">Step 2</div>
-            <div class="step-title">Place the Battery</div>
-            <p class="step-text">Slide your flat coin battery right between the two metal wire legs.</p>
+            <div class="step-title">Let the Hull Dry</div>
+            <p class="step-text">Allow the paint to dry completely. It bonds flush with the paper fibers to form a single, solid flight hull.</p>
+            <div class="info-box" style="border-color:rgba(74,222,128,0.3);margin-top:12px;padding:12px;background:rgba(74,222,128,0.02);border-radius:6px;font-size:0.9rem;">
+                <span style="color:var(--lab-green);font-weight:700;">⏱️ Pre-Flight Kindness Mission:</span> While your flight hull cures, pay your entry fuel forward by texting a quick, unexpected word of appreciation to a friend or family member here on Earth.
+            </div>
         </div>
-
         <div class="step-block">
             <div class="step-meta">Step 3</div>
-            <div class="step-title">Pinch to Light Up</div>
-            <p class="step-text">Squeeze the long wire leg against the flat, smooth side of the battery (the "+" side). Touch the short wire leg to the bumpy back side. The bulb will turn on instantly!</p>
+            <div class="step-title">Core Ignition</div>
+            <p class="step-text">Hold your finished postcard directly under a bright desk lamp or phone flashlight for 60 seconds. This packs the subatomic structure of your paint with raw power.</p>
         </div>
-
         <div class="step-block">
             <div class="step-meta">Step 4</div>
-            <div class="step-title">Lock it Together</div>
-            <p class="step-text">Wrap a piece of duct tape tightly around the whole thing. The tape keeps the wires pressed against the battery so the light stays on by itself!</p>
+            <div class="step-title">Aim at the Stars</div>
+            <p class="step-text">Step outside into the night air. Hold your glowing card flat in your hand and point the design straight up toward the open sky. Trillions of photons are escaping our atmosphere instantly, sailing out into the deep cosmic void.</p>
+        </div>
+        <div class="step-block">
+            <div class="step-meta">Step 5</div>
+            <div class="step-title">Lock the Engine</div>
+            <p class="step-text">Slide your glowing card into a dark envelope and seal it shut. Trillions of photons are now actively blasting off the paper inside the dark envelope, creating microscopic forward thrust!</p>
         </div>
 
+        <!-- SECTION 4: REAL ORBITAL LAUNCH PAD TESTING -->
+        <h2 class="section-title">🌌 Launch Pad Testing</h2>
+        <div class="step-block">
+            <p class="step-text" style="margin-bottom:20px;">You can turn this physical demonstration into a true orbital mission! Put your sealed envelope in the mail and send it directly to Blue Origin's payload facility. They will load your postcard rocket into a real space vehicle, fly it across the Kármán Line into zero-gravity, and mail it back to you officially stamped "Flown to Space"!</p>
+            
+            <div class="address-card">
+                Club for the Future<br>
+                Postcards - Blue Origin's Club for the Future<br>
+                35961 State Highway 54<br>
+                PO Box 1552<br>
+                Van Horn, Texas 79855-1552<br>USA
+            </div>
 
-<h2 class="section-title">🌌 Launch Pad Testing</h2>
-<div class="step-block">
-    <p class="step-text" style="margin-bottom: 20px;">With an adult supervisor, take your active rocket outside under a dark, clear night sky. Point the light beam straight up toward the stars.</p>
-    <p class="step-text" style="margin-bottom: 20px;">While gravity keeps the battery in your hand, the light beam is blasting a stream of photons that escapes our atmosphere instantly—crossing past the Moon in 1.3 seconds and traveling through space forever.</p>
-    
-    <div class="step-title" style="font-size: 1rem; margin-top: 25px; margin-bottom: 15px; color: var(--lab-green);">⏱️ The Photon Flight Profile:</div>
-    <div class="timeline">
-        <div class="timeline-item"><span class="timeline-time">0.0001 Seconds:</span> Photons instantly exit clear skies, streaming past the highest clouds.</div>
-        <div class="timeline-item"><span class="timeline-time">0.00033 Seconds:</span> The widening beam punches through the atmosphere into the vacuum of space.</div>
-        <div class="timeline-item"><span class="timeline-time">1.3 Seconds:</span> The expanding, diluted beam passes the Moon, scattering over vast distances.</div>
-        <div class="timeline-item"><span class="timeline-time">A Few Years:</span> Escaping into the deep void, free photons continue cruising past stars forever.</div>
-    </div>
+            <div class="info-box">
+                <p style="margin:0 0 8px 0;font-weight:700;color:#fff;">🛰️ Flight Dynamics Note: "Did my ship fly independently?"</p>
+                <p style="margin:0;font-size:0.9rem;color:var(--text-body);">While your physical card travels safely nestled inside the main cargo bay of a Blue Origin rocket, the quantum propulsion engine you built is fully active! The photons your design generates are dynamically interacting with the vehicle framework. Conceptually, your light waves are pushing forward on a subatomic level throughout the entire journey.</p>
+            </div>
 
-    <p class="step-text" style="margin-top: 25px; margin-bottom: 15px; font-weight: 700; color: #fff;">🪐 Map Your Trajectory:</p>
-    <p class="step-text" style="margin-bottom: 15px;">Would you like to visualize where your photon stream is heading? Open our interactive universe map to see handwritten poetry verses mapped dynamically to real cosmic targets across space.</p>
-    <a class="store-link" href="https://cyber-chic.github.io/cosmos/universe" target="_blank">Launch 3D Galaxy Map & Cosmic Poetry Visualizer →</a>
-</div>
+            <div class="step-title" style="font-size:1rem;margin-top:25px;margin-bottom:15px;color:var(--lab-green);">⏱️ The Photon Flight Profile:</div>
+            <div class="timeline">
+                <div class="timeline-item"><span class="timeline-time">0.0001 Seconds:</span> Photons instantly exit the card's painted surface, streaming away from the paper.</div>
+                <div class="timeline-item"><span class="timeline-time">1.3000 Seconds:</span> While your physical postcard travels in an envelope on Earth, the light energy it generated has already crossed past the orbit of the Moon.</div>
+                <div class="timeline-item"><span class="timeline-time">A Few Years:</span> The free-flying light waves escape our solar system, sailing past distant stars forever.</div>
+            </div>
 
-        
-  <!-- Interactive Certificate Generator Module -->
+            <p class="step-text" style="margin-top:25px;margin-bottom:15px;font-weight:700;color:#fff;">🪐 Map Your Trajectory:</p>
+            <p class="step-text" style="margin-bottom:15px;">Would you like to visualize where your photon stream is heading? Open our interactive universe map to see handwritten poetry verses mapped dynamically to real cosmic targets across space.</p>
+            <a class="store-link" href="https://github.io" target="_blank">Launch 3D Galaxy Map & Cosmic Poetry Visualizer →</a>
+        </div>
+        <!-- SECTION 5: DIGITAL FLIGHT COMMANDER CERTIFICATE MODULE -->
         <h2 class="section-title">Mission Completion Certificate</h2>
-        <div class="step-block" style="text-align: center;">
+        <div class="step-block" style="text-align:center;">
             <div class="step-meta">Official Recognition</div>
             <div class="step-title">Claim Your Flight Crew Certificate</div>
-            <p class="step-text" style="margin-bottom: 20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
-            <button onclick="printBlankCertificate()" style="background-color: var(--lab-green); color: #090d16; border: none; font-size: 0.9rem; font-weight: 700; padding: 12px 24px; border-radius: 6px; cursor: pointer; font-family: sans-serif; text-transform: uppercase; letter-spacing: 0.05em;">Print Mission Certificate 🖨️</button>
+            <p class="step-text" style="margin-bottom:20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
+            <button onclick="printBlankCertificate()" style="background-color:var(--lab-green);color:#090d16;border:none;font-size:0.9rem;font-weight:700;padding:12px 24px;border-radius:6px;cursor:pointer;text-transform:uppercase;letter-spacing:0.05em;">Print Mission Certificate 🖨️</button>
         </div>
 
-            <!-- Hidden Printable Certificate Template -->
-        <div id="print-area" style="display: none;">
-            <!-- FIX: Added display: flex and flex-direction to ensure background grows dynamically and scales safely -->
-            <div style="width: 100%; max-width: 800px; min-height: 550px; display: flex; flex-direction: column; border: 8px double #131b2e; background-color: #090d16; color: #cbd5e1; font-family: monospace; padding: 40px; box-sizing: border-box; text-align: center; position: relative;">
-                
-                <!-- FIX: Changed height to 100% with flex flex-direction: column for reliable inner expanding -->
-                <div style="border: 2px solid #1e293b; flex: 1; display: flex; flex-direction: column; justify-content: space-between; box-sizing: border-box; padding: 30px; position: relative;">
-                    
-                    <!-- Decorative Corners -->
-                    <div style="position: absolute; top: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
-                    <div style="position: absolute; top: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
-                    <div style="position: absolute; bottom: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
-                    <div style="position: absolute; bottom: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
-
-                    <!-- Dynamic Telemetry Serial Number Stamp -->
-                    <div id="cert-serial" style="position: absolute; top: 15px; right: 40px; color: #64748b; font-size: 0.75rem; letter-spacing: 1px; font-family: monospace;">SERIAL: TMSA-XXXXXX</div>
-
-                    <!-- FIX: Wrapped the body text in an auto-scoping container to prevent margin clipping -->
+        <div id="print-area" style="display:none;">
+            <div style="width:100%;max-width:800px;min-height:550px;display:flex;flex-direction:column;border:8px double #131b2e;background-color:#090d16;color:#cbd5e1;font-family:monospace;padding:40px;box-sizing:border-box;text-align:center;position:relative;">
+                <div style="border:2px solid #1e293b;flex:1;display:flex;flex-direction:column;justify-content:space-between;box-sizing:border-box;padding:30px;position:relative;">
+                    <div style="position:absolute;top:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;top:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;bottom:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;bottom:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div id="cert-serial" style="position:absolute;top:15px;right:40px;color:#64748b;font-size:0.75rem;letter-spacing:1px;">SERIAL: TMSA-XXXXXX</div>
                     <div>
-                        <div style="color: #4ade80; font-weight: bold; letter-spacing: 4px; font-size: 0.9rem; margin-bottom: 20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
-                        
-                        <h1 style="color: #fff; font-size: 2.2rem; margin: 10px 0; font-family: sans-serif; font-weight: 800; letter-spacing: -1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
-                        <p style="color: #64748b; font-size: 0.85rem; margin-bottom: 25px;">THIS OFFICIALLY CERTIFY THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
-                        
-                        <div style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
-                        
-                        <!-- Elegant physical signature line for ink input -->
-                        <div style="width: 80%; max-width: 450px; border-bottom: 2px dashed #4ade80; margin: 0 auto 10px auto; height: 35px;"></div>
-                        <div style="font-size: 0.75rem; color: #64748b; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
-                        
-                        <p style="font-size: 0.85rem; line-height: 1.5; max-width: 580px; margin: 15px auto; color: #cbd5e1;">For successfully assembling a solid-state 10-Second Photon Rocket payload, initiating circuit ignition, and discharging trillions of light particles directly into the vacuum of deep space at a velocity of 186,000 miles per second.</p>
+                        <div style="color:#4ade80;font-weight:bold;letter-spacing:4px;font-size:0.9rem;margin-bottom:20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
+                        <h1 style="color:#fff;font-size:2.2rem;margin:10px 0;font-family:sans-serif;font-weight:800;letter-spacing:-1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
+                        <p style="color:#64748b;font-size:0.85rem;margin-bottom:25px;">THIS OFFICIALLY CERTIFIES THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
+                        <div style="font-size:1.05rem;color:#cbd5e1;margin-bottom:20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
+                        <div style="width:80%;max-width:450px;border-bottom:2px dashed #4ade80;margin:0 auto 10px auto;height:35px;"></div>
+                        <div style="font-size:0.75rem;color:#64748b;letter-spacing:2px;text-transform:uppercase;margin-bottom:15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
+                        <p style="font-size:0.85rem;line-height:1.5;max-width:580px;margin:15px auto;color:#cbd5e1;">For successfully assembling a solid-state 10-Second Postcard Photon Rocket payload, initiating core ignition, and discharging trillions of light particles directly into the deep vacuum of interstellar space.</p>
                     </div>
-                    
-                    <!-- Bottom Information Section with Built-In Tech QR Graphic Layout -->
-                    <div style="margin-top: 25px; display: flex; justify-content: space-between; align-items: flex-end; padding: 0 10px;">
-                        
-                        <div style="text-align: left; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;">
-                            <strong>MISSION SECTOR:</strong><br>Earth / Space
-                        </div>
-
-                        <!-- Central Operational Verification Node & Anchor QR Block Placeholder -->
-                        <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
-                            <!-- Vector-based Tech Simulation Layout for QR Core -->
-                            <div style="width: 55px; height: 55px; border: 2px solid #4ade80; padding: 3px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: #020617; box-sizing: border-box;">
-                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
-                                <div style="background: transparent;"></div>
-                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
-                                <div style="background: transparent;"></div>
-                                <div style="background: #4ade80;"></div>
-                                <div style="background: transparent;"></div>
-                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
-                                <div style="background: transparent;"></div>
-                                <div style="background: #4ade80; border: 1px solid #090d16;"></div>
+                    <div style="margin-top:25px;display:flex;justify-content:space-between;align-items:flex-end;padding:0 10px;">
+                        <div style="text-align:left;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION SECTOR:</strong><br>Earth / Space</div>
+                        <div style="display:flex;flex-direction:column;align-items:center;gap:8px;">
+                            <div style="width:55px;height:55px;border:2px solid #4ade80;padding:3px;display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:#020617;box-sizing:border-box;">
+                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
+                                <div></div><div style="background:#4ade80;"></div><div></div>
+                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
                             </div>
-                            <span style="font-size: 0.65rem; color: #4ade80; font-family: monospace; letter-spacing: 1px;">[ APPROVED ]</span>
+                            <span style="font-size:0.65rem;color:#4ade80;letter-spacing:1px;">[ APPROVED ]</span>
                         </div>
-
-                        <div style="text-align: right; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;">
-                            <strong>MISSION CENTER:</strong><br>The Moore Signal Archive
-                        </div>
-
+                        <div style="text-align:right;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION CENTER:</strong><br>The Moore Signal Archive</div>
                     </div>
                 </div>
             </div>
         </div>
 
-
-
+        <!-- SECTION 6: GLOBAL NETWORK PROJECTS -->
         <h2 class="section-title">🔬 Citizen Science & Space Art</h2>
-        
-        <!-- BLOCK 1: CITIZEN SCIENCE RESEARCH -->
         <div class="step-block">
             <div class="step-meta">Data Observation</div>
             <div class="step-title">Citizen Science Research</div>
             <p class="step-text">Our educational projects are powered by authentic space data. Inspired by active citizen science sessions, we analyze raw planetary transits via Exoplanet Watch records and classify deep-space targets on Zooniverse. We highly encourage everyone visiting our portal to jump into these active databases, contribute to global discoveries, and explore interstellar classification for yourself!</p>
-            <a class="store-link" href="https://www.zooniverse.org/projects?discipline=astronomy" target="_blank">Contribute to Astronomy Projects via Zooniverse →</a>
+            <a class="store-link" href="https://zooniverse.org" target="_blank">Contribute to Astronomy Projects via Zooniverse →</a>
+        </div>
+        <div class="step-block" style="margin-top:30px;">
+            <div class="step-meta">The Space Broadcast Registry</div>
+            <div class="step-title">Beaming Art Beyond Earth</div>
+            <p class="step-text">We launch original art concepts into deep space via dual data arrays. High-resolution digital renderings of our community's work are formatted and beamed directly to active communication satellites orbiting Earth. Telemetry logs and verification hashes from these broadcast runs are then integrated globally as keys to unlock our open, real-world treasure hunt!</p>
+            <a class="store-link" href="https://geocaching.com" target="_blank">View the Official Project Overview to Learn More →</a>
         </div>
 
-        <!-- BLOCK 2: THE SPACE CARGO MANIFEST -->
-        <div class="step-block" style="margin-top: 30px;">
-            <div class="step-meta">The Space Cargo Manifest</div>
-            <div class="step-title">Launching Art to Space</div>
-            <p class="step-text">We launch real art into space via two unique pathways: hand-signed prints are loaded as physical cargo aboard commercial rockets crossing the Kármán Line, while high-resolution renderings of our work are beamed directly to an active satellite orbiting Earth. Artifacts from these missions are then hidden globally as part of our open, real-world treasure hunt!</p>
-            <a class="store-link" href="https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ" target="_blank">View the Official Project Overview to Learn More →</a>
-        </div>
-
-
+        <!-- FOOTNOTES AND UTILITIES -->
         <section class="safety-section">
             <div class="safety-title">[ Technical Footnotes & Safety Protocols ]</div>
-            <p class="safety-text"><strong>01 / Ingestion Hazard:</strong> This assembly relies on unsealed lithium coin cell components. If swallowed, lithium core cells react with internal fluids to cause severe, fatal tissue burns in under 2 hours. Keep all loose components locked entirely away from infants, toddlers, and pets.</p>
-            <p class="safety-text"><strong>02 / Mandatory Supervision:</strong> This STEM activity must only be handled under the direct, continuous monitoring of a parent or adult supervisor. Once contact is verified, an adult should immediately encase the battery and terminal components completely in heavy-duty duct tape to prevent anyone from separating or swallowing the parts.</p>
-            <p class="safety-text"><strong>03 / Electrical Status:</strong> The standalone 3V battery component is completely safe to touch with bare hands and does not pose a shock hazard. Under no circumstances should you attempt to plug loose LED components or wire connections into household electrical wall outlets.</p>
-            <p class="safety-text"><strong>04 / Legal Disclaimer & Liability Release:</strong> This technical assembly documentation is provided solely for educational and demonstrative tracking. By choosing to replicate this build configuration, the user assumes all physical implementation responsibilities and environmental testing risks. The website authors and owners accept no liability for injuries, damage, or medical situations arising from the use or misuse of these materials.</p>
+            <p class="safety-text"><strong>01 / Non-Toxic Materials:</strong> This assembly relies entirely on standard paper and consumer-grade, non-toxic glowing ink markers. It is completely safe for hands of all ages.</p>
+            <p class="safety-text"><strong>02 / Creative Supervision:</strong> While completely safe and free of electrical components, adult participation is highly encouraged to help young rocketeers explore the underlying physics of photon momentum and radiation pressure.</p>
+            <p class="safety-text"><strong>03 / Legal Disclaimer & Liability Release:</strong> This technical assembly documentation is provided solely for educational and demonstrative tracking. By choosing to replicate this build configuration, the user assumes all physical implementation responsibilities. The website authors accept no liability for risks arising during external environment testing.</p>
         </section>
 
         <footer class="main-footer">
-            <div class="step-title">Ready for your next cosmic mission?</div>
-            <a class="archive-btn" href="https://github.com/cyber-chic" target="_blank">The Moore Signal Archive Profile</a>
-            <p class="step-text" style="font-size: 0.85rem; margin-top: 15px; color: var(--text-muted);">Explore our central research dashboard on GitHub</p>
+            <div class="subtitle">Ready for your next cosmic mission?</div>
+            <a href="https://github.com" class="archive-btn" target="_blank">The Moore Signal Archive Profile on GitHub →</a>
+        </footer>
+    </div>
             
             <!-- 🎨 CT TECH WEEK EXHIBITION BADGE -->
             <div class="step-block" style="margin-top: 40px; text-align: left; background-color: rgba(74, 222, 128, 0.02); border-color: rgba(74, 222, 128, 0.15);">
@@ -449,27 +243,18 @@ Short Leg (-) &nbsp;👉&nbsp;  Bumpy Textured Side of Battery
 
     </div>
 
-            <!-- Embedded JavaScript Logic -->
-        <script>
-            function printBlankCertificate() {
-                var now = new Date();
-                var year = now.getFullYear().toString().substring(2);
-                var month = String(now.getMonth() + 1).padStart(2, '0');
-                var day = String(now.getDate()).padStart(2, '0');
-                var randomNoise = Math.floor(1000 + Math.random() * 9000);
-                
-                var compiledSerial = "SERIAL: TMSA-" + year + month + day + "-" + randomNoise;
-                document.getElementById("cert-serial").innerText = compiledSerial;
-                
-                var printContents = document.getElementById("print-area").innerHTML;
-                var originalContents = document.body.innerHTML;
-                
-                document.body.innerHTML = printContents;
-                window.print();
-                document.body.innerHTML = originalContents;
-                window.location.reload();
-            }
-        </script>
-
+    <!-- CERTIFICATE PRINT GENERATOR ENGINE -->
+    <script>
+        function printBlankCertificate() {
+            var randSerial = "TMSA-" + Math.floor(100000 + Math.random() * 900000);
+            document.getElementById("cert-serial").innerText = "SERIAL: " + randSerial;
+            var printContents = document.getElementById("print-area").innerHTML;
+            var originalBody = document.body.innerHTML;
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalBody;
+            window.location.reload();
+        }
+    </script>
 </body>
 </html>
