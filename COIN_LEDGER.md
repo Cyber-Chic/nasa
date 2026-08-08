@@ -106,5 +106,13 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 ---
 
+`📡 [ REGULATORY NOTE ]`
+<details>
+<summary>🛠️ Click to View Studio Safety Protocols & Disclaimers</summary>
+<br>
 
+**ART COLLECTOR NOTE & SAFETY COMPLIANCE:** This artifact is a solid piece of independent contemporary art. It is a custom keepsake intended solely for adult collectors and supervised youth explorers. It contains small parts and poses a choking hazard; please keep it completely out of reach of infants, toddlers, and pets.
 
+</details>
+
+---
