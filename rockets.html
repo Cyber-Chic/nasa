@@ -214,6 +214,48 @@
             </div>
         </section>
 
+                    <!-- SECTION 5: DIGITAL FLIGHT COMMANDER CERTIFICATE MODULE -->
+        <h2 class="section-title">Mission Completion Certificate</h2>
+        <div class="step-block" style="text-align:center;">
+            <div class="step-meta">Official Recognition</div>
+            <div class="step-title">Claim Your Flight Crew Certificate</div>
+            <p class="step-text" style="margin-bottom:20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
+            <button onclick="printBlankCertificate()" style="background-color:var(--lab-green);color:#090d16;border:none;font-size:0.9rem;font-weight:700;padding:12px 24px;border-radius:6px;cursor:pointer;text-transform:uppercase;letter-spacing:0.05em;">Print Mission Certificate 🖨️</button>
+        </div>
+
+        <div id="print-area" style="display:none;">
+            <div style="width:100%;max-width:800px;min-height:550px;display:flex;flex-direction:column;border:8px double #131b2e;background-color:#090d16;color:#cbd5e1;font-family:monospace;padding:40px;box-sizing:border-box;text-align:center;position:relative;">
+                <div style="border:2px solid #1e293b;flex:1;display:flex;flex-direction:column;justify-content:space-between;box-sizing:border-box;padding:30px;position:relative;">
+                    <div style="position:absolute;top:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;top:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;bottom:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div style="position:absolute;bottom:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
+                    <div id="cert-serial" style="position:absolute;top:15px;right:40px;color:#64748b;font-size:0.75rem;letter-spacing:1px;">SERIAL: TMSA-XXXXXX</div>
+                    <div>
+                        <div style="color:#4ade80;font-weight:bold;letter-spacing:4px;font-size:0.9rem;margin-bottom:20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
+                        <h1 style="color:#fff;font-size:2.2rem;margin:10px 0;font-family:sans-serif;font-weight:800;letter-spacing:-1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
+                        <p style="color:#64748b;font-size:0.85rem;margin-bottom:25px;">THIS OFFICIALLY CERTIFIES THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
+                        <div style="font-size:1.05rem;color:#cbd5e1;margin-bottom:20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
+                        <div style="width:80%;max-width:450px;border-bottom:2px dashed #4ade80;margin:0 auto 10px auto;height:35px;"></div>
+                        <div style="font-size:0.75rem;color:#64748b;letter-spacing:2px;text-transform:uppercase;margin-bottom:15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
+                        <p style="font-size:0.85rem;line-height:1.5;max-width:580px;margin:15px auto;color:#cbd5e1;">For successfully assembling a solid-state 10-Second Postcard Photon Rocket payload, initiating core ignition, and discharging trillions of light particles directly into the deep vacuum of interstellar space.</p>
+                    </div>
+                    <div style="margin-top:25px;display:flex;justify-content:space-between;align-items:flex-end;padding:0 10px;">
+                        <div style="text-align:left;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION SECTOR:</strong><br>Earth / Space</div>
+                        <div style="display:flex;flex-direction:column;align-items:center;gap:8px;">
+                            <div style="width:55px;height:55px;border:2px solid #4ade80;padding:3px;display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:#020617;box-sizing:border-box;">
+                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
+                                <div></div><div style="background:#4ade80;"></div><div></div>
+                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
+                            </div>
+                            <span style="font-size:0.65rem;color:#4ade80;letter-spacing:1px;">[ APPROVED ]</span>
+                        </div>
+                        <div style="text-align:right;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION CENTER:</strong><br>The Moore Signal Archive</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
 
 
 
@@ -249,29 +291,14 @@
                 <a class="store-link" href="https://geocaching.com" target="_blank">View the Official Project Overview to Learn More →</a>
             </div>
 
-          <!-- SECTION 5: CITIZEN SCIENCE & GALLERY POP-UP -->
-        <section>
-            <h2 class="section-title">🔬 Citizen Science & Space Art</h2>
-            <div class="step-block">
-                <div class="step-meta">Data Observation</div>
-                <div class="step-title">Citizen Science Research</div>
-                <p class="step-text">Our poetry is inspired by real objects tracked during our citizen science research sessions, analyzing raw planetary transits via Exoplanet Watch records and classifying targets on Zooniverse. We highly encourage everyone visiting our portal to jump into these active databases, contribute to global discoveries, and explore deep-space classification for yourself!</p>
-                <a class="store-link" href="https://zooniverse.org" target="_blank">Contribute to Astronomy Projects via Zooniverse →</a>
+            <!-- 🎨 CT TECH WEEK EXHIBITION BADGE -->
+            <div class="step-block" style="margin-top: 40px; text-align: left; background-color: rgba(74, 222, 128, 0.02); border-color: rgba(74, 222, 128, 0.15);">
+                <div class="step-meta" style="color: var(--lab-green);">🏛️ GALLERY POP-UP</div>
+                <div class="step-title" style="font-size: 1.1rem; color: #fff; margin-top: 5px;">Featured Space Project Showcase at CT Tech Week</div>
+                <p class="step-text" style="font-size: 0.9rem; margin-top: 5px; margin-bottom: 12px; color: var(--text-body);">Our broader interdisciplinary space initiatives—highlighting how we merge real astrophysics data directly with contemporary art and literature—was developed by Principal Investigator Angela N. Moore and hosted live as an official session at the Ely Center of Contemporary Art during CT Tech Week.</p>
+                <p class="step-text" style="font-size: 0.9rem; margin-bottom: 12px; color: var(--text-body);">The featured gallery pop-up partially highlighted our global treasure hunt, which includes multiple physical art hides around the world. Early interactive steps for the session utilized global galaxy simulations before we transitioned to our current independent universe map engine.</p>
+                <a class="research-link" href="https://luma.com/q0lm15pz" style="margin-top: 0; font-size: 0.85rem;">View Exhibition Flyer & Event Manifest →</a>
             </div>
-            <div class="step-block" style="margin-top: 30px;">
-                <div class="step-meta">The Space Cargo Manifest</div>
-                <div class="step-title">Launching Art to Space</div>
-                <p class="step-text">We launch real art into space via two unique pathways. Hand-signed physical art prints are loaded as physical cargo aboard commercial rockets crossing the Kármán Line, while a high-resolution rendering of our work is beamed directly to an active satellite orbiting Earth.</p>
-                <a class="store-link" href="https://geocaching.com" target="_blank">View the Official Project Overview to Learn More →</a>
-            </div>
-
-            <h2 class="section-title">🏛️ Gallery Pop-Up</h2>
-            <div class="step-block">
-                <div class="step-meta">Featured Space Project Showcase at CT Tech Week</div>
-                <p class="step-text" style="margin-bottom: 12px;">Our broader interdisciplinary space initiatives—highlighting how we merge real astrophysics data directly with contemporary art and literature—was developed by <strong>Principal Investigator Angela N. Moore</strong> and hosted live as an official session at the <strong>Ely Center of Contemporary Art</strong> during CT Tech Week.</p>
-                <p class="step-text">The featured gallery pop-up highlighted our open, real-world treasure hunt, which includes multiple physical art hides strategically hidden around the globe. Early interactive steps for the live tracking sessions were deployed directly via this core portal dashboard layout.</p>
-            </div>
-        </section>
 
         <!-- CRITICAL LITHIUM SAFETY CORE -->
         <section class="safety-section">
@@ -294,5 +321,18 @@
             </div>
         </footer>
     </div>
+    <!-- CERTIFICATE PRINT GENERATOR ENGINE -->
+    <script>
+        function printBlankCertificate() {
+            var randSerial = "TMSA-" + Math.floor(100000 + Math.random() * 900000);
+            document.getElementById("cert-serial").innerText = "SERIAL: " + randSerial;
+            var printContents = document.getElementById("print-area").innerHTML;
+            var originalBody = document.body.innerHTML;
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalBody;
+            window.location.reload();
+        }
+    </script>
 </body>
 </html>
