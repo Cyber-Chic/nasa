@@ -326,5 +326,18 @@
             </div>
         </footer>
     </div>
+        <!-- CERTIFICATE PRINT GENERATOR ENGINE -->
+    <script>
+        function printBlankCertificate() {
+            var randSerial = "TMSA-" + Math.floor(100000 + Math.random() * 900000);
+            document.getElementById("cert-serial").innerText = "SERIAL: " + randSerial;
+            var printContents = document.getElementById("print-area").innerHTML;
+            var originalBody = document.body.innerHTML;
+            document.body.innerHTML = printContents;
+            window.print();
+            document.body.innerHTML = originalBody;
+            window.location.reload();
+        }
+    </script>
 </body>
 </html>
