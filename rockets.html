@@ -215,48 +215,55 @@
             </div>
 
 
-                    <!-- SECTION 5: DIGITAL FLIGHT COMMANDER CERTIFICATE MODULE -->
-        <h2 class="section-title">Mission Completion Certificate</h2>
-        <div class="step-block" style="text-align:center;">
-            <div class="step-meta">Official Recognition</div>
-            <div class="step-title">Claim Your Flight Crew Certificate</div>
-            <p class="step-text" style="margin-bottom:20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
-            <button onclick="printBlankCertificate()" style="background-color:var(--lab-green);color:#090d16;border:none;font-size:0.9rem;font-weight:700;padding:12px 24px;border-radius:6px;cursor:pointer;text-transform:uppercase;letter-spacing:0.05em;">Print Mission Certificate 🖨️</button>
-        </div>
+        <!-- SECTION 5: DIGITAL FLIGHT COMMANDER CERTIFICATE MODULE -->
+        <section>
+            <h2 class="section-title">Mission Completion Certificate</h2>
+            <div class="step-block" style="text-align: center;">
+                <div class="step-meta">Official Recognition</div>
+                <div class="step-title">Claim Your Flight Crew Certificate</div>
+                <p class="step-text" style="margin-bottom: 20px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
+                
+                <!-- SLEEK, SMALL BUTTON LAYOUT INTRODUCED HERE -->
+                <button onclick="printBlankCertificate()" style="background-color: var(--lab-green); color: #090d16; border: none; font-size: 0.85rem; font-weight: 700; padding: 10px 20px; border-radius: 6px; cursor: pointer; text-transform: uppercase; letter-spacing: 0.05em; display: inline-flex; align-items: center; gap: 8px; transition: opacity 0.2s;">
+                    Print Mission Certificate 🖨️
+                </button>
+            </div>
 
-        <div id="print-area" style="display:none;">
-            <div style="width:100%;max-width:800px;min-height:550px;display:flex;flex-direction:column;border:8px double #131b2e;background-color:#090d16;color:#cbd5e1;font-family:monospace;padding:40px;box-sizing:border-box;text-align:center;position:relative;">
-                <div style="border:2px solid #1e293b;flex:1;display:flex;flex-direction:column;justify-content:space-between;box-sizing:border-box;padding:30px;position:relative;">
-                    <div style="position:absolute;top:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
-                    <div style="position:absolute;top:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
-                    <div style="position:absolute;bottom:10px;left:10px;color:#449e63;font-size:1.2rem;">[+]</div>
-                    <div style="position:absolute;bottom:10px;right:10px;color:#449e63;font-size:1.2rem;">[+]</div>
-                    <div id="cert-serial" style="position:absolute;top:15px;right:40px;color:#64748b;font-size:0.75rem;letter-spacing:1px;">SERIAL: TMSA-XXXXXX</div>
-                    <div>
-                        <div style="color:#4ade80;font-weight:bold;letter-spacing:4px;font-size:0.9rem;margin-bottom:20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
-                        <h1 style="color:#fff;font-size:2.2rem;margin:10px 0;font-family:sans-serif;font-weight:800;letter-spacing:-1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
-                        <p style="color:#64748b;font-size:0.85rem;margin-bottom:25px;">THIS OFFICIALLY CERTIFIES THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
-                        <div style="font-size:1.05rem;color:#cbd5e1;margin-bottom:20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
-                        <div style="width:80%;max-width:450px;border-bottom:2px dashed #4ade80;margin:0 auto 10px auto;height:35px;"></div>
-                        <div style="font-size:0.75rem;color:#64748b;letter-spacing:2px;text-transform:uppercase;margin-bottom:15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
-                        <p style="font-size:0.85rem;line-height:1.5;max-width:580px;margin:15px auto;color:#cbd5e1;">For successfully assembling a solid-state 10-Second Postcard Photon Rocket payload, initiating core ignition, and discharging trillions of light particles directly into the deep vacuum of interstellar space.</p>
-                    </div>
-                    <div style="margin-top:25px;display:flex;justify-content:space-between;align-items:flex-end;padding:0 10px;">
-                        <div style="text-align:left;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION SECTOR:</strong><br>Earth / Space</div>
-                        <div style="display:flex;flex-direction:column;align-items:center;gap:8px;">
-                            <div style="width:55px;height:55px;border:2px solid #4ade80;padding:3px;display:grid;grid-template-columns:repeat(3,1fr);gap:2px;background:#020617;box-sizing:border-box;">
-                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
-                                <div></div><div style="background:#4ade80;"></div><div></div>
-                                <div style="background:#4ade80;"></div><div></div><div style="background:#4ade80;"></div>
-                            </div>
-                            <span style="font-size:0.65rem;color:#4ade80;letter-spacing:1px;">[ APPROVED ]</span>
+            <!-- HIDDEN PRINT AREA CONTAINER -->
+            <div id="print-area" style="display: none;">
+                <div style="width: 100%; max-width: 800px; min-height: 550px; display: flex; flex-direction: column; border: 8px double #131b2e; background-color: #090d16; color: #cbd5e1; font-family: monospace; padding: 40px; box-sizing: border-box; text-align: center; position: relative; margin: 0 auto;">
+                    <div style="border: 2px solid #1e293b; flex: 1; display: flex; flex-direction: column; justify-content: space-between; box-sizing: border-box; padding: 30px; position: relative;">
+                        <div style="position: absolute; top: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                        <div style="position: absolute; top: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                        <div style="position: absolute; bottom: 10px; left: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                        <div style="position: absolute; bottom: 10px; right: 10px; color: #449e63; font-size: 1.2rem;">[+]</div>
+                        <div id="cert-serial" style="position: absolute; top: 15px; right: 40px; color: #64748b; font-size: 0.75rem; letter-spacing: 1px;">SERIAL: TMSA-XXXXXX</div>
+                        <div>
+                            <div style="color: #4ade80; font-weight: bold; letter-spacing: 4px; font-size: 0.9rem; margin-bottom: 20px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
+                            <h1 style="color: #fff; font-size: 2.2rem; margin: 10px 0; font-family: sans-serif; font-weight: 800; letter-spacing: -1px;">CERTIFICATE OF ORBITAL COMMENCEMENT</h1>
+                            <p style="color: #64748b; font-size: 0.85rem; margin-bottom: 25px;">THIS OFFICIALLY CERTIFIES THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
+                            <div style="font-size: 1.05rem; color: #cbd5e1; margin-bottom: 20px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
+                            <div style="width: 80%; max-width: 450px; border-bottom: 2px dashed #4ade80; margin: 0 auto 10px auto; height: 35px;"></div>
+                            <div style="font-size: 0.75rem; color: #64748b; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 15px;">[ INK COMMANDER SIGNATURE ABOVE ]</div>
+                            <p style="font-size: 0.85rem; line-height: 1.5; max-width: 580px; margin: 15px auto; color: #cbd5e1;">For successfully assembling a solid-state 10-Second Postcard Photon Rocket payload, initiating core ignition, and discharging trillions of light particles directly into the deep vacuum of interstellar space.</p>
                         </div>
-                        <div style="text-align:right;border-top:1px solid #1e293b;width:170px;padding-top:8px;font-size:0.8rem;color:#64748b;"><strong>MISSION CENTER:</strong><br>The Moore Signal Archive</div>
+                        <div style="margin-top: 25px; display: flex; justify-content: space-between; align-items: flex-end; padding: 0 10px;">
+                            <div style="text-align: left; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;"><strong>MISSION SECTOR:</strong><br>Earth / Space</div>
+                            <div style="display: flex; flex-direction: column; align-items: center; gap: 8px;">
+                                <div style="width: 55px; height: 55px; border: 2px solid #4ade80; padding: 3px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: #020617; box-sizing: border-box;">
+                                    <div style="background: #4ade80;"></div><div></div><div style="background: #4ade80;"></div>
+                                    <div></div><div style="background: #4ade80;"></div><div></div>
+                                    <div style="background: #4ade80;"></div><div></div><div style="background: #4ade80;"></div>
+                                </div>
+                                <span style="font-size: 0.65rem; color: #4ade80; letter-spacing: 1px;">[ APPROVED ]</span>
+                            </div>
+                            <div style="text-align: right; border-top: 1px solid #1e293b; width: 170px; padding-top: 8px; font-size: 0.8rem; color: #64748b;"><strong>MISSION CENTER:</strong><br>The Moore Signal Archive</div>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
         </section>
+
 
 
 
