@@ -3,331 +3,251 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Cosmic Time Capsule // The Moore Signal Archive</title>
+    <title>Mission Log: Cosmic Time Capsule</title>
     <style>
-        /* 🌌 CORE CORE VISUAL SYSTEM LOGISTICS */
         :root {
-            --bg: #090d16;
-            --card-bg: #131b2e;
-            --border-color: #1e293b;
-            --lab-green: #4ade80;
-            --text-main: #f8fafc;
-            --text-muted: #64748b;
-            --text-body: #cbd5e1;
-            --danger-border: rgba(248, 113, 113, 0.2);
+            --bg-deep: #05070c;
+            --bg-surface: #0c0f17;
+            --accent-glow: #38bdf8;
+            --accent-ready: #4ade80;
+            --accent-caution: #f472b6;
+            --text-primary: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --text-dim: #64748b;
+            --border-subtle: rgba(255, 255, 255, 0.04);
+            --border-active: rgba(56, 189, 248, 0.2);
         }
-        
-        /* 🪐 BASE PAGE ARCHITECTURE RESET */
+
         body {
-            font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-            background-color: var(--bg);
-            color: var(--text-body);
+            background-color: var(--bg-deep);
+            color: var(--text-primary);
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            letter-spacing: -0.2px;
             line-height: 1.6;
             margin: 0;
-            padding: 40px 20px;
-            -webkit-font-smoothing: antialiased;
+            padding: 60px 20px;
         }
-        
+
         .container {
-            max-width: 600px;
+            max-width: 680px;
             margin: 0 auto;
         }
-        
+
         header {
-            text-align: center;
-            margin-bottom: 50px;
+            margin-bottom: 48px;
+            border-bottom: 1px solid var(--border-subtle);
+            padding-bottom: 24px;
         }
-        
+
         h1 {
-            font-size: 2.2rem;
-            font-weight: 800;
-            letter-spacing: -0.03em;
-            margin: 0 0 10px 0;
-            color: var(--text-main);
-        }
-        
-        .subtitle {
-            font-size: 0.95rem;
-            color: var(--lab-green);
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
+            font-size: 1.75rem;
             font-weight: 700;
+            letter-spacing: -0.5px;
+            margin: 0 0 8px 0;
+            color: var(--text-primary);
         }
-        
-        .intro p {
-            font-size: 1.1rem;
-            color: #cbd5e1;
-            margin-bottom: 20px;
-        }
-        
-        .section-title {
-            font-size: 1.1rem;
-            font-weight: 700;
-            text-transform: uppercase;
-            letter-spacing: 0.05em;
-            margin-top: 50px;
-            margin-bottom: 20px;
-            color: var(--text-main);
-        }
-        
-        /* 📦 CONTAINER CARDS & STEP COMPONENTS */
-        .step-block {
-            background-color: var(--card-bg);
-            border: 1px solid var(--border-color);
-            padding: 24px;
-            border-radius: 12px;
-            margin-bottom: 16px;
-        }
-        
-        .step-meta {
+
+        .meta-subtitle {
+            color: var(--text-secondary);
+            font-family: monospace;
             font-size: 0.8rem;
-            font-weight: 700;
-            color: var(--lab-green);
             text-transform: uppercase;
-            letter-spacing: 0.05em;
-            margin-bottom: 4px;
+            letter-spacing: 1px;
         }
-        
-        .step-title {
-            font-size: 1.1rem;
-            font-weight: 700;
-            margin-bottom: 8px;
-            color: #fff;
-        }
-        
-        .step-text {
-            font-size: 1rem;
-            color: #cbd5e1;
-            margin: 0;
-        }
-        
-        /* 🛰️ SYSTEM LINK & UTILITY PACKAGES */
-        .store-link {
-            display: inline-block;
-            background-color: var(--lab-green);
-            color: #090d16;
-            text-decoration: none;
-            font-size: 0.85rem;
-            font-weight: 700;
-            padding: 8px 16px;
-            border-radius: 6px;
-            margin-top: 12px;
-            transition: opacity 0.2s ease;
-        }
-        
-        .store-link:hover {
-            opacity: 0.9;
-        }
-        
-        .research-link {
-            display: inline-block;
-            color: var(--lab-green);
-            text-decoration: none;
-            font-size: 0.9rem;
-            font-weight: 600;
-            margin-top: 10px;
-            border-bottom: 1px dashed var(--lab-green);
-            transition: border-color 0.2s ease;
-        }
-        
-        .research-link:hover {
-            border-bottom-style: solid;
-        }
-        
-        .matrix-box {
-            background-color: #020617;
-            border: 1px dashed var(--border-color);
-            padding: 20px;
+
+        .module {
+            background: var(--bg-surface);
+            border: 1px solid var(--border-subtle);
             border-radius: 8px;
-            font-family: ui-monospace, monospace;
-            font-size: 0.9rem;
-            color: var(--lab-green);
-            text-align: center;
-            margin: 20px 0;
-            line-height: 1.8;
+            padding: 32px;
+            margin-bottom: 24px;
+            position: relative;
         }
-        
-        /* ⏱️ FLIGHT TIMELINE MATRIX CONFIGS */
-        .timeline {
-            border-left: 2px solid var(--border-color);
+
+        .module::before {
+            content: '';
+            position: absolute;
+            top: -1px;
+            left: 20px;
+            right: 20px;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.05), transparent);
+        }
+
+        .module-meta {
+            font-family: monospace;
+            font-size: 0.7rem;
+            color: var(--text-dim);
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            margin-bottom: 16px;
+            display: block;
+        }
+
+        h2 {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-top: 0;
+            margin-bottom: 16px;
+            color: var(--text-primary);
+            letter-spacing: -0.1px;
+        }
+
+        p {
+            margin: 0 0 16px 0;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        p:last-child { margin-bottom: 0; }
+
+        ul, ol {
+            margin: 0;
             padding-left: 20px;
-            margin-left: 10px;
+        }
+
+        li {
+            margin-bottom: 14px;
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+        }
+
+        li:last-child { margin-bottom: 0; }
+
+        strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .alert-indicator { border-left: 2px solid var(--accent-caution); }
+        .science-indicator { border-left: 2px solid var(--accent-glow); }
+        .launch-indicator { border-left: 2px solid var(--accent-ready); }
+
+        .sub-panel {
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border-subtle);
+            border-radius: 6px;
+            padding: 16px 20px;
             margin-top: 20px;
         }
-        
-        .timeline-item {
-            margin-bottom: 15px;
-            position: relative;
-            font-size: 0.95rem;
-            line-height: 1.5;
-        }
-        
-        .timeline-time {
-            font-weight: 700;
-            color: var(--lab-green);
-            margin-right: 6px;
-            font-family: monospace;
-        }
-        
-        /* 🛡️ SAFETY & LEGAL STATIONS */
-        .safety-section {
-            margin-top: 50px;
-            border: 1px dashed var(--danger-border);
-            background-color: rgba(248, 113, 113, 0.01);
-            padding: 30px;
-            border-radius: 12px;
-        }
-        
-        .safety-title {
-            font-size: 0.8rem;
-            color: #ef4444;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            font-weight: 700;
-            margin-bottom: 20px;
-            text-align: center;
-        }
-        
-        .safety-text {
+
+        .action-link {
+            display: inline-block;
+            border: 1px solid var(--accent-ready);
+            color: var(--accent-ready);
+            text-decoration: none;
             font-size: 0.85rem;
-            color: var(--text-muted);
-            margin-bottom: 12px;
-            line-height: 1.5;
+            font-family: monospace;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            padding: 10px 20px;
+            border-radius: 4px;
+            margin-top: 16px;
+            transition: all 0.2s ease;
         }
-        
-        .safety-text:last-child {
-            margin-bottom: 0;
+
+        .action-link:hover {
+            background: rgba(74, 222, 128, 0.04);
+            box-shadow: 0 0 12px rgba(74, 222, 128, 0.1);
         }
-        
-        .safety-text strong {
-            color: #abaeb3;
-        }
-        
-        .main-footer {
+
+        footer {
             text-align: center;
             margin-top: 80px;
-            padding-top: 30px;
-            border-top: 1px dashed var(--border-color);
-            padding-bottom: 40px;
-        }
-        
-        .archive-btn {
-            display: inline-block;
-            margin-top: 10px;
-            font-size: 1.1rem;
-            color: #fff;
-            text-decoration: none;
-            border-bottom: 2px solid var(--lab-green);
-            padding-bottom: 2px;
-            font-weight: 500;
-        }
-        
-        ol {
-            padding-left: 20px;
-            margin: 0;
-        }
-        
-        li {
-            margin-bottom: 16px;
-            color: var(--text-body);
+            padding-top: 32px;
+            border-top: 1px dashed var(--border-subtle);
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- 🚀 CONTAINER HEADER -->
+        
         <header>
-            <h1>The Cosmic Time Capsule</h1>
-            <div class="subtitle">A Micro-Art &amp; Eternal Light Particle Experiment</div>
+            <h1>The Cosmic Invisible Ink Time Capsule</h1>
+            <div class="meta-subtitle">Activity Log // The Moore Signal Archive</div>
         </header>
 
-             <!-- 🌌 INTRODUCTORY BRIEF -->
-        <section class="intro">
-            <p>Imagine trapping a flash of light inside your own artwork, and then releasing it to travel through the freezing void of deep space forever. That is exactly what you are creating today.</p>
-            <p>By painting a custom message with special luminescent ink, your card acts as a physical time capsule. You will use a flashlight to charge your design—and when you point that flashlight beam up at a clear night sky, you are actively blasting trillions of light particles, called <strong>photons</strong>, directly into deep space. Best of all, you can mail your physical art capsule to fly to space aboard a real spacecraft!</p>
+        <div class="module">
+            <span class="module-meta">Operational Protocol</span>
+            <h2>📋 Note for Mission Directors (Educators &amp; Parents)</h2>
+            <ul>
+                <li><strong>Daytime Ready:</strong> This activity can be done completely during the daytime indoors or outdoors. Guide the children through each step and monitor UV light use.</li>
+                <li><strong>Zero-Mailing Option:</strong> This activity stands perfectly on its own as a physics and art lesson. If you do choose to upgrade to a real rocket flight, see the optional Extension Mission at the bottom of this page!</li>
+            </ul>
+        </div>
+
+        <div class="module alert-indicator">
+            <span class="module-meta" style="color: var(--accent-caution);">Safety Briefing</span>
+            <h2>⚠️ Range Safety Briefing (Read First!)</h2>
+            <ul>
+                <li><strong>Adult Supervision Required:</strong> You must wait for your leader’s signal before moving to the launch area. Never wander off alone.</li>
+                <li><strong>Optical Safety:</strong> This project uses a low-voltage micro UV light. Never look directly into the light lens or shine it into the eyes of humans or animals.</li>
+            </ul>
+        </div>
+
+        <div class="module">
+            <span class="module-meta">Mission Abstract</span>
+            <h2>🚀 Introduction</h2>
+            <p>Imagine creating a secret piece of word art, launching its light waves into the universe, and freezing your design inside a physical time capsule. That is exactly what you are doing today!</p>
+            <p>By writing a hidden message or drawing with a special ultraviolet (UV) invisible ink pen, your card acts as a physical time capsule. Because the ink dries completely invisible, your artwork is safely locked away and frozen in time. It will remain hidden from the naked eye until a future explorer uses a UV light beam to unlock it!</p>
+        </div>
+
+        <div class="module science-indicator">
+            <span class="module-meta" style="color: var(--accent-glow);">Empirical Physics</span>
+            <h2>🔬 The Cosmic Science</h2>
+            <ul>
+                <li><strong>Energy Transformation:</strong> Your special pen ink contains invisible compounds called "phosphors." When you turn on your flashlight, the phosphors absorb the invisible UV energy and instantly transform it into bright, visible neon light.</li>
+                <li><strong>The Cosmic Highway:</strong> Light travels at 186,000 miles per second. When you shine your light at your card, massive streams of light particles (called photons) bounce off your design and radiate outward at blistering speeds.</li>
+                <li><strong>Breaking Through to Space:</strong> If you choose to launch your photons outside under an open sky, millions of your light particles will successfully break through Earth's atmosphere, escape the planet completely, and cross past the Moon in exactly 1.3 seconds to travel the cosmos forever!</li>
+            </ul>
+        </div>
+        <div class="module">
+            <span class="module-meta">Inventory Checklist</span>
+            <h2>🛠️ Step 1: Gather Your Materials</h2>
+            <p>Lay out your specialized mission gear on your workspace:</p>
+            <ul>
+                <li><strong>The Canvas:</strong> One standard 4x6 inch blank white postcard or heavy index card.</li>
+                <li><strong>The Transponder:</strong> An invisible ink pen with a built-in UV keychain light.</li>
+            </ul>
+        </div>
+
+        <div class="module launch-indicator">
+            <span class="module-meta" style="color: var(--accent-ready);">Live Operations</span>
+            <h2>⚡ Step 2: The Real-Time Light Launch</h2>
+            <p style="font-style: italic; color: var(--text-dim); margin-bottom: 20px; font-family: monospace; font-size: 0.85rem;">STATUS // EXPLORERS: Maintain baseline positions. Await director clearance.</p>
+            <ol>
+                <li><strong>Lock the Time Capsule:</strong> Use your invisible ink pen to write a secret message to your future self, a poem, or draw a starship on one side of your card. Under standard room lights, the ink dries completely clear, keeping your cosmic signal hidden.</li>
+                <li><strong>Prepare for Launch:</strong> Wait for your leader to guide you to the designated launch area. This can be done right at your desk, in a dimly lit room, or outside!</li>
+                <li><strong>Trigger the Light Beam:</strong> Hold your card completely flat, face-up. Press and hold the button on your mini UV light, aiming it straight down at your hidden artwork.</li>
+                <li><strong>Watch the Proof:</strong> Your visual art will instantly burst into a glowing, neon masterpiece. You are witnessing energy conversion in real-time.</li>
+                <li><strong>Track Your Photons:</strong>
+                    <div class="sub-panel" style="font-size: 0.9rem;">
+                        <p style="margin-bottom: 8px;"><strong>Indoor Boundary:</strong> Photons disperse safely into the immediate architecture, scattering across the ceiling profile.</p>
+                        <p style="margin-bottom: 0;"><strong>Outdoor Corridor:</strong> With overhead structural barriers removed, millions of unblocked photons exit the atmosphere, establishing an eternal path into deep space.</p>
+                    </div>
+                </li>
+            </ol>
             
-            <!-- 🔬 THE BULLETPROOF LIGHT SCIENCE CARD -->
-            <div class="step-block" style="background: linear-gradient(135deg, rgba(74, 222, 128, 0.02) 0%, rgba(19, 27, 46, 0.4) 100%); margin-top: 30px;">
-                <div class="step-meta">Data Log // Quantum Optics</div>
-                <p class="step-text" style="font-size: 0.95rem; margin-bottom: 16px;">Because Earth's atmosphere is transparent to visible light, a standard flashlight beam pointed at a clear night sky acts as an interstellar beacon. Millions of your flashlight's photons escape our atmosphere completely, stream past the Moon in 1.3 seconds, and travel through the frictionless vacuum of space for billions of years.</p>
-                
-                <!-- SCIENTIFIC VERIFICATION LINKS -->
-                <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 14px; padding-top: 14px; border-top: 1px solid rgba(255,255,255,0.05);">
-                    <div>
-                        <span style="font-size: 1rem;">🔭</span>
-                        <a class="research-link" href="https://youtube.com" target="_blank">Watch Proof: Can a Flashlight Beam Reach Space? via Action Lab ↗</a>
-                    </div>
-                    <div>
-                        <span style="font-size: 1rem;">🌌</span>
-                        <a class="research-link" href="https://youtube.com" target="_blank">Watch Lesson: How Far Can Light Travel in Space? via Astrum ↗</a>
-                    </div>
-                </div>
+            <div class="sub-panel" style="border-left: 2px solid var(--accent-ready); margin-top: 24px; font-size: 0.9rem; background: rgba(74, 222, 128, 0.01);">
+                <strong style="color: var(--accent-ready); font-family: monospace; text-transform: uppercase; font-size: 0.8rem; display: block; margin-bottom: 4px;">⏱️ Pre-Flight Kindness Mission</strong>
+                While your capsule is locked away, pay your creative energy forward by doing one quiet favor or sending a text message of true appreciation to a friend or family member on Earth today.
             </div>
-        </section>
-        <!-- ⚡ INSTRUCTION STEP MATRIX -->
-        <section>
-            <h2 class="section-title">⚡ Creation Protocol</h2>
-            <div class="step-block" style="padding: 28px;">
-                <ol>
-                    <li><strong>Design Your Canvas:</strong> Use your glow pen to sign your initials, write a poem, or draw a space ship on one side of a <strong>standard 4x6 inch postcard</strong> or cardstock. Keep the back clean for mailing data.</li>
-                    <li><strong>Optical Core Charge:</strong> Hold your finished card directly beneath a bright desk lamp or phone flashlight for 60 seconds. This packs the ink molecules full of raw energy.</li>
-                    <li><strong>Launch the Photon Stream:</strong> Step outside under a clear night sky. Point your flashlight beam straight up into the stars. Trillions of light particles are escaping into the cosmos instantly.</li>
-                </ol>
-                <div style="background: rgba(255, 255, 255, 0.02); border-left: 3px solid var(--lab-green); padding: 14px; border-radius: 0 8px 8px 0; margin-top: 20px; font-size: 0.9rem;">
-                    <span style="color: var(--lab-green); font-weight: 700;">⏱️ Pre-Flight Kindness Mission:</span> While your ink charges, pay your energy forward by doing a quiet favor or sending a text message of true appreciation to a friend or family member on Earth.
-                </div>
+        </div>
+
+        <div class="module">
+            <span class="module-meta">Orbital Pipeline</span>
+            <h2>🚀 Bonus Extension: Send Your Art to Space!</h2>
+            <p>Want to turn your physical time capsule into a genuine, certified space traveler? Real aerospace pipelines allow students and families to send physical art past the atmosphere!</p>
+            <p>If you are interested in having your physical postcard packed into a real cargo bay, launched into zero gravity on a real rocket, and mailed back to you officially stamped "Flown to Space," ask a parent or teacher to visit the official Club for the Future Postcards Program to learn how to submit your artwork!</p>
+            <div style="text-align: center;">
+                <a href="https://www.clubforfuture.org/postcards" class="action-link" target="_blank">Initialize Flight Request ↗</a>
             </div>
-        </section>
+        </div>
 
-        <!-- 🌌 LAUNCH PAD SYSTEM MODULE -->
-        <section>
-            <h2 class="section-title">🚀 Launch Pad Mission</h2>
-            <div class="step-block">
-                <p class="step-text" style="margin-bottom: 20px;">You can turn this physical demonstration into a genuine spaceflight mission! Put your finished card into an envelope and mail it directly to Blue Origin's payload facility. They will load your postcard canvas into a real space capsule, fly it past the edge of Earth's atmosphere into zero-gravity, and mail it back to you officially stamped "Flown to Space"!</p>
-                
-                <div style="background: #020617; border: 1px solid var(--border-color); padding: 20px; border-radius: 8px; font-family: monospace; line-height: 1.6; color: #fff; margin: 20px 0; letter-spacing: 0.5px; font-size: 0.9rem;">
-                    Club for the Future<br>
-                    Postcards - Blue Origin's Club for the Future<br>
-                    35961 State Highway 54<br>
-                    PO Box 1552<br>
-                    Van Horn, Texas 79855-1552<br>USA
-                </div>
-                <!-- DIRECT LINK TO OFFICIAL BLUE ORIGIN PROGRAM -->
-                <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-                    <a href="https://clubforthefuture.org" target="_blank" style="display: inline-block; background-color: var(--lab-green); color: #090d16; text-decoration: none; font-size: 0.9rem; font-weight: 700; padding: 12px 24px; border-radius: 6px; box-shadow: 0 4px 12px rgba(74, 222, 128, 0.2); transition: transform 0.2s ease;">
-                        Visit Blue Origin's Club for the Future ↗
-                    </a>
-                </div>
-
-
-                <div style="background: rgba(255, 255, 255, 0.02); border-left: 3px solid rgba(255,255,255,0.2); padding: 16px; border-radius: 0 8px 8px 0; margin-top: 16px;">
-                    <p style="margin: 0 0 6px 0; font-weight: 700; color: #fff; font-size: 0.9rem;">🛰️ Data Note: "Did my art interact with space?"</p>
-                    <p style="margin: 0; font-size: 0.88rem; color: var(--text-body); line-height: 1.5;">While your physical card travels safely nestled inside the main cargo bay of a Blue Origin capsule, your card turns into an official space artifact. The flash of light you launched into the night sky has already left the solar system, while your physical text serves as an unchanging record on Earth.</p>
-                </div>
-
-                <div class="step-title" style="font-size: 1rem; margin-top: 25px; margin-bottom: 12px; color: var(--lab-green); font-weight: 600;">⏱️ The Flashlight Beam Flight Profile:</div>
-                <div class="timeline">
-                    <div class="timeline-item"><span class="timeline-time">0.0001 Seconds:</span> Trillions of photons exit your flashlight lens at 186,000 miles per second, piercing the cloud layers.</div>
-                    <div class="timeline-item"><span class="timeline-time">1.3000 Seconds:</span> The stream of light particles crosses the orbital threshold of the Moon, beaming into deep space.</div>
-                    <div class="timeline-item"><span class="timeline-time">A Few Years:</span> Your original light waves escape our solar system entirely, sailing past distant star systems forever.</div>
-                </div>
-
-                <!-- STRIPPED & MINIMALIST: NO-EMOJI NO-WRAP PROPERTY BADGE -->
-                <div style="display: flex; align-items: flex-start; gap: 8px; margin-top: 40px; padding-top: 16px; border-top: 1px dashed rgba(255,255,255,0.05);">
-                    <span style="font-size: 0.75rem; color: var(--text-muted); font-family: monospace; line-height: 1.6; letter-spacing: 0.2px;">
-                        <span style="display: inline-block; white-space: nowrap; margin-right: 6px;"><span style="background: rgba(74, 222, 128, 0.08); color: var(--lab-green); padding: 2px 6px; border-radius: 4px; font-weight: 600; border: 1px solid rgba(74, 222, 128, 0.15);">CC BY 4.0</span></span> 
-                        <span style="display: inline-block; white-space: nowrap;">PROPERTY OF: THE MOORE SIGNAL ARCHIVE LLC •</span> 
-                        <span style="display: inline-block; white-space: nowrap;">CONCEIVED BY ANGELA N. MOORE •</span>
-                        <span style="display: inline-block; white-space: nowrap;">GEMINI AI COLLABORATORS</span>
-                    </span>
-                </div>
-            </div>
-        </section>
-
-        <!-- 🚀 MAIN STUDIO FOOTER -->
-        <footer class="main-footer">
-            <div style="color: var(--text-muted); font-size: 1.1rem; margin-bottom: 10px;">Ready for your next cosmic mission?</div>
-            <a href="https://github.com" class="archive-btn" target="_blank">The Moore Signal Archive Profile on GitHub →</a>
+        <footer>
+            <div style="color: var(--text-dim); font-family: monospace; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px;">Next Phase Routing</div>
+            <a href="https://github.com/cyber-chic" style="color: var(--accent-ready); text-decoration: none; font-weight: 500; font-size: 0.95rem; font-family: monospace;" target="_blank">moore-signal-archive // repository ↗</a>
             
             <!-- SYSTEM NOTATION LOG -->
             <div style="margin-top: 40px; font-family: monospace; font-size: 0.75rem; color: var(--text-muted); opacity: 0.6; letter-spacing: 0.5px; line-height: 1.6;">
@@ -338,6 +258,3 @@
     </div> <!-- Closes main page wrapper -->
 </body>
 </html>
-
-
-
