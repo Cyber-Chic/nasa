@@ -5,29 +5,29 @@
 ---
 
 ### 🌐 PORTAL HUBS
-* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://github.io)
-* 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://github.io)
+* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://cyber-chic.github.io/cosmos/rockets)
+* 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
 
 ---
 
 ### 🚀 MISSION ALPHA: The 1-Minute Space-Only Lightsail Prototype
 A beginner-friendly aerospace modeling module replacing chemical engines with a mirror sail pushed by household flashlight photons.
 
-➔ **[Launch Full Visual Experience](https://github.io)**
+➔ **[Launch Full Visual Experience](https://cyber-chic.github.io/cosmos/spacecraft)**
 
 ---
 
 ### 🚀 MISSION BETA: The 10-Second Space-Only Photon Rocket
 An electromagnetic propulsion model using a low-voltage coin battery and LED bulb to discharge active light particles into the void.
 
-➔ **[Launch Full Visual Experience](https://github.io)**
+➔ **[Launch Full Visual Experience](https://cyber-chic.github.io/cosmos/rockets)**
 
 ---
 
 ### 🚀 MISSION GAMMA: The Cosmic Invisible Ink Time Capsule
 An atmospheric propagation and energy transformation lab utilizing ultraviolet ink and phosphors to freeze hidden visual data.
 
-➔ **[Launch Full Visual Experience](https://github.io)**
+➔ **[Launch Full Visual Experience](https://cyber-chic.github.io/cosmos/cosmic-capsule)**
 
 ---
 
