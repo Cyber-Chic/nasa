@@ -19,10 +19,13 @@ This portfolio provides three distinct, beginner-friendly, hyper-visual aerospac
 ### 🚀 MISSION ALPHA: The 1-Minute Space-Only Lightsail Prototype
 *A Revolutionary Deep-Space Propulsion Demonstration*
 
-#### 🌐 LIVE WEB LINK
 ➔ [View Full Visual Experience on the Web](https://github.io)
 
-#### 📖 Mission Abstract
+<details>
+<summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
+<br />
+
+#### Abstract
 Imagine holding an interstellar vehicle design that doesn't use heavy fuel tanks, combustion, or chemical engines. Instead, future starships will rely entirely on a giant beam of light fired from a home planet to sail across the universe! While this physical module is too heavy to move against Earth's gravity, dropping this exact design into deep space allows light waves hitting its mirror sail to continuously accelerate it forward forever. Today, you are building a Space-Only Lightsail Prototype to model this technology and trigger a Real-Time Photon Launch!
 
 #### 🔬 The Empirical Physics
@@ -42,15 +45,20 @@ Imagine holding an interstellar vehicle design that doesn't use heavy fuel tanks
 * **T + 1.3 Seconds (Lunar Intercept):** Traveling at 186,000 miles per second, the very front edge of your bouncing light stream flies past the Moon and zooms out into deep space.
 * **T + A Few Years (Interstellar Cruise):** Your original light particles safely glide past the nearest stars, coasting through the universe forever at the speed limit of nature.
 
+</details>
+
 ---
 
 ### 🚀 MISSION BETA: The 10-Second Space-Only Photon Rocket
 *An Active Electromagnetic Emission Demonstration*
 
-#### 🌐 LIVE WEB LINK
 ➔ [View Full Visual Experience on the Web](https://github.io)
 
-#### 📖 Mission Abstract
+<details>
+<summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
+<br />
+
+#### Abstract
 Imagine holding a space engine that doesn't use fire, smoke, or heavy rocket fuel. Instead, it blasts trillions of light particles—called photons—directly out of its nozzle! On Earth, this little rocket is too heavy to move against gravity. But if you dropped this exact module into the frozen void of deep space, the microscopic push of its light beam would slowly propel it forward forever. Today, you are building a Space-Only Rocket Prototype to model how future starships will travel to distant worlds at fractional speeds of light!
 
 #### 🔬 The Empirical Physics
@@ -70,15 +78,20 @@ Imagine holding a space engine that doesn't use fire, smoke, or heavy rocket fue
 * **T + 1.3 Seconds (Lunar Intercept):** Traveling at 186,000 miles per second, the leading edge of your surviving light stream shatters the 240,000-mile cosmic gap, clearing the lunar horizon into deep space.
 * **T + A Few Years (Interstellar Cruise):** Your original photon packet glides cleanly past Alpha Centauri and the nearest star systems, coasting at the speed limit of the universe into infinity.
 
+</details>
+
 ---
 
 ### 🚀 MISSION GAMMA: The Cosmic Invisible Ink Time Capsule
 *An Atmospheric Propagation & Energy Transformation Demonstration*
 
-#### 🌐 LIVE WEB LINK
 ➔ [View Full Visual Experience on the Web](https://github.io)
 
-#### 📖 Mission Abstract
+<details>
+<summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
+<br />
+
+#### Abstract
 Imagine creating a secret piece of word art, launching its light waves into the universe, and freezing your design inside a physical time capsule. That is exactly what you are doing today! By writing a hidden message or drawing with a special ultraviolet (UV) invisible ink pen, your card acts as a physical time capsule. Because the ink dries completely invisible, your artwork is safely locked away and frozen in time. It will remain hidden from the naked eye until a future explorer uses a UV light beam to unlock it! This activity can be done completely during the daytime indoors or outdoors.
 
 #### 🔬 The Empirical Physics
@@ -96,6 +109,8 @@ Imagine creating a secret piece of word art, launching its light waves into the 
 3. **Trigger the Light Beam:** Hold your card completely flat, face-up. Press and hold the button on your mini UV light, aiming it straight down at your hidden artwork to watch your visual art instantly burst into a glowing, neon masterpiece.
 * **Indoor Boundary Profile:** Photons disperse safely into the immediate architecture, scattering across the ceiling profile.
 * **Outdoor Corridor Profile:** With overhead structural barriers removed, millions of unblocked photons exit the atmosphere, establishing an eternal path into deep space.
+
+</details>
 
 ---
 
@@ -129,4 +144,12 @@ Our broader interdisciplinary space initiatives—highlighting how we merge real
 ---
 
 ### 📡 SYSTEM STATUS & REPOSITORY ROUTING
+* **The Moore Signal Archive Profile on GitHub:** [https://github.com](https://github.com)
+* **Administrative & Legal Bureau:** 2389 Main St, Ste 100, Glastonbury, CT 06033
+* **Official Registry:** GLASTONBURY, CONNECTICUT // ADMINISTRATIVE PROVENANCE & LIABILITY SECURED
 
+```text
+LOG: SYSTEM OPTIMIZED // DEVELOPED IN COLLABORATION WITH GEMINI AI COLLABORATORS
+GLASTONBURY, CONNECTICUT // THE MOORE SIGNAL ARCHIVE
+© 2026 THE MOORE SIGNAL ARCHIVE LLC // CC BY 4.0 OPEN EDUCATION RESOURCE
+```
