@@ -125,7 +125,7 @@ Once operations conclude, practice standard engineering safety and good cleanup 
 ### 🔬 CITIZEN SCIENCE & REAL SPACE ART
 * **Data Observation:** Our projects are inspired by real cosmic objects tracked during our citizen science research sessions. Jump directly into active space databases like **NASA's Exoplanet Watch** to analyze raw planetary transits, or use **Zooniverse** to help real astronomers group and classify unknown stellar objects.
 * **The Space Cargo Manifest:** We share contemporary literature and visual artwork with the cosmos using two distinct engineering pathways. Hand-signed physical postcards are launched into zero gravity via the *Club for the Future Postcards Program*. Concurrently, high-resolution digital rendering packets are beamed directly to active satellites orbiting Earth.
-* **🪙 The Poetry Registry Connection:** Every single photon lab in this suite models the exact physics behind our real-world, global art drops! If you have found one of our physical artifact coins hidden around the world, you can track its specific orbital trajectory, view its planetary target, and unlock its unique handwritten cosmic verse by visiting **[The Moore Signal Archive:  Master Coin Book Portfolio](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)**.
+* **🪙 The Poetry Registry Connection:** Every single photon lab in this suite models the exact physics behind our real-world, global art drops! If you have found one of our physical artifact coins hidden around the world, you can track its specific orbital trajectory and unlock its unique handwritten cosmic verse by visiting **[The Moore Signal Archive: Space Registry](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)**.
 
 ---
 
