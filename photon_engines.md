@@ -7,7 +7,7 @@
 ### 🌐 MISSION CONTROL LAUNCH PAD
 If you are viewing this file inside the repository, you can access our complete interactive visual web experiences directly via the main portals below:
 * 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://github.io)
-* 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://github.io)
+* 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
 
 ---
 
@@ -19,7 +19,7 @@ This portfolio provides three distinct, beginner-friendly, hyper-visual aerospac
 ### 🚀 MISSION ALPHA: The 1-Minute Space-Only Lightsail Prototype
 *A Revolutionary Deep-Space Propulsion Demonstration*
 
-➔ [View Full Visual Experience on the Web](https://github.io)
+➔ [View Full Visual Experience on the Web](https://cyber-chic.github.io/cosmos/spacecraft)
 
 <details>
 <summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
@@ -52,7 +52,7 @@ Imagine holding an interstellar vehicle design that doesn't use heavy fuel tanks
 ### 🚀 MISSION BETA: The 10-Second Space-Only Photon Rocket
 *An Active Electromagnetic Emission Demonstration*
 
-➔ [View Full Visual Experience on the Web](https://github.io)
+➔ [View Full Visual Experience on the Web](https://cyber-chic.github.io/cosmos/rockets)
 
 <details>
 <summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
@@ -85,7 +85,7 @@ Imagine holding a space engine that doesn't use fire, smoke, or heavy rocket fue
 ### 🚀 MISSION GAMMA: The Cosmic Invisible Ink Time Capsule
 *An Atmospheric Propagation & Energy Transformation Demonstration*
 
-➔ [View Full Visual Experience on the Web](https://github.io)
+➔ [View Full Visual Experience on the Web](https://cyber-chic.github.io/cosmos/cosmic-capsule)
 
 <details>
 <summary><b>📖 Click to Expand Mission Abstract & Full Lesson Plan</b></summary>
@@ -125,8 +125,10 @@ Once operations conclude, practice standard engineering safety and good cleanup 
 ### 🔬 CITIZEN SCIENCE & REAL SPACE ART
 * **Data Observation:** Our projects are inspired by real cosmic objects tracked during our citizen science research sessions. Jump directly into active space databases like **NASA's Exoplanet Watch** to analyze raw planetary transits, or use **Zooniverse** to help real astronomers group and classify unknown stellar objects.
 * **The Space Cargo Manifest:** We share contemporary literature and visual artwork with the cosmos using two distinct engineering pathways. Hand-signed physical postcards are launched into zero gravity via the *Club for the Future Postcards Program*. Concurrently, high-resolution digital rendering packets are beamed directly to active satellites orbiting Earth.
+* **🪙 The Poetry Registry Connection:** Every single photon lab in this suite models the exact physics behind our real-world, global art drops! If you have found one of our physical artifact coins hidden around the world, you can track its specific orbital trajectory, view its planetary target, and unlock its unique handwritten cosmic verse by visiting **[The Moore Signal Archive:  Master Coin Book Portfolio](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)**.
 
 ---
+
 
 ### ⚠️ TECHNICAL FOOTNOTES & SAFETY PROTOCOLS
 
@@ -139,7 +141,7 @@ Mission Alpha and Gamma utilize concentrated light sources. Never look directly 
 ---
 
 ### 🏛️ GALLERY POP-UP & EXHIBITION NOTATION
-Our broader interdisciplinary space initiatives—highlighting how we merge real astrophysics data directly with contemporary art and literature—were developed by Principal Investigator Angela N. Moore and hosted live as an official session at the **Ely Center of Contemporary Art during CT Tech Week**. The featured gallery pop-up highlighted our global treasure hunt, which includes multiple physical art hides around the world. Early interactive steps for the session utilized global galaxy simulations before transitioning to our current independent universe map engine.
+Our broader interdisciplinary space initiatives—highlighting how we merge real astrophysics data directly with contemporary art and literature—were developed by Principal Investigator Angela N. Moore and hosted live as an official session at the **[Ely Center of Contemporary Art during CT Tech Week](https://luma.com/q0lm15pz)**. The featured gallery pop-up highlighted our global treasure hunt, which includes multiple physical art hides around the world. Early interactive steps for the session utilized global galaxy simulations before transitioning to our current independent universe map engine.
 
 ---
 
