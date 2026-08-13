@@ -143,6 +143,8 @@ Mission Alpha and Gamma utilize concentrated light sources. Never look directly 
 ### 🏛️ GALLERY POP-UP & EXHIBITION NOTATION
 Our broader interdisciplinary space initiatives—highlighting how we merge real astrophysics data directly with contemporary art and literature—were developed by Principal Investigator Angela N. Moore and hosted live as an official session at the **[Ely Center of Contemporary Art during CT Tech Week](https://luma.com/q0lm15pz)**. The featured gallery pop-up highlighted our global treasure hunt, which includes multiple physical art hides around the world. Early interactive steps for the session utilized global galaxy simulations before transitioning to our current independent universe map engine.
 
+➔ 🛰️ **[Read the Evaluation on LinkedIn](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk)**
+
 ---
 
 ### 📡 SYSTEM STATUS & REPOSITORY ROUTING
