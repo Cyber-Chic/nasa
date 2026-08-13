@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The 10-Second Photon Rocket - Easy STEM Project</title>
+<style>
+    :root {
+        --bg: #090d16;--card-bg: #131b2e;--border-color: #1e293b;
+        --lab-green: #4ade80;--text-main: #f8fafc;--text-muted: #64748b;--text-body: #cbd5e1;
+        --danger-border: rgba(248, 113, 113, 0.2);
+    }
+    body {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        background-color: var(--bg);color: var(--text-body);line-height: 1.6;margin: 0;padding: 40px 20px;-webkit-font-smoothing: antialiased;
+    }
+    .container {max-width: 600px;margin: 0 auto;}
+    header {text-align: center;margin-bottom: 50px;}
+    h1 {font-size: 2.2rem;font-weight: 800;letter-spacing: -0.03em;margin: 0 0 10px 0;color: var(--text-main);}
+    .subtitle {font-size: 0.95rem;color: var(--lab-green);text-transform: uppercase;letter-spacing: 0.05em;font-weight: 700;}
+    .intro p {font-size: 1.1rem;color: #cbd5e1;margin-bottom: 20px;}
+    .section-title {font-size: 1.1rem;font-weight: 700;text-transform: uppercase;letter-spacing: 0.05em;margin-top: 50px;margin-bottom: 20px;color: var(--text-main);}
+    .step-block {background-color: var(--card-bg);border: 1px solid var(--border-color);padding: 24px;border-radius: 12px;margin-bottom: 16px;}
+    .step-meta {font-size: 0.8rem;font-weight: 700;color: var(--lab-green);text-transform: uppercase;letter-spacing: 0.05em;margin-bottom: 4px;}
+    .step-title {font-size: 1.1rem;font-weight: 700;margin-bottom: 8px;color: #fff;}
+    .step-text {font-size: 1rem;color: #cbd5e1;margin: 0;}
+    .store-link {display: inline-block;background-color: var(--lab-green);color: #090d16;text-decoration: none;font-size: 0.85rem;font-weight: 700;padding: 8px 16px;border-radius: 6px;margin-top: 12px;transition: opacity 0.2s ease;}
+    .store-link:hover {opacity: 0.9;}
+    .research-link {display: inline-block;color: var(--lab-green);text-decoration: none;font-size: 0.9rem;font-weight: 600;margin-top: 10px;border-bottom: 1px dashed var(--lab-green);transition: border-color 0.2s ease;}
+    .research-link:hover {border-bottom-style: solid;}
+    .matrix-box {background-color: #020617;border: 1px dashed var(--border-color);padding: 20px;border-radius: 8px;font-family: ui-monospace, monospace;font-size: 0.9rem;color: var(--lab-green);text-align: center;margin: 20px 0;line-height: 1.8;}
+    .timeline {border-left: 2px solid var(--border-color);padding-left: 20px;margin-left: 10px;margin-top: 20px;}
+    .timeline-item {margin-bottom: 15px;position: relative;}
+    .timeline-time {font-weight: 700;color: var(--lab-green);margin-right: 6px;}
+    .safety-section {margin-top: 80px;border: 1px dashed var(--danger-border);background-color: rgba(248, 113, 113, 0.01);padding: 30px;border-radius: 12px;}
+    .safety-title {font-size: 0.8rem;color: #ef4444;text-transform: uppercase;letter-spacing: 0.1em;font-weight: 700;margin-bottom: 20px;text-align: center;}
+    .safety-text {font-size: 0.8rem;color: var(--text-muted);margin-bottom: 12px;line-height: 1.5;}
+    .safety-text:last-child {margin-bottom: 0;}
+    .safety-text strong {color: #abaeb3;}
+    .main-footer {text-align: center;margin-top: 80px;padding-top: 30px;border-top: 1px dashed var(--border-color);}
+    .archive-btn {display: inline-block;margin-top: 10px;font-size: 1.1rem;color: #fff;text-decoration: none;border-bottom: 2px solid var(--lab-green);padding-bottom: 2px;}
+</style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚀 The 1-Minute Spacecraft & Lightsail</h1>
+            <div class="subtitle">A Revolutionary Deep-Space STEM Demonstration</div>
+        </header>
+
+         <section class="intro">
+            <p>Imagine holding a interstellar vehicle that doesn't use heavy fuel tanks, combustion, or chemical engines. Instead, it relies on a giant beam of light fired from a home planet to blast it across the universe!</p>
+            <p>On Earth, this little model is too heavy to move against gravity and air friction. But if you dropped this exact module into the frozen void of deep space, the microscopic push of a light beam hitting its specialized sail would slowly accelerate it forward forever. Today, you are building a Space-Only Lightsail Prototype to model how future starships will travel to distant worlds using nothing but light waves!</p>
+            
+            <!-- THE CRITIC-PROOF DEEP-SPACE SCIENCE BLOCK -->
+            <details style="background: linear-gradient(135deg, rgba(74, 222, 128, 0.03) 0%, rgba(19, 27, 46, 0.4) 100%); border: 1px solid var(--border-color); padding: 20px; border-radius: 14px; margin-top: 30px; cursor: pointer; box-shadow: 0 4px 20px rgba(0,0,0,0.2);">
+                <summary style="font-size: 0.95rem; font-weight: 700; color: var(--lab-green); list-style: none; display: flex; align-items: center; gap: 8px; outline: none; user-select: none;">
+                    🌌 Deep-Space Science: How It Works! (Click to see Spacecraft Principles)
+                </summary>
+                <div style="margin-top: 18px; font-size: 0.95rem; color: var(--text-body); cursor: default; line-height: 1.6; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 18px;">
+                    <p style="margin: 0 0 16px 0; color: var(--text-muted); font-style: italic; border-left: 3px solid var(--lab-green); padding-left: 14px; font-size: 0.9rem; line-height: 1.5;">
+                        "A spacecraft is a machine designed to be put into space. They can be used for observing the Earth, communication, navigation and space exploration." — European Space Agency
+                    </p>
+                    <p style="margin-bottom: 14px; color: #fff; font-weight: 500;">According to aerospace science, lightsail propulsion relies strictly on directional momentum transfer. Here is how our battery-free system beautifully fulfills those laws:</p>
+                    <ul style="padding-left: 20px; margin: 0; list-style-type: square;">
+                        <li style="margin-bottom: 10px;"><strong>Action & Reaction:</strong> Light particles (photons) carry authentic physical momentum. When an external light beam strikes your lightsail, that momentum is transferred directly to the vehicle. This interaction creates a real kinetic reaction force that pushes your spacecraft forward (Newton's Third Law).</li>
+                        <li style="margin-bottom: 10px;"><strong>Zero-Mass Propulsion:</strong> Because a lightsail starship does not need to carry heavy chemical engines or heavy batteries, it stays incredibly lightweight. This allows the gentle, continuous pressure of steady light waves to efficiently accelerate the vehicle across the cosmos.</li>
+                        <li style="margin-bottom: 16px;"><strong>Inertial Lifespan Validation:</strong> Even after the ground-based light beam turns off, this vehicle permanently keeps its speed. Because deep space has no air friction to slow it down, any velocity achieved during the beam's push is locked in permanently (Newton's First Law)—allowing your starship to glide forward through the universe forever.</li>
+                    </ul>
+
+                     <!-- RESEARCH VERIFICATION ACTIONS -->
+                    <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 16px; padding-top: 12px; border-top: 1px solid rgba(255,255,255,0.08); background: #020617; padding: 12px; border-radius: 6px;">
+                        
+<div style="display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1rem;">🚀</span>
+    <a class="research-link" href="https://www.esa.int/kids/en/learn/Technology/Spacecraft/All_shapes_and_sizes" target="_blank" style="color: var(--lab-green); text-decoration: none; font-weight: 800; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;">
+        ESA SPACECRAFT GUIDE ↗
+    </a>
+</div>
+
+<div style="display: flex; align-items: center; gap: 8px;">
+    <span style="font-size: 1rem;">🏫</span>
+    <a class="research-link" href="https://thekidshouldseethis.com/post/can-you-push-a-spacecraft-with-light-physics-girl" target="_blank" style="color: var(--lab-green); text-decoration: none; font-weight: 800; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;">
+        MIT PHYSICS GIRL DEMO ↗
+    </a>
+</div>
+
+                        
+                        <!-- CLEANED & RESPONSIVE ATTRIBUTION WRAPPER -->
+                        <div style="margin-top: 6px; padding-top: 10px; border-top: 1px dashed rgba(255,255,255,0.05);">
+                            <span style="display: block; font-size: 0.7rem; color: var(--text-muted); font-family: monospace; line-height: 1.4; letter-spacing: 0.2px;">
+                                <span style="background: rgba(74, 222, 128, 0.08); color: var(--lab-green); padding: 1px 4px; border-radius: 3px; font-weight: 700; border: 1px solid rgba(74, 222, 128, 0.15); margin-right: 4px;">CC BY 4.0</span> 
+                                PROPERTY OF: THE MOORE SIGNAL ARCHIVE LLC • CONCEIVED BY ANGELA N. MOORE • GEMINI AI COLLABORATORS
+                            </span>
+                        </div>
+                        
+                    </div>
+
+                </div>
+            </details>
+        </section>
+
+        <!-- AUDIENCE & LEADERSHIP NOTE -->
+        <section>
+            <div class="step-block" style="border-left: 4px solid var(--lab-green); padding-left: 15px; margin-bottom: 25px;">
+                <p class="step-text" style="font-style: italic; color: #aaa;">
+                    <strong>Educator & Parent Guide:</strong> This introductory aerospace modeling activity is designed as a guided instructional resource for STEM educators, teachers, and parents. By removing batteries and loose electronics, it is 100% choking-safe and safe for standard household waste streams.
+                </p>
+            </div>
+        </section>
+
+
+
+        <!-- SECTION 3: ASSEMBLY PROTOCOL -->
+        <!-- MATERIALS MANIFEST (SIMPLIFIED FOR BUSY ADULTS) -->
+        <section>
+            <h2 class="section-title">🛠️ Mission Cargo (Your Materials)</h2>
+            <div class="step-block">
+                <div class="step-meta">Component 1: The Rocket Body</div>
+                <div class="step-title">Standard White Index Card</div>
+                <p class="step-text">Provides a wide, flat canvas for your starship. It is completely safe, too big to swallow, and easy to decorate with standard markers.</p>
+                <a class="store-link" href="https://amazon.com" target="_blank" style="color: #090d16 !important; font-weight: 800; text-transform: uppercase;">Shop Material Online ↗</a>
+            </div>
+            <div class="step-block">
+                <div class="step-meta">Component 2: The Quantum Engine</div>
+                <div class="step-title">Shiny Silver Foil Tape</div>
+                <p class="step-text">Acts like a high-tech mirror engine. It captures incoming light particles from your flashlight and bounces them away to create thrust.</p>
+                <a class="store-link" href="https://amazon.com" target="_blank" style="color: #090d16 !important; font-weight: 800; text-transform: uppercase;">Shop Material Online ↗</a>
+            </div>
+            <div class="step-block">
+                <div class="step-meta">Component 3: The Earth Laser Array</div>
+                <div class="step-title">Bright Household Flashlight</div>
+                <p class="step-text">Stays safely in your hand on Earth. Fires a steady, continuous beam of trillions of light particles (photons) to push your ship from behind.</p>
+                <a class="store-link" href="https://amazon.com" target="_blank" style="color: #090d16 !important; font-weight: 800; text-transform: uppercase;">Shop Material Online ↗</a>
+            </div>
+        </section>
+
+        <!-- HIGH-ENERGY NEON TACTICAL LAUNCH CONSOLE -->
+        <details style="background: linear-gradient(135deg, rgba(74, 222, 128, 0.08) 0%, rgba(11, 60, 93, 0.3) 100%); border: 1px solid var(--lab-green); padding: 16px; border-radius: 10px; margin: 15px 0; cursor: pointer; box-shadow: 0 0 15px rgba(74, 222, 128, 0.15); transition: all 0.3s ease;">
+            <summary style="font-size: 0.9rem; font-weight: 800; color: #fff; list-style: none; display: flex; align-items: center; gap: 8px; outline: none; user-select: none; letter-spacing: 0.5px; text-transform: uppercase; padding: 4px 0;">
+                <span style="display: inline-block; width: 8px; height: 8px; background-color: var(--lab-green); border-radius: 50%; box-shadow: 0 0 8px var(--lab-green); animation: pulse 1.5s infinite;"></span>
+                🌌 INITIATE MISSION LIFTOFF // LAUNCHPAD READY
+            </summary>
+            
+            <div class="step-block" style="margin-top: 16px; border-top: 1px solid rgba(74, 222, 128, 0.15); padding-top: 16px; cursor: default;">
+                
+                <!-- WARNING SIDEBAR -->
+                <div style="background: rgba(255, 77, 77, 0.03); border: 1px solid rgba(255, 77, 77, 0.2); border-left: 4px solid #ff4d4d; padding: 12px 14px; border-radius: 6px; margin-bottom: 12px; box-shadow: 0 0 10px rgba(255, 77, 77, 0.05);">
+                    <p class="step-text" style="margin: 0; font-size: 0.75rem; font-weight: 900; color: #ff4d4d; letter-spacing: 1px; text-transform: uppercase; text-shadow: 0 0 4px rgba(255, 77, 77, 0.2);">
+                        ⚠️ LAUNCHPAD SAFETY BRIEFING
+                    </p>
+                    <p class="step-text" style="margin: 4px 0 0 0; font-size: 0.85rem; color: #fff; line-height: 1.5; font-weight: 700;">
+                        Keep the rocket body flat while building. If you upgrade your Earth Laser Array to a standard classroom laser pointer, never look directly into the lens or aim it at anyone's eyes.
+                    </p>
+                </div>
+
+                <!-- THE KID-INSPIRED PRE-FLIGHT KINDNESS DIRECTIVE -->
+                <div style="background: rgba(74, 222, 128, 0.02); border: 1px solid rgba(74, 222, 128, 0.15); border-left: 4px solid var(--lab-green); padding: 12px 14px; border-radius: 6px; margin-bottom: 16px; box-shadow: 0 0 10px rgba(74, 222, 128, 0.05);">
+                    <p class="step-text" style="margin: 0; font-size: 0.75rem; font-weight: 900; color: var(--lab-green); letter-spacing: 1px; text-transform: uppercase; text-shadow: 0 0 4px rgba(74, 222, 128, 0.2);">
+                        🌱 PRE-FLIGHT MISSION: SHARE THE ENERGY
+                    </p>
+                    <p class="step-text" style="margin: 4px 0 0 0; font-size: 0.85rem; color: #fff; line-height: 1.5; font-weight: 700;">
+                        True space exploration is built to help humanity look forward. Before initiating your final launch countdown, pay your rocket's photon energy forward by doing one quiet favor or sharing a kind word with a friend or family member on Earth today.
+                    </p>
+                </div>
+
+                <!-- THE CINEMATIC COUNTDOWN HUD BANNER WITH INTEGRATED GLOW TARGET -->
+                <div style="background: rgba(9, 13, 22, 0.7); border: 1px dashed var(--lab-green); border-radius: 8px; padding: 16px 12px; text-align: center; margin: 20px 0; box-shadow: inset 0 0 10px rgba(74, 222, 128, 0.05);">
+                    
+                    <!-- PHYSICAL GLOW TARGET FOR THROWIES -->
+                    <div style="width: 32px; height: 32px; border: 1.5px dashed var(--lab-green); border-radius: 50%; margin: 0 auto 10px auto; display: flex; align-items: center; justify-content: center; box-shadow: 0 0 12px rgba(74, 222, 128, 0.3); animation: pulse 2s infinite;">
+                        <div style="width: 6px; height: 6px; background: var(--lab-green); border-radius: 50%; box-shadow: 0 0 6px var(--lab-green);"></div>
+                    </div>
+
+                    <div style="font-size: 0.7rem; color: var(--lab-green); font-family: monospace; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 4px;">Photon Sail Core Ignition</div>
+                    <div style="font-size: 1.05rem; font-weight: 900; color: #fff; letter-spacing: 0.5px; text-transform: uppercase; line-height: 1.3;">
+                        COUNTDOWN: THREE... TWO... ONE... <span style="color: var(--lab-green); text-shadow: 0 0 8px var(--lab-green); font-size: 1.15rem; display: inline-block;">LIFTOFF!</span>
+                    </div>
+                    <div style="font-size: 0.8rem; color: #cbd5e1; margin-top: 8px; font-style: italic; line-height: 1.5;">
+                        You aim your light beam dead-center at the shiny silver sail. The light instantly bounces away, sending reflected photons tearing through the night sky and screaming into the cosmic void forever.
+                    </div>
+                </div>
+
+                <div class="step-title" style="font-size: 0.9rem; font-weight: 800; margin-top: 20px; margin-bottom: 12px; color: var(--lab-green); letter-spacing: 0.5px; text-transform: uppercase;">⏱️ REAL-TIME PHOTON FLIGHT PROFILE:</div>
+                
+                <div class="timeline">
+                    <!-- THE HERO LUNAR INTERCEPT STEP -->
+
+                    <div class="timeline-item" style="border-left: 1.5px dashed var(--lab-green); padding-left: 12px; margin-bottom: 20px;">
+                        <span class="timeline-time" style="color: #fff; font-weight: 800; background: rgba(74, 222, 128, 0.15); padding: 2px 5px; border-radius: 3px; font-size: 0.75rem;">T + 1.3 SECONDS:</span> 
+                        <div style="margin-top: 6px; color: #fff; font-size: 0.85rem; line-height: 1.5;">
+                            <strong style="color: #fff;">PASSING THE MOON.</strong> Traveling at 186,000 miles per second, the very front edge of your bouncing light stream flies past the Moon and zooms out into deep space.
+                        </div>
+                        
+                        <span style="display: block; font-size: 0.8rem; color: #cbd5e1; margin-top: 10px; line-height: 1.5; border-left: 2px solid var(--lab-green); padding-left: 10px; background: rgba(74, 222, 128, 0.01); padding-top: 4px; padding-bottom: 4px;">
+                            <code style="background: rgba(74, 222, 128, 0.1); color: var(--lab-green); padding: 1px 4px; border-radius: 2px; font-size: 0.68rem; font-weight: 800; font-family: monospace; text-transform: uppercase; letter-spacing: 0.5px; margin-right: 4px;">SPACE FACT:</code>Because the distance between Earth and the Moon is so huge, a beam of light takes exactly 1.3 seconds to cross it—whether it is shining out from your hand or traveling from the Moon down to your eyes.
+                        </span>
+                        
+                        <!-- NEW COMPACT DROPDOWN RESOURCES DRAWER -->
+                        <details style="margin-top: 14px; cursor: pointer; outline: none; user-select: none;">
+                            <summary style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; font-size: 0.75rem; color: var(--lab-green) !important; background: rgba(9, 13, 22, 0.9); border: 1px solid var(--lab-green); font-weight: 800; text-transform: uppercase; border-radius: 5px; box-shadow: 0 0 10px rgba(74, 222, 128, 0.15); list-style: none;">
+                                🎬 WATCH REAL SPACE VIDEO [ + ]
+                            </summary>
+                            
+                            <!-- SOLID LOW-STRAIN PANEL REVEALED ON CLICK -->
+                            <div style="margin-top: 10px; padding: 12px; border: 1px solid var(--border-color); border-radius: 6px; background: #020617; display: flex; flex-direction: column; gap: 10px; cursor: default;">
+                                
+                                                        <!-- UPDATED MOON-TO-EARTH TIMELINE LINK -->
+<a class="store-link" href="https://www.youtube.com/shorts/FfGgImLjW4Q" target="_blank" style="margin: 0; padding: 10px; font-size: 0.72rem; color: var(--lab-green) !important; background: #090d16; border: 1px solid var(--lab-green); font-weight: 800; text-transform: uppercase; text-decoration: none; border-radius: 4px; display: flex; flex-direction: column; gap: 4px; text-align: left;">
+    <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <span style="color: #fff; letter-spacing: 0.5px;">📡 COSMIC TIMELINE: THE 1.3-SECOND LUNAR GAP</span>
+        <span style="opacity: 0.6; font-family: monospace; font-size: 0.65rem;">SEE VIDEO &rarr;</span>
+    </div>
+    <span style="color: var(--text-muted); font-size: 0.68rem; text-transform: none; font-weight: 500; font-family: monospace; line-height: 1.4; letter-spacing: 0;">
+        Visualize how a photon traveling at 186,000 miles per second crosses the vast geometric distance between the Moon and Earth in the blink of an eye.
+    </span>
+</a>
+                                
+                                
+                            </div>
+                        </details>
+                    </div>
+                    
+                    <!-- THE INTERSTELLAR CRUISE STEP -->
+                    <div class="timeline-item" style="border-left: 1.5px solid rgba(100, 116, 139, 0.2); padding-left: 12px;">
+                        <span class="timeline-time" style="color: #64748b; font-weight: 800; background: rgba(100, 116, 139, 0.08); padding: 2px 5px; border-radius: 3px; font-size: 0.75rem;">T + A FEW YEARS:</span> 
+                        <div style="margin-top: 6px; color: #cbd5e1; font-size: 0.85rem; line-height: 1.5;">
+                            <strong style="color: #cbd5e1;">DEEP SPACE CRUISE.</strong> Your original light particles safely glide past the nearest stars, coasting through the universe forever at the speed limit of nature.
+                        </div>
+                    </div>
+                </div>
+
+                <p class="step-text" style="margin-top: 24px; margin-bottom: 6px; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: 0.5px; font-size: 0.85rem;">🪐 ARTISTIC 3D MAP & EXPLORATION:</p>
+                <p class="step-text" style="margin-bottom: 14px; color: #cbd5e1; font-size: 0.85rem; line-height: 1.5;">Want to see where your light waves are traveling? Open our interactive map to explore deep space. Every time you click on a new target, a random 3D space scene and a unique handwritten poem will pop up together!</p>
+                <a class="store-link" href="https://cyber-chic.github.io/cosmos/universe" target="_blank" style="display: inline-block; padding: 10px 16px; font-weight: 800; color: var(--lab-green); background: rgba(9, 13, 22, 0.9); text-decoration: none; border: 1.5px solid var(--lab-green); border-radius: 5px; box-shadow: 0 0 15px rgba(74, 222, 128, 0.2); text-transform: uppercase; font-size: 0.8rem; letter-spacing: 0.5px;">LAUNCH 3D GALAXY MAP & POETRY LOOKUP →</a>
+            </div>
+        </details>
+
+
+
+
+        <!-- SECTION 5: DIGITAL FLIGHT COMMANDER CERTIFICATE MODULE -->
+        <section>
+            <h2 class="section-title">🏅 Mission Completion Certificate</h2>
+            <div class="step-block" style="text-align: center; border: 1.5px solid var(--lab-green); box-shadow: 0 0 15px rgba(74, 222, 128, 0.15);">
+                <div class="step-meta">Official Recognition</div>
+                <div class="step-title">Claim Your Flight Crew Certificate</div>
+                <p class="step-text" style="margin-bottom: 16px;">Print your official Flight Commander certificate, ink your name onto the manifest, and secure your unique tracking serial.</p>
+                
+                <!-- COMFORTABLE GLOW-BORDER BUTTON -->
+                <button onclick="printBlankCertificate()" style="display: inline-flex; align-items: center; gap: 8px; background: rgba(9, 13, 22, 0.9); color: var(--lab-green) !important; border: 1.5px solid var(--lab-green); font-size: 0.8rem; font-weight: 800; padding: 8px 14px; border-radius: 5px; cursor: pointer; text-transform: uppercase; letter-spacing: 0.5px; box-shadow: 0 0 10px rgba(74, 222, 128, 0.15);">
+                    Print Mission Certificate 🖨️
+                </button>
+            </div>
+
+            <!-- HIDDEN PRINT AREA CONTAINER -->
+            <div id="print-area" style="display: none;">
+                <div style="width: 100%; max-width: 800px; min-height: 550px; display: flex; flex-direction: column; border: 4px solid var(--lab-green); background-color: #090d16; color: #cbd5e1; font-family: monospace; padding: 30px; box-sizing: border-box; text-align: center; position: relative; margin: 0 auto; box-shadow: 0 0 30px rgba(74, 222, 128, 0.2);">
+                    <div style="border: 1px dashed rgba(74, 222, 128, 0.3); flex: 1; display: flex; flex-direction: column; justify-content: space-between; box-sizing: border-box; padding: 25px; position: relative;">
+                        <div style="position: absolute; top: 10px; left: 10px; color: var(--lab-green); font-size: 1rem;">[+]</div>
+                        <div style="position: absolute; top: 10px; right: 10px; color: var(--lab-green); font-size: 1rem;">[+]</div>
+                        <div style="position: absolute; bottom: 10px; left: 10px; color: var(--lab-green); font-size: 1rem;">[+]</div>
+                        <div style="position: absolute; bottom: 10px; right: 10px; color: var(--lab-green); font-size: 1rem;">[+]</div>
+                        <div id="cert-serial" style="position: absolute; top: 12px; right: 30px; color: var(--text-muted); font-size: 0.7rem; letter-spacing: 1px;">SERIAL: TMSA-XXXXXX</div>
+                        <div>
+                            <div style="color: var(--lab-green); font-weight: bold; letter-spacing: 4px; font-size: 0.8rem; margin-bottom: 15px;">THE MOORE SIGNAL ARCHIVE // FLIGHT OPERATIONS</div>
+                            <h1 style="color: #fff; font-size: 1.8rem; margin: 8px 0; font-family: sans-serif; font-weight: 800; letter-spacing: -0.5px; text-transform: uppercase;">Certificate of Orbital Commencement</h1>
+                            <p style="color: var(--text-muted); font-size: 0.8rem; margin-bottom: 20px; letter-spacing: 0.5px;">THIS OFFICIALLY CERTIFIES THAT THE CANDIDATE HAS INITIATED A TERRESTRIAL-TO-ORBITAL PHOTON STREAM</p>
+                            <div style="font-size: 0.95rem; color: #cbd5e1; margin-bottom: 15px;">FLIGHT COMMANDER RANK CONFERRED UPON:</div>
+                            <div style="width: 70%; max-width: 400px; border-bottom: 1.5px dashed var(--lab-green); margin: 0 auto 8px auto; height: 30px;"></div>
+                            <div style="font-size: 0.7rem; color: var(--text-muted); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 12px;">[ SIGNATURE RECORD OVER MANIFEST LINE ]</div>
+                            <p style="font-size: 0.8rem; line-height: 1.6; max-width: 540px; margin: 12px auto; color: #cbd5e1;">For successfully assembling a solid-state 10-Second Postcard Photon Rocket payload, initiating core ignition, and discharging trillions of light particles directly into the deep vacuum of interstellar space.</p>
+                        </div>
+                        <div style="margin-top: 20px; display: flex; justify-content: space-between; align-items: flex-end; padding: 0 5px;">
+                            <div style="text-align: left; border-top: 1px solid var(--border-color); width: 150px; padding-top: 6px; font-size: 0.75rem; color: var(--text-muted);"><strong>MISSION SECTOR:</strong><br>Earth / Space</div>
+                            <div style="display: flex; flex-direction: column; align-items: center; gap: 6px;">
+                                <div style="width: 45px; height: 45px; border: 1.5px solid var(--lab-green); padding: 2px; display: grid; grid-template-columns: repeat(3, 1fr); gap: 2px; background: #020617; box-sizing: border-box;">
+                                    <div style="background: var(--lab-green);"></div><div></div><div style="background: var(--lab-green);"></div>
+                                    <div></div><div style="background: var(--lab-green);"></div><div></div>
+                                    <div style="background: var(--lab-green);"></div><div></div><div style="background: var(--lab-green);"></div>
+                                </div>
+                                <span style="font-size: 0.6rem; color: var(--lab-green); letter-spacing: 1px;">[ APPROVED ]</span>
+                            </div>
+                            <div style="text-align: right; border-top: 1px solid var(--border-color); width: 150px; padding-top: 6px; font-size: 0.75rem; color: var(--text-muted);"><strong>MISSION CENTER:</strong><br>The Moore Signal Archive</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+           <!-- SECTION 6: CLEAN LAB ECO-DECOMMISSIONING (RECYCLING BLOCK) -->
+        <section>
+            <h2 class="section-title">🔄 Lab Clean-Up Protocol</h2>
+            <div class="step-block" style="border-left: 3px solid var(--text-muted); background-color: rgba(30, 41, 59, 0.25);">
+                <p class="step-text" style="margin-bottom: 14px;">Once your mission is complete, practice good engineering habits. Follow these simple steps to tidy up your workspace safely:</p>
+                
+                <ul style="padding-left: 16px; margin: 0 0 16px 0; list-style-type: square; font-size: 0.85rem; line-height: 1.6; color: var(--text-body);">
+                    <li style="margin-bottom: 8px;"><strong>Keep Your Trophy:</strong> Because this project uses no batteries or hazardous chemicals, your index card starship is 100% safe to display on a desk or keep in a school portfolio!</li>
+                    <li style="margin-bottom: 8px;"><strong>Standard Sorting:</strong> If you decide to take your rocket apart, the cardstock and any leftover tape can be safely placed in standard household recycling or waste bins.</li>
+                </ul>
+                
+                <a class="research-link" href="https://epa.gov" target="_blank" style="font-weight: 700; font-size: 0.8rem;">View Official EPA Recycling Guidelines →</a>
+            </div>
+        </section>
+
+
+        <!-- SECTION 5: CITIZEN SCIENCE & GALLERY POP-UP -->
+        <section>
+            <h2 class="section-title">🔬 Real Space Science & Art</h2>
+            <div class="step-block">
+                <div class="step-meta">Space Observation</div>
+                <div class="step-title">Be a Real Space Scientist!</div>
+                <p class="step-text" style="margin-bottom: 14px;">Our hands-on projects are inspired by real cosmic objects in space. You can log into actual space science databases right now to look for planets and stars yourself:</p>
+                
+                <!-- BROKEN UP BULLET POINT LIST FOR MAXIMUM SCANNING -->
+                <ul style="padding-left: 16px; margin: 0 0 16px 0; list-style-type: square; font-size: 0.85rem; line-height: 1.6; color: var(--text-body);">
+                    <li style="margin-bottom: 6px;"><strong>Finding Planets:</strong> Look at real planetary data using official NASA Exoplanet Watch tools.</li>
+                    <li style="margin-bottom: 6px;"><strong>Classifying Stars:</strong> Help real astronomers group unknown objects using active data on Zooniverse.</li>
+                </ul>
+
+                <!-- EYE-STRAIN-FREE COMPACT BUTTON -->
+                <a class="store-link" href="https://www.zooniverse.org/projects?discipline=astronomy" target="_blank" style="color: var(--lab-green) !important; background: rgba(9, 13, 22, 0.9); border: 1.5px solid var(--lab-green); font-weight: 800; text-transform: uppercase; box-shadow: 0 0 10px rgba(74, 222, 128, 0.15);">Explore Space on Zooniverse ↗</a>
+            </div>
+            
+            <div class="step-block">
+                <div class="step-meta">The Space Cargo Manifest</div>
+                <div class="step-title">Sending Art to the Stars</div>
+                <p class="step-text" style="margin-bottom: 14px;">We share modern stories and artwork with the universe using two cool pathways:</p>
+                
+                <ul style="padding-left: 16px; margin: 0 0 16px 0; list-style-type: square; font-size: 0.85rem; line-height: 1.6; color: var(--text-body);">
+                    <li style="margin-bottom: 6px;"><strong>Physical Postcards:</strong> Real, hand-signed paper postcards fly into space inside commercial cargo rockets!</li>
+                    <li style="margin-bottom: 6px;"><strong>Digital Signals:</strong> High-resolution artwork packets are beamed straight up to active satellites orbiting Earth.</li>
+                </ul>
+
+                <!-- EYE-STRAIN-FREE COMPACT BUTTON -->
+                <a class="store-link" href="https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ" target="_blank" style="color: var(--lab-green) !important; background: rgba(9, 13, 22, 0.9); border: 1.5px solid var(--lab-green); font-weight: 800; text-transform: uppercase; box-shadow: 0 0 10px rgba(74, 222, 128, 0.15);">See the Space Tracker ↗</a>
+            </div>
+
+            <h2 class="section-title">🏛️ Gallery Pop-Up</h2>
+            <!-- 🎨 CT TECH WEEK EXHIBITION BADGE -->
+            <div class="step-block" style="text-align: left; background-color: rgba(74, 222, 128, 0.02); border-color: rgba(74, 222, 128, 0.15); border-left: 3px solid var(--lab-green);">
+                <div class="step-meta" style="color: var(--lab-green);">🏛️ GALLERY POP-UP</div>
+                <div class="step-title" style="font-size: 1rem; color: #fff; margin-top: 4px; font-weight: 800;">Space Project Showcase at CT Tech Week</div>
+                
+                <p class="step-text" style="font-size: 0.85rem; margin-top: 6px; margin-bottom: 12px; color: var(--text-body);">Our big space projects connect astrophysics science with beautiful art and stories. This concept was created by lead researcher Angela N. Moore and hosted live at the Ely Center of Contemporary Art during CT Tech Week.</p>
+                <p class="step-text" style="font-size: 0.85rem; margin-bottom: 14px; color: var(--text-body);">This pop-up highlighted our global treasure hunt, featuring physical art hidden all around the world. Students first explored using giant galaxy simulations before moving over to our independent universe map engine.</p>
+                
+                <a class="research-link" href="https://luma.com/q0lm15pz" style="margin-top: 0; font-size: 0.8rem; font-weight: 700;">View Exhibition Details ↗</a>
+            </div>
+        </section>
+
+        <!-- CRITICAL LIGHT PROTOCOLS -->
+        <section class="safety-section">
+            <div class="safety-title" style="font-weight: 800; letter-spacing: 2px;">⚠️ TECHNICAL FOOTNOTES & SAFETY PROTOCOLS</div>
+            
+            <div style="display: flex; flex-direction: column; gap: 14px; margin-top: 10px;">
+                <p class="safety-text" style="margin: 0;">
+                    <strong style="color: #cbd5e1; display: block; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 2px;">01 / Zero Chemical Hazards</strong> 
+                    By removing batteries and loose electronics, this activity has a 0% choking or chemical ingestion hazard. It is safe for families, schools, and standard community recycling programs.
+                </p>
+                
+                <p class="safety-text" style="margin: 0;">
+                    <strong style="color: #ffaa44; display: block; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 2px;">02 / Optical Awareness</strong> 
+                    While a standard household flashlight is completely safe, if you opt to use a classroom laser pointer as your Earth light station, never shine it directly into eyes or look into the lens.
+                </p>
+            </div>
+        </section>
+
+        <!-- FOOTER & COLLABORATION LOG -->
+        <footer class="main-footer" style="margin-top: 45px; padding-top: 25px; border-top: 1px solid rgba(255,255,255,0.05); text-align: center;">
+            <div class="subtitle" style="margin-bottom: 12px; font-weight: 800; font-size: 0.85rem; letter-spacing: 1px;">READY FOR YOUR NEXT COSMIC MISSION?</div>
+            <a href="https://github.com/cyber-chic" class="archive-btn" target="_blank" style="font-size: 0.85rem; font-weight: 700;">The Moore Signal Archive Profile on GitHub →</a>
+            
+            <!-- AI COLLABORATION NOTATION -->
+            <div class="studio-log" style="margin-top: 35px; font-family: monospace; font-size: 0.7rem; color: var(--text-muted); opacity: 0.5; letter-spacing: 0.5px; line-height: 1.5;">
+                LOG: SYSTEM OPTIMIZED // DEVELOPED IN COLLABORATION WITH GEMINI ARCHITECTS<br>
+                © 2026 THE MOORE SIGNAL ARCHIVE LLC // OPEN SOURCE EDUCATION EXPERIMENT
+            </div>
+        </footer>
+    </div>
+
+    <!-- CERTIFICATE PRINT GENERATOR ENGINE (SMOOTH FLICKER-FREE PRINTING) -->
+    <script>
+        function printBlankCertificate() {
+            // Generate unique tracker code
+            var randSerial = "TMSA-" + Math.floor(100000 + Math.random() * 900000);
+            document.getElementById("cert-serial").innerText = "SERIAL: " + randSerial;
+            
+            // Build a hidden background printing frame to eliminate page flashing or reloads
+            var printFrame = document.createElement('iframe');
+            printFrame.style.position = 'fixed';
+            printFrame.style.right = '0';
+            printFrame.style.bottom = '0';
+            printFrame.style.width = '0';
+            printFrame.style.height = '0';
+            printFrame.style.border = '0';
+            document.body.appendChild(printFrame);
+            
+            var frameDoc = printFrame.contentWindow.document;
+            var certHtml = document.getElementById("print-area").innerHTML;
+            
+            // Inject structural rules so backgrounds map accurately onto physical printers
+            frameDoc.write('<html><head><title>Print Certificate</title>');
+            frameDoc.write('<style>@page { size: landscape; margin: 0; } body { margin: 0; background-color: #090d16; -webkit-print-color-adjust: exact; print-color-adjust: exact; }</style>');
+            frameDoc.write('</head><body>' + certHtml + '</body></html>');
+            frameDoc.close();
+            
+            // Fire printing dialogue frame safely
+            printFrame.contentWindow.focus();
+            printFrame.contentWindow.print();
+            
+            // Clean up elements from DOM immediately after completion
+            setTimeout(function() {
+                document.body.removeChild(printFrame);
+            }, 1000);
+        }
+    </script>
+</body>
+</html>
