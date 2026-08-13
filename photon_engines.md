@@ -6,7 +6,7 @@
 
 ### 🌐 MISSION CONTROL LAUNCH PAD
 If you are viewing this file inside the repository, you can access our complete interactive visual web experiences directly via the main portals below:
-* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://github.io)
+* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](cyber-chic.github.io/cosmos/rockets)
 * 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
 
 ---
@@ -148,7 +148,7 @@ Our broader interdisciplinary space initiatives—highlighting how we merge real
 ---
 
 ### 📡 SYSTEM STATUS & REPOSITORY ROUTING
-* **The Moore Signal Archive Profile on GitHub:** [https://github.com](https://github.com)
+* **The Moore Signal Archive Exhibits:** [Booking Portal](https://bio.site/mooresignal)
 * **Administrative & Legal Bureau:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 * **Official Registry:** GLASTONBURY, CONNECTICUT // ADMINISTRATIVE PROVENANCE & LIABILITY SECURED
 
