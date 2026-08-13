@@ -6,7 +6,7 @@
 
 ### 🌐 MISSION CONTROL LAUNCH PAD
 If you are viewing this file inside the repository, you can access our complete interactive visual web experiences directly via the main portals below:
-* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](cyber-chic.github.io/cosmos/rockets)
+* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://cyber-chic.github.io/cosmos/rockets)
 * 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
 
 ---
