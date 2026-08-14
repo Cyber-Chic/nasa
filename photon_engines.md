@@ -9,6 +9,7 @@
 * 🎟️ **Request an Interactive Exhibit:** [bio.site/mooresignal](https://bio.site)
 * 🌌 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://github.io)
 
+
 ---
 
 ### 🚀 Active Missions & Labs
@@ -21,9 +22,7 @@
 
 ---
 
-### 🌟 Curator Profile & Innovation Credentials
-
-
+### 🌟 **Achievements & Accolades:**
 <details>
 <summary><b>📡 Click for Details </b></summary>
 <br />
