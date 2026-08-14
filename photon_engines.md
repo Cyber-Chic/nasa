@@ -5,34 +5,33 @@
 ---
 
 ### 🌐 Quick Access Hubs
-
 * 🎟️ **Request an Interactive Exhibit:** [bio.site/mooresignal](https://bio.site)
 * 🌌 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://github.io)
-
 
 ---
 
 ### 🚀 Active Missions & Labs
 
-| Mission Suite | Scientific Concept | Simulation Hub |
+| Mission | Scientific Concept | Simulation Hub |
 | :--- | :--- | :--- |
-| **ALPHA** <br> *1-Min Lightsail Prototype* | **Propulsion via Light Pressure** <br> Learn how spacecraft travel across the solar system without fuel. This module swaps heavy chemical engines for a mirror-like sail propelled entirely by photons from a household flashlight. | 🌌 [Launch Visual Experience](https://github.io) |
-| **BETA** <br> *10-Sec Photon Rocket* | **Electromagnetic Radiation Dynamics** <br> Explore the absolute limits of propulsion efficiency. This model utilizes a basic coin cell battery and an LED bulb to generate thrust by firing active, physical light particles into the void. | 🌌 [Launch Visual Experience](https://github.io) <br><br> ⚠️ **Safety Notice:** *Uses lithium coin cells. Keep away from small children/pets. Severe internal burns can occur if swallowed.* |
-| **GAMMA** <br> *Cosmic Invisible Ink Capsule* | **Energy Conversion & Data Storage** <br> Discover how data survives in extreme environments. This laboratory uses ultraviolet wavelengths and chemical phosphors to safely freeze, store, and reveal hidden information. | 🌌 [Launch Visual Experience](https://github.io) |
+| **ALPHA** <br> *1-Min Lightsail* | **Propulsion via Light Pressure** <br> Fuel-free aerospace modeling. Swaps chemical engines for a mirror sail pushed by household flashlight photons. | 🌌 [Launch Experience](https://github.io) |
+| **BETA** <br> *10-Sec Photon Rocket* | **Electromagnetic Radiation Dynamics** <br> High-efficiency propulsion. Uses a coin cell and LED to discharge active light particles into the void. | 🌌 [Launch Experience](https://github.io) <br><br> ⚠️ **Safety:** *Lithium cell hazard. Keep away from children/pets.* |
+| **GAMMA** <br> *Invisible Ink Capsule* | **Energy Conversion & Data Storage** <br> Extreme environment protection. Uses UV wavelengths and phosphors to freeze and store hidden data. | 🌌 [Launch Experience](https://github.io) |
 
 ---
 
-### 🌟 **Achievements & Accolades:**
+### 🌟 Achievements & Accolades
+
 <details>
-<summary><b>📡 Click for Details </b></summary>
+<summary><b>📡 Click to view Curator Credentials</b></summary>
 <br />
   
 | Focus | Core Achievement |
 | :--- | :--- |
-| **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com), earning acclaim from industry leadership on [LinkedIn](https://linkedin.com). |
-| **Mathematical Research** | Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture**. Read the profile on [Life as a Human](https://lifeasahuman.com). |
-| **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting how **passive saving** and financial automation unlock time for creative pursuits. |
-| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including custom [space poetry](https://elycenter.org) launched into orbit on commercial rockets. |
+| **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com). |
+| **Mathematical Research** | Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture** ([Life as a Human](https://lifeasahuman.com)). |
+| **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting financial automation for creative pursuits. |
+| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including custom [space poetry](https://elycenter.org) launched into orbit. |
 
 </details>
 
