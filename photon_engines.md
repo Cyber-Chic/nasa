@@ -14,9 +14,9 @@
 
 | Mission | Scientific Concept | Simulation Hub |
 | :--- | :--- | :--- |
-| **ALPHA** <br> *1-Min Lightsail* | **Photon Momentum & Fuel-Free Propulsion** <br> Aerospace design modeling. Demonstrates how directed light particles can propel a spacecraft through the vacuum of space without chemical fuel. | 🌌 [Launch Experience](https://github.io) |
-| **BETA** <br> *10-Sec Photon Rocket* | **Action-Reaction Dynamics & Particle Discharge** <br> Kinetic thrust simulation. Utilizes student-built LED circuits to demonstrate core rocket propulsion principles through light emission. | 🌌 [Launch Experience](https://github.io) <br><br> ⚠️ **Safety:** *Lithium coin-cell hazard. Supervise strictly; keep away from children/pets.* |
-| **GAMMA** <br> *Invisible Ink Capsule* | **Energy Transition & Data Encoding** <br> Secure information protection. Uses UV wavelengths and phosphors to shift energy states, freezing and storing hidden data. | 🌌 [Launch Experience](https://github.io) |
+| **ALPHA** <br> *1-Min Lightsail* | **Photon Momentum & Fuel-Free Propulsion** <br> Aerospace design modeling. Demonstrates how directed light particles propel a spacecraft without chemical fuel. | 🌌 [Launch Experience](https://github.io) |
+| **BETA** <br> *10-Sec Photon Rocket* | **Action-Reaction Dynamics & Particle Discharge** <br> Kinetic thrust simulation. Utilizes student-built LED circuits to demonstrate propulsion via light emission. | 🌌 [Launch Experience](https://github.io) <br><br> ⚠️ **Safety:** *Lithium coin-cell hazard. Supervise strictly; keep away from children/pets.* |
+| **GAMMA** <br> *Invisible Ink Capsule* | **Energy Transition & Data Encoding** <br> Secure information protection. Uses UV wavelengths and phosphors to shift energy states, storing hidden data. | 🌌 [Launch Experience](https://github.io) |
 
 ---
 
