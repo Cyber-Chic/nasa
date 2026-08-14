@@ -40,3 +40,8 @@
 ### 🏢 Administration
 * **Administrative Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033.
 
+---
+<p align="center">
+  🌐 <b>Open Source:</b> Explore the main <a href="https://github.com/Cyber-Chic">GitHub Repository</a>
+</p>
+
