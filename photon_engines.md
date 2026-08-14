@@ -31,7 +31,7 @@
 | **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com). |
 | **Mathematical Research** | Won the Westfair *Milli Award* for independent research on the unsolved **Beal Conjecture** ([Life as a Human](https://lifeasahuman.com)). |
 | **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting how passive saving can unlock time for creative pursuits. |
-| **The TMA Treasure Hunt** | Designed a global search **cataloging** their hidden creative works, including [cosmic pieces](https://elycenter.org) launched into space. |
+| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including [cosmic pieces](https://elycenter.org) launched into space. |
 
 </details>
 
@@ -39,3 +39,4 @@
 
 ### 🏢 Administration
 * **Administrative Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033.
+
