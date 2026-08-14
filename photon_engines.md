@@ -31,7 +31,7 @@
 | **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com). |
 | **Mathematical Research** | Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture** ([Life as a Human](https://lifeasahuman.com)). |
 | **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting financial automation for creative pursuits. |
-| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including custom [space poetry](https://elycenter.org) launched into orbit. |
+| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including [cosmic pieces](https://elycenter.org) launched into space. |
 
 </details>
 
