@@ -14,7 +14,7 @@
 * 🎨 **Exhibitions & Innovation:** Hosted an interactive citizen science pop-up at the [Ely Center for Contemporary Art](https://elycenter.org) for [CT Tech Week](https://cttechweek.com)—earning critical acclaim from an AI & intelligent automation leader on [LinkedIn](https://linkedin.com).
 * 🧮 **Research:** Won the Westfair Communications *Milli Award* for independent research investigating the famous, unsolved **Beal Conjecture**. (Read the profile on [Life as a Human](https://lifeasahuman.com)).
 * 📰 **Media Spotlight:** Featured in a New York Times ad campaign that focused on **passive saving**—sharing how automating finances can free up vital time to focus on  deeper creative pursuits. (Watch on [TBrand Studio](https://youtube.com)).
-* 🌌 **The TMA Treasure Hunt:** Designer of a global search tracking hidden creative works and special space artifacts—including custom "space poetry" pieces launched into orbit aboard commercial rockets.
+* 🌌 **The TMA Treasure Hunt:** Designer of a global search tracking hidden creative works-including custom "space poetry" pieces launched into orbit aboard commercial rockets.
 
 ---
 
