@@ -6,16 +6,14 @@
 
 ### 🌐 Quick Access Hubs
 
-<p align="left">
-  <a href="https://bio.site/mooresignal"><img src="https://shields.io" alt="Request Exhibit"></a>
-  <a href="https://cyber-chic.github.io/cosmos/universe"><img src="https://shields.io" alt="3D Map"></a>
-</p>
+* 🎟️ **Request an Interactive Exhibit:** [bio.site/mooresignal](https://bio.site)
+* 🌌 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://github.io)
 
 ---
 
-### 🌟 Key Highlights
+### 🌟 Curator Profile & Innovation Credentials
 
-| Focus | Achievement |
+| Focus | Core Achievement |
 | :--- | :--- |
 | **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com), earning acclaim from industry leadership on [LinkedIn](https://linkedin.com). |
 | **Mathematical Research** | Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture**. Read the profile on [Life as a Human](https://lifeasahuman.com). |
@@ -26,11 +24,11 @@
 
 ### 🚀 Active Missions & Labs
 
-| Mission Suite | Core Focus | Simulation |
+| Mission Suite | Scientific Concept | Simulation |
 | :--- | :--- | :--- |
-| **ALPHA** <br> *1-Min Space-Only Lightsail* | Aerospace modeling module replacing chemical engines with a mirror sail pushed by household flashlight photons. | ➔ [Launch Visual Experience](https://cyber-chic.github.io/cosmos/spacecraft) |
-| **BETA** <br> *10-Sec Space-Only Photon Rocket* | Electromagnetic propulsion model using a low-voltage coin battery and LED bulb to discharge active light particles. | ➔ [Launch Visual Experience](https://cyber-chic.github.io/cosmos/rockets) |
-| **GAMMA** <br> *Cosmic Invisible Ink Time Capsule* | Atmospheric propagation and energy transformation lab utilizing ultraviolet ink and phosphors to freeze data. | ➔ [Launch Visual Experience](https://cyber-chic.github.io/cosmos/cosmic-capsule) |
+| **ALPHA** <br> *1-Min Lightsail Prototype* | **Propulsion via Light Pressure** <br> Learn how spacecraft travel across the solar system without fuel. This module swaps heavy chemical engines for a mirror-like sail propelled entirely by photons from a household flashlight. | ➔ [Launch Visual Experience](https://github.io) |
+| **BETA** <br> *10-Sec Photon Rocket* | **Electromagnetic Radiation Dynamics** <br> Explore the absolute limits of propulsion efficiency. This model utilizes a basic coin cell battery and an LED bulb to generate thrust by firing active, physical light particles into the void. | ➔ [Launch Visual Experience](https://github.io) |
+| **GAMMA** <br> *Cosmic Invisible Ink Capsule* | **Energy Conversion & Data Storage** <br> Discover how data survives in extreme environments. This laboratory uses ultraviolet wavelengths and chemical phosphors to safely freeze, store, and reveal hidden information. | ➔ [Launch Visual Experience](https://github.io) |
 
 ---
 
