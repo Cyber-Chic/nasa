@@ -5,27 +5,11 @@
 ---
 
 ### 🌐 PORTAL HUBS
-* 🌐 **Main Rocket Launch Webpage:** [cyber-chic.github.io/cosmos/rockets](https://cyber-chic.github.io/cosmos/rockets)
+* 🌐 **Request an Interactive Exhibit:** [bio.site/mooresignal](https://bio.site/mooresignal)
 * 🪐 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
 
 ---
 
-### 🌟 Key Highlights
-
-> **Tech & Art Innovation**
-> Hosted an interactive citizen science pop-up at the [Ely Center for Contemporary Art](https://elycenter.org) for [CT Tech Week](https://cttechweek.com), earning acclaim from industry leadership on [LinkedIn](https://linkedin.com).
-
-> **Mathematical Research**
-> Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture**. Read the profile on [Life as a Human](https://lifeasahuman.com).
-
-> **Media & Automation**
-> Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting how **passive saving** and financial automation unlock time for creative pursuits.
-
-> **The TMA Treasure Hunt**
-> Designed a global search **cataloging** hidden creative works, including custom "space poetry" launched into orbit on commercial rockets.
-
-
----
 
 ### 🚀 MISSION ALPHA: The 1-Minute Space-Only Lightsail Prototype
 A beginner-friendly aerospace modeling module replacing chemical engines with a mirror sail pushed by household flashlight photons.
@@ -51,3 +35,17 @@ An atmospheric propagation and energy transformation lab utilizing ultraviolet i
 ### ⚠️ SAFETY NOTE & REPOSITORY ROUTING
 * **Severe Ingestion Hazard:** Mission Beta uses lithium coin cells. Keep away from small children and pets. Severe internal burns can occur if swallowed. Adult supervision required.
 * **Administrative Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033.
+
+
+---
+
+### 🌟 Key Highlights
+
+| Field | Achievement |
+| :--- | :--- |
+| **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://cttechweek.com), earning acclaim from industry leadership on [LinkedIn](https://linkedin.com). |
+| **Mathematical Research** | Won the Westfair Communications *Milli Award* for independent research on the unsolved **Beal Conjecture**. Read the profile on [Life as a Human](https://lifeasahuman.com). |
+| **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://youtube.com)) campaign highlighting how **passive saving** and financial automation unlock time for creative pursuits. |
+| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including custom [space poetry](https://elycenter.org) launched into orbit on commercial rockets. |
+
+---
