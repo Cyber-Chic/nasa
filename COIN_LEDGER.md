@@ -6,11 +6,18 @@
 
 ---
 
-### 👋 YOU FOUND A SPACE COIN! NOW WHAT?
+# 🪙 You Found a Space Coin! 🪐
+*Welcome to a global art hunt bridging Earth and Outer Space.*
 
-*   **THE COIN IS YOURS:** Captures of each coin are transformed into limited-edition postcards and launched into space! The physical artifact is a free gift to you! 🎁
-*   **READ YOUR POEM:** Check the front face of your coin for your unique number, then scroll down this page (or search your number) to read your full cosmic poem.
-*   **LOG YOUR FIND:** Click our **[Official Geocaching Page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** to type a quick note, log your coin ID (**EXAMPLE: COIN-001**), or post a photo of where you found it!
+### 🎁 1. Keep the Coin!
+This physical coin is a free gift for you to take home. To pay the good vibes forward, please perform one anonymous act of kindness in your neighborhood today!
+
+### 🚀 2. Your Art is Going to Space!
+While you keep the physical coin, a custom postcard matching your coin's design is loaded as physical cargo onto a commercial rocket to cross the line into outer space. A digital twin is also beamed up to a satellite orbiting Earth!
+
+### 🌌 3. Decode Your Cosmic Poem
+Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about a real deep-space planet or star! 
+
 
 ---
 
