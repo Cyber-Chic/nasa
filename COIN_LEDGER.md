@@ -8,7 +8,7 @@
 
 ### 👋 YOU FOUND A SPACE COIN! NOW WHAT?
 
-*   **THE COIN IS YOURS:** Captures of each coin are transformed into limited-edition postcards, and launched into space!  The physical artifact is a free gift to you! 🎁
+*   **THE COIN IS YOURS:** Captures of each coin are transformed into limited-edition postcards and launched into space! The physical artifact is a free gift to you! 🎁
 *   **READ YOUR POEM:** Check the front face of your coin for your unique number, then scroll down this page (or search your number) to read your full cosmic poem.
 *   **LOG YOUR FIND:** Click our **[Official Geocaching Page](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** to type a quick note, log your coin ID (**EXAMPLE: COIN-001**), or post a photo of where you found it!
 
@@ -32,12 +32,15 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
     *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
 
 📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
-
+</br>
 </details>
 
 <br>
 
 🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see the handwritten verses mapped dynamically to real cosmic targets.
+
+---
+
 ### 🌌 [ CAPTURE ID: COIN-001 ]
 > ### **CRAZY LIGHT FLASHES!**
 > ### **WITH RAYS BURSTING ROUND THE CORE—**
@@ -49,8 +52,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113788/?n=The+Pretty+Coinz+Collection)**
-*   **The Inspiration:** My Astrophysics Research **[[(View Inspirational Image)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
+*   **The Inspiration:** My Astrophysics Research **[(View Inspirational Image)](https://www.zooniverse.org/projects/fulsdavid/the-daily-minor-planet/talk/subjects/105418882)**
 *   **Explore the Methodology:** 📊 **[View The Official Process (Zooniverse)](https://www.zooniverse.org/about)**
+</br>
 </details>
 
 ---
@@ -67,7 +71,8 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113802/?n=the+Pretty+Coinz+Collection)**
 *   **The Inspiration:** Planet Space Data **[(View TrES-2b Planetary Record)](https://simple.wikipedia.org/wiki/TrES-2b)**
-*   **Explore the Methodology:**  📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/10772/)**
+*   **Explore the Methodology:** 📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/10772/)**
+</br>
 </details>
 
 ---
@@ -84,7 +89,8 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113803/?n=the+Pretty+Coinz+Collection)**
 *   **The Inspiration:** Planet Space Data **[(View WASP-12b Planetary Record)](https://simple.wikipedia.org/wiki/WASP-12b)**
-*   **Explore the Methodology:**  📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11335/)**
+*   **Explore the Methodology:** 📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11335/)**
+</br>
 </details>
 
 ---
@@ -100,8 +106,9 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 
 *   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
 *   **Log Footage:** `[ Preview | Coin Design ]` 📷 **[View Visual Mockup](https://www.icollecteverything.com/db/custom/1157864/coin/113804/?n=the+Pretty+Coinz+Collection)**
-*   **The Inspiration:** Planet Space Data **[(View TrES-3b Planetary Record))](https://en.wikipedia.org/wiki/TrES-3b)**
-*   **Explore the Methodology:**  📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11122/)**
+*   **The Inspiration:** Planet Space Data **[(View TrES-3b Planetary Record)](https://en.wikipedia.org/wiki/TrES-3b)**
+*   **Explore the Methodology:** 📊 **[View My Graph (Exoplanet Watch)](https://apps.aavso.org/exosite/g/11122/)**
+</br>
 </details>
 
 ---
@@ -112,7 +119,8 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 <br>
 
 **ART COLLECTOR NOTE & SAFETY COMPLIANCE:** This artifact is a solid piece of independent contemporary art. It is a custom keepsake intended solely for adult collectors and supervised youth explorers. It contains small parts and poses a choking hazard; please keep it completely out of reach of infants, toddlers, and pets.
-
+</br>
 </details>
 
 ---
+
