@@ -38,7 +38,8 @@
 ---
 
 ### 🏢 Administration
-* **Administrative Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033.
+**Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033 | **License:** [CC BY 4.0](https://creativecommons.org)
+
 
 ---
 <p align="center">
