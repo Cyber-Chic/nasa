@@ -26,12 +26,13 @@
 <summary><b>📡 Click to view Curator Credentials</b></summary>
 <br />
   
-| Focus | Core Achievement |
+| Focus | Core Milestone |
 | :--- | :--- |
-| **Tech & Art Innovation** | Hosted an interactive citizen science pop-up at the **Ely Center for Contemporary Art** for [CT Tech Week](https://luma.com/q0lm15pz). |
-| **Mathematical Research** | Won the Westfair *Milli Award* for independent research on the unsolved **Beal Conjecture** ([Life as a Human](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)). |
-| **Media & Automation** | Featured in a New York Times ([TBrand Studio](https://www.youtube.com/watch?v=3yS19NcRQt8)) campaign highlighting how passive saving can unlock time for creative pursuits. |
-| **The TMA Treasure Hunt** | Designed a global search **cataloging** hidden creative works, including [cosmic pieces](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ) launched into space. |
+| **[Tech & Art Innovation](https://luma.com/q0lm15pz)** | Hosted an interactive citizen science pop-up at the *Ely Center for Contemporary Art* for **CT Tech Week**. |
+| **[Mathematical Research](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)** | Won the Westfair *Milli Award* for an innovative refutation of the unsolved **Beal Conjecture**. |
+| **[Media & Automation](https://www.youtube.com/watch?v=3yS19NcRQt8)** | Featured by the New York Times **[T Brand Studio]** highlighting personal philosophies and creative pursuits. |
+| **[The TMA Treasure Hunt](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** | Designed a global treasure hunt hiding original **creative works** across the world and in outer space. |
+
 
 </details>
 
