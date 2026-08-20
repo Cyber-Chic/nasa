@@ -7,7 +7,7 @@
 ---
 
 # 🪙 You Found a Space Coin! 🪐
-*Welcome to our art hunt bridging Earth and Outer Space.* 
+*Welcome to our art hunt bridging Earth and Outer Space.*
 
 ### 🎁 1. Keep the Coin!
 This physical coin is a free gift for you to take home. To pay the good vibes forward, please perform one anonymous act of kindness in your neighborhood today!
@@ -16,7 +16,7 @@ This physical coin is a free gift for you to take home. To pay the good vibes fo
 While you keep the physical token, a custom postcard matching your coin's design will be loaded onto a commercial rocket to cross the line into outer space. A digital twin is also queued for transmission to a satellite orbiting Earth!
 
 ### 🌌 3. Decode Your Cosmic Poem
-Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about a real deep-space planet or star! 
+Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about a real deep-space planet or star!
 
 ---
 
