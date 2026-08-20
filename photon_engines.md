@@ -4,6 +4,13 @@
 
 ---
 
+### 🎨 Featured Presentation
+*Our broader interdisciplinary initiatives were featured publicly during **[CT Tech Week](https://luma.com/q0lm15pz)** at the Ely Center for Contemporary Art.*
+
+> 🔍 **Explore the Hub:** See how my open-source architecture acts as a centralized dashboard tracking my interdisciplinary research—connecting inquiries spanning deep space data, contemporary poetry, and my local geocaching physical artifact hunt (The Moore Archive). All shared components are globally accessible under our **[CC BY 4.0 Legal License](https://creativecommons.org)**.
+
+---
+
 ### 🌐 Quick Access Hubs
 * 🎟️ **Request an Interactive Exhibit:** [bio.site/mooresignal](https://bio.site/mooresignal)
 * 🌌 **Interactive 3D Galaxy Map:** [cyber-chic.github.io/cosmos/universe](https://cyber-chic.github.io/cosmos/universe)
@@ -20,27 +27,23 @@
 
 ---
 
-### 🌟 Achievements & Accolades
-
 <details>
-<summary><b>📡 Click to view Curator Credentials</b></summary>
+<summary><b>📡 Click to view full Background & Research Milestones</b></summary>
 <br />
   
-| Focus | Core Milestone |
+| Research Focus | Core Milestone & Documentation |
 | :--- | :--- |
-| **[Tech & Art Innovation](https://luma.com/q0lm15pz)** | Hosted an interactive citizen science pop-up at the *Ely Center for Contemporary Art* for **CT Tech Week**. |
+| **[Tech & Art Innovation](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-ugcPost-7468021297931825152-XZgR/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAYfOpcBrnwtnS9rgebG859ruEu2Hp25ylk)** | Featured testimonial of our contemporary space pop-up exhibit during **CT Tech Week**. |
 | **[Mathematical Research](https://lifeasahuman.com/2015/mind-spirit/inspirational/a-milli-award-for-the-million-dollar-question-beals-conjecture-the-once-in-a-million-journey-of-angela-moore/)** | Won the Westfair *Milli Award* for an innovative refutation of the unsolved **Beal Conjecture**. |
 | **[Media & Automation](https://www.youtube.com/watch?v=3yS19NcRQt8)** | Featured by the New York Times **T Brand Studio** highlighting personal philosophies and creative pursuits. |
 | **[The TMA Treasure Hunt](https://www.geocaching.com/track/details.aspx?tracker=TBB2WKZ)** | Designed a global treasure hunt hiding original **creative works** across the world and in outer space. |
 
 </details>
 
-
 ---
 
 ### 🏢 Administration
-**Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033 | **License:** [CC BY 4.0](https://creativecommons.org)
-
+**Bureau:** The Moore Signal Archive LLC, Glastonbury, CT 06033
 
 ---
 <p align="center">
