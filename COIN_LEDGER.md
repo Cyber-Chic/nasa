@@ -1,5 +1,5 @@
 # 🪙 [ THE MOORE SIGNAL ARCHIVE: COIN LEDGER & POETRY REGISTRY ]
-*The official verification space for our global independent art drops.*
+*The official verification page for our orbital art drops.*
 
 > [!TIP]
 > **📱 MOBILE LOGIC:** Reading on a phone? Use your browser's menu to select **"Find on Page"** and type your coin number to jump straight to your verse!
@@ -7,17 +7,16 @@
 ---
 
 # 🪙 You Found a Space Coin! 🪐
-*Welcome to a global art hunt bridging Earth and Outer Space.*
+*Welcome to our art hunt bridging Earth and Outer Space.* 
 
 ### 🎁 1. Keep the Coin!
 This physical coin is a free gift for you to take home. To pay the good vibes forward, please perform one anonymous act of kindness in your neighborhood today!
 
-### 🚀 2. Your Art is Going to Space!
-While you keep the physical coin, a custom postcard matching your coin's design is loaded as physical cargo onto a commercial rocket to cross the line into outer space. A digital twin is also beamed up to a satellite orbiting Earth!
+### 🚀 2. Your Art is Slated for Space!
+While you keep the physical token, a custom postcard matching your coin's design will be loaded onto a commercial rocket to cross the line into outer space. A digital twin is also queued for transmission to a satellite orbiting Earth!
 
 ### 🌌 3. Decode Your Cosmic Poem
 Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about a real deep-space planet or star! 
-
 
 ---
 
@@ -29,14 +28,14 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 
 Each custom coin features a fragmented poetry verse translating celestial citizen science research I have conducted across active astrophysical pipelines. Every verse directly represents data from my real-world astrophysics **[initiatives](https://github.com/Cyber-Chic/cosmos/)**, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
 
-To complete this physical-to-orbital transmission, our artifacts are launched to outer space via two unique celestial pathways:
+To complete this physical-to-orbital transmission, our artifacts are scheduled for deployment to outer space via two unique celestial pathways:
 
-*   **1. Blue Origin Launches (Rockets):**
-    *   Postcards showcasing the face side of our cosmic coins are signed by hand and are loaded as physical cargo aboard commercial rockets.
-    *   These physical artifacts cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
-*   **2. Digital Coin Uplink (Satellite):**
-    *   A high-resolution rendering of our signature coin back is beamed directly to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
-    *   The digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
+*   **1. Commercial Rocket Flight Manifests:**
+    *   Postcards showcasing the face side of our cosmic coins are signed by hand and are formally queued as cargo for future launch aboard commercial rockets.
+    *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
+*   **2. Digital Coin Uplink (Scheduled Satellite Window):**
+    *   A high-resolution rendering of our signature coin back is mapped for transmission to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
+    *   Upon successful uplink transmission, the digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
 
 📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
 </br>
@@ -47,6 +46,7 @@ To complete this physical-to-orbital transmission, our artifacts are launched to
 🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see the handwritten verses mapped dynamically to real cosmic targets.
 
 ---
+
 
 ### 🌌 [ CAPTURE ID: COIN-001 ]
 > ### **CRAZY LIGHT FLASHES!**
