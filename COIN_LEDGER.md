@@ -43,7 +43,7 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 |___________________________________|________________________________|
 </pre>
 
-*“Treasures dwell on Earth, destined for the stars. The journey begins.”* 🪙 🪐
+*“Treasures dwell on Earth, destined for the stars. The journey begins.”* 🚀 🪐
 
 ---
 
