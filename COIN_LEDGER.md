@@ -27,12 +27,12 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
  ____________________________________________________________________
 
 |                                                                    |
-| [ PANEL 1: THE LAB 🪙 ]           | [ PANEL 2: THE LAUNCH 🛰️ ]      |
+| [ PANEL 1: THE LAB 🪙 ]           | [ PANEL 2: THE LAUNCH 🛰️ ]    |
 |                                   |                                |
 |    \ | /   *  SPACE DATA PIPELINE |        _______                 |
 |   -- o --    [ANALYSIS COMPLETE]  |       /      /                 |
 |    / | \            |             |      /  /\  /    *             |
-|      |              v             |     |  |  | |                 |
+|      |              v             |     |  |  | |                  |
 |   _______     ___________         |     |  |  | |        *         |
 |  |=======|   |  (o) COIN |        |     |  |  | |   (THE SIGNAL    |
 |  |_______|   |__QUEUED___|        |    / ==  == \    IGNITED)      |
