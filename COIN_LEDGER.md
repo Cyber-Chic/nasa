@@ -20,6 +20,33 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 
 ---
 
+### 🎨 MISSION LOG // VISUAL SURVEILLANCE
+*An active transmission from the principal investigator's desk.
+
+```html
+ ____________________________________________________________________
+
+|                                                                    |
+| [ PANEL 1: THE LAB ]              | [ PANEL 2: THE LAUNCH ]        |
+|                                   |                                |
+|    \ | /   *  SPACE DATA PIPELINE  |        _______                 |
+|   -- o --    [ANALYSIS COMPLETE]  |       /      /                 |
+|    / | \            |             |      /  /\  /    *   🛰️       |
+|      |              v             |     |  |  | |                 |
+|   _______     ___________         |     |  |  | |        *         |
+|  |=======|   | 🪙 COIN  |         |     |  |  | |   (SAT GUS UPLINK|
+|  |_______|   |__QUEUED___|        |    / ==  == \    ESTABLISHED)  |
+|     ||            ||              |   /__________\                 |
+| ____||____________||____________  |       ||||        *            |
+| \  "We have a cosmic signal."  /  |       ||||                     |
+|  ------------------------------   |   ____/  \____________________ |
+|___________________________________|________________________________|
+```
+
+*“Treasures dwell on Earth, destined for the stars. The journey begins.”*
+
+---
+
 ### 🛰️ THE DEEP SCIENCE (FOR COSMIC EXPLORERS)
 
 <details>
