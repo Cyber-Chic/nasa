@@ -24,12 +24,12 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 *An active transmission from the principal investigator's desk.
 
 ```html
- ____________________________________________________________________
+  ____________________________________________________________________
 
 |                                                                    |
 | [ PANEL 1: THE LAB ]              | [ PANEL 2: THE LAUNCH ]        |
 |                                   |                                |
-|    \ | /   *  SPACE DATA PIPELINE  |        _______                 |
+|    \ | /   *  SPACE DATA PIPELINE |        _______                 |
 |   -- o --    [ANALYSIS COMPLETE]  |       /      /                 |
 |    / | \            |             |      /  /\  /    *   🛰️       |
 |      |              v             |     |  |  | |                 |
@@ -41,6 +41,7 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 | \  "We have a cosmic signal."  /  |       ||||                     |
 |  ------------------------------   |   ____/  \____________________ |
 |___________________________________|________________________________|
+
 ```
 
 *“Treasures dwell on Earth, destined for the stars. The journey begins.”*
