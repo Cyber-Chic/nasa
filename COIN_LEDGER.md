@@ -21,10 +21,10 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 ---
 
 ### 🎨 MISSION LOG // VISUAL SURVEILLANCE
-*An active transmission from the principal investigator's desk.
+*An active transmission from the principal investigator's desk.*
 
-```html
-  ____________________________________________________________________
+<pre style="font-family: monospace; white-space: pre; font-size: 13px; line-height: 1.2; overflow-x: auto; background-color: #0d1117; padding: 16px; border-radius: 6px;">
+ ____________________________________________________________________
 
 |                                                                    |
 | [ PANEL 1: THE LAB ]              | [ PANEL 2: THE LAUNCH ]        |
@@ -34,17 +34,16 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 |    / | \            |             |      /  /\  /    *   🛰️       |
 |      |              v             |     |  |  | |                 |
 |   _______     ___________         |     |  |  | |        *         |
-|  |=======|   | 🪙 COIN  |         |     |  |  | |   (SAT GUS UPLINK|
-|  |_______|   |__QUEUED___|        |    / ==  == \    ESTABLISHED)  |
+|  |=======|   | 🪙 COIN  |         |     |  |  | |   (THE SIGNAL    |
+|  |_______|   |__QUEUED___|        |    / ==  == \    IGNITED)      |
 |     ||            ||              |   /__________\                 |
 | ____||____________||____________  |       ||||        *            |
 | \  "We have a cosmic signal."  /  |       ||||                     |
 |  ------------------------------   |   ____/  \____________________ |
 |___________________________________|________________________________|
+</pre>
 
-```
-
-*“Treasures dwell on Earth, destined for the stars. The journey begins.”*
+*“Treasures dwell on Earth, destined for the stars. The journey begins.”* 🪙 🪐
 
 ---
 
