@@ -55,18 +55,19 @@ Look at the ID number on your coin (Example: **COIN-001**). Scroll down this pag
 
 Each custom coin features a fragmented poetry verse translating celestial citizen science research I have conducted across active astrophysical pipelines. Every verse directly represents data from my real-world astrophysics **[initiatives](https://github.com/Cyber-Chic/cosmos/)**, including analyzing planet transits for **Exoplanet Watch** and classifying deep-space structures on the **Zooniverse** network.
 
-To complete this physical-to-orbital transmission, our artifacts are scheduled for deployment to outer space via two unique celestial pathways:
+To complete this physical-to-orbital transmission, my artifacts are scheduled for deployment to outer space via two unique celestial pathways:
 
 *   **1. Commercial Rocket Flight Manifests:**
-    *   Postcards showcasing the face side of our cosmic coins are signed by hand and are formally queued as cargo for future launch aboard commercial rockets.
+    *   Postcards showcasing the face side of my cosmic coins are signed by hand and are formally queued as cargo for future launch aboard commercial rockets.
     *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
 *   **2. Digital Coin Uplink (Scheduled Satellite Window):**
-    *   A high-resolution rendering of our signature coin back is mapped for transmission to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
+    *   A limited-edition digital rendering capturing the signature back of select artisanal coins—featuring my hand-inked, gel-pen serial numbers and artist initials—is mapped for transmission to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
     *   At random intervals, snapshot captures of our 3D Galaxy Visualizations may also be selected for uplink—beaming our digital poetry maps directly into space alongside our flagship physical treasures.
     *   Upon successful uplink transmission, the digital files populate onto an onboard payload screen and are captured via satellite camera against the actual curvature of the planet.
 
 
-📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
+
+📡 **LOG:** Visual captures of my verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
 </br>
 </details>
 
