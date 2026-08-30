@@ -151,6 +151,25 @@ To complete this physical-to-orbital transmission, my artifacts are scheduled fo
 
 ---
 
+
+### 🌌 [ CAPTURE ID: COIN-005 ]
+> ### **A FROSTED SCAPE LOOMS.**
+> ### **SEARING AN ICE COLD BEAUTY-**
+> ### **ON THE EYES CANVAS...**
+
+<details>
+<summary>✨ View Cosmic Target & Expedition Details</summary>
+<br>
+
+*   **Official Pipeline:** 🚀 View Trajectory // **[Spacecraft & Flight Manifest](https://www.clubforfuture.org/postcards)**
+*   **Log Footage:** `[ Preview TBD | Coin Design ]` 📷 **[ Mockup Pending ]**
+*   **The Inspiration:** My Astrophysics Research **[(View Inspirational Image)](https://www.zooniverse.org/projects/lepnoir/clear-skies-kiruna/talk/subjects/121516995)**
+*   **Explore the Methodology:** 📊 **[View The Official Process (Zooniverse)](https://www.zooniverse.org/about)**
+</br>
+</details>
+
+---
+
 `📡 [ REGULATORY NOTE ]`
 <details>
 <summary>🛠️ Click to View Studio Safety Protocols & Disclaimers</summary>
