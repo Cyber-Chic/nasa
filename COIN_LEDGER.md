@@ -16,7 +16,7 @@ This physical coin is a free gift for you to take home. To pay the good vibes fo
 While you keep the physical token, a custom postcard matching your coin's design will be loaded onto a commercial rocket to cross the line into outer space. A digital twin is also queued for transmission to a satellite orbiting Earth!
 
 ### 🌌 3. Decode Your Cosmic Poem
-Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about a real deep-space planet or star!
+Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about real deep-space phenomena!
 
 ---
 
@@ -62,7 +62,9 @@ To complete this physical-to-orbital transmission, our artifacts are scheduled f
     *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
 *   **2. Digital Coin Uplink (Scheduled Satellite Window):**
     *   A high-resolution rendering of our signature coin back is mapped for transmission to **[SAT GUS](https://spaceselfie.com)**, an active 12U CubeSat satellite operating in low Earth orbit.
-    *   Upon successful uplink transmission, the digital file populates onto an onboard payload screen and is captured via satellite camera against the actual curvature of the planet.
+    *   At random intervals, snapshot captures of our 3D Galaxy Visualizations may also be selected for uplink—beaming our digital poetry maps directly into space alongside our flagship physical treasures.
+    *   Upon successful uplink transmission, the digital files populate onto an onboard payload screen and are captured via satellite camera against the actual curvature of the planet.
+
 
 📡 **LOG:** Visual captures of our verified space-bound artwork populate **[here on Artgram](https://www.artgram.co/themooresignal)** as incoming transmissions clear the queue.
 </br>
@@ -70,7 +72,8 @@ To complete this physical-to-orbital transmission, our artifacts are scheduled f
 
 <br>
 
-🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see the handwritten verses mapped dynamically to real cosmic targets.
+🪐 **EXPLORE THE MAP:** Launch our live **[Interactive 3D Galaxy Map](https://cyber-chic.github.io/cosmos/universe)** to see handwritten verses procedurally mapped within a simulated celestial environment.
+
 
 ---
 
