@@ -42,7 +42,7 @@ To experience these processed research targets as living, generative art, launch
 
 > ### 👉 [ 🪐 LAUNCH THE LIVE INTERACTIVE SPACE APP ](https://cyber-chic.github.io/cosmos/universe)
 > <!-- Add this line directly beneath your main Launch button inside your dark box -->
->🪙 [ **(COSMIC COINS)** ](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T)
+>🌎 [ **(GEOCACHING PROJECTS)** ](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T)
 
 
 </td>
