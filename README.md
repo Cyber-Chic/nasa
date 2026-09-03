@@ -8,18 +8,17 @@
 
 <br>
 
-## 🔭 THE INQUIRY: TRANSITING EXOPLANET REPOSITORIES
-Exoplanet Watch functions as an open public framework enabling independent investigators to analyze deep-space planetary transits and log variables into shared astronomical data nodes.
-
-* **Open-Data Overview:** [Exoplanet Research Archives](https://exoplanets.nasa.gov/exoplanet-watch/about-exoplanet-watch/overview/)
+## 🔭 THE INQUIRY: EXOPLANET WATCH
+Exoplanet Watch is a citizen science project that allows independent participants to gather and analyze exoplanet data, contributing findings to a global database.
+* **Official Overview:** [Exoplanet Watch Project](https://nasa.gov)
 
 ### WHAT ARE EXOPLANETS?
-Exoplanets are planetary bodies existing beyond our solar system, typically orbiting distant host stars within our galaxy.
-* **Public Data Catalog:** [Exoplanet Archive Facts](https://science.nasa.gov/exoplanets/facts/)
+Exoplanets are worlds existing beyond our solar system, typically orbiting distant stars within our galaxy.
+* **Data Catalog:** [Exoplanet Facts Reference](https://science.nasa.gov/exoplanets/facts/)
 
-### RESEARCH METHODOLOGY (EXOTIC ANALYSIS)
-I utilize the open-source **EXOTIC** (Exoplanet Timing Interpretation Code) Python software pipeline to extract raw celestial data streams and generate independent visual light curves. These calculated records are submitted directly to the **AAVSO** (American Association of Variable Star Observers) for universal open-science data integration.
-* **Technical Reference Matrix:** [EXOTIC Structural Guide](https://science.nasa.gov/citizen-science/exoplanet-watch/exotic/)
+### RESEARCH METHODOLOGY (EXOTIC)
+I utilize the **EXOTIC** (Exoplanet Timing Interpretation Code) Python software to analyze raw data and generate visual light curves. These reports are submitted to the **AAVSO** (American Association of Variable Star Observers) for integration into global results.
+* **Technical Guide:** [EXOTIC User Guide](https://science.nasa.gov/citizen-science/exoplanet-watch/exotic/)
 
 <br>
 
@@ -27,12 +26,7 @@ I utilize the open-source **EXOTIC** (Exoplanet Timing Interpretation Code) Pyth
   <img src="https://github.com/user-attachments/assets/3bb90e63-2d81-40cc-ab98-5635f5c2c719" width="100%" style="max-width: 600px;" alt="EXOTIC Data Pipeline">
 </div>
 
-
 ---
-
-<table>
-<tr>
-<td bgcolor="#08090f">
 
 ## 🛰️ [ Citizen Science: The Poetry of Space ]
 *The following orbital targets have been successfully processed via our independent EXOTIC pipeline and archived into custom MANBA data structures.*
@@ -54,7 +48,6 @@ To experience these processed research targets as living, generative art, launch
 </td>
 </tr>
 </table>
-
 
 ---
 
@@ -149,3 +142,7 @@ The architecture of this research terminal was manifest through an iterative exc
 *Imagery and data provided courtesy of public datasets and open-science repository archives. The Moore Signal Archive LLC is an independent creative inquiry firm. Use of this data is for educational and portfolio purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with any federal agency, space administration, or government body.*
 
 **SIGNAL STATUS: 🟢 NOMINAL**
+
+
+
+
