@@ -29,7 +29,7 @@ I utilize the **EXOTIC** (Exoplanet Timing Interpretation Code) Python software 
 ---
 
 ## 🛰️ [ Citizen Science: The Poetry of Space ]
-*The following orbital targets have been successfully processed via EXOTIC software and archived into custom under the user code MANBA.*
+*The following orbital targets have been successfully processed via EXOTIC software and archived under the user ID code MANBA.*
 
 > **TrES-2 b** • **TrES-3 b** • **TrES-5 b** • **Qatar-2 b** • **WASP-10 b** • **WASP-12 b** • **WASP-49 b** • **WASP-52 b** • **WASP-140 b**
 
@@ -42,7 +42,7 @@ To experience these processed research targets as living, generative art, launch
 
 > ### 👉 [ 🪐 LAUNCH THE LIVE INTERACTIVE SPACE APP ](https://cyber-chic.github.io/cosmos/universe)
 > <!-- Add this line directly beneath your main Launch button inside your dark box -->
->🪙 [ **VALIDATE PHYSICAL GEOCACHING COINS (COIN-001 REGISTERED)** ](COIN_LEDGER.md)
+>🪙 [ **(COSMIC COINS)** ](https://www.geocaching.com/track/details.aspx?tracker=TBB8P4T)
 
 
 </td>
