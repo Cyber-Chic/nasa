@@ -29,7 +29,7 @@ I utilize the **EXOTIC** (Exoplanet Timing Interpretation Code) Python software 
 ---
 
 ## 🛰️ [ Citizen Science: The Poetry of Space ]
-*The following orbital targets have been successfully processed via our independent EXOTIC pipeline and archived into custom MANBA data structures.*
+*The following orbital targets have been successfully processed via EXOTIC software and archived into custom under the user code MANBA.*
 
 > **TrES-2 b** • **TrES-3 b** • **TrES-5 b** • **Qatar-2 b** • **WASP-10 b** • **WASP-12 b** • **WASP-49 b** • **WASP-52 b** • **WASP-140 b**
 
@@ -51,14 +51,16 @@ To experience these processed research targets as living, generative art, launch
 
 ---
 
+
 ## 📡 GLOBAL VERIFICATION MATRIX
 **OBSERVER IDENTIFICATION: OBSERVER CODE MANBA**
 
 | RESOURCE | DESCRIPTION | LINK |
 | :--- | :--- | :--- |
-| **JOINT SCOPES** | Universal Open-Science Data Briefing | [VIEW DATA PROFILES](https://www.aavso.org/exoplanet-watch-pr) |
-| **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA PACKETS](https://apps.aavso.org/exosite/?obscode=Manba&in_notes=&star_name=&exoplanet_name=&start_date=&end_date=&results_per_page=&search=true) |
-| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW REPOSITORIES](https://apps.aavso.org/v2/users/angela_moore/) |
+| **JOINT SCOPES** | AAVSO Open-Science Mission| [VIEW](https://www.aavso.org/exoplanet-watch-pr) |
+| **TECHNICAL DATA** | Direct MANBA Light Curve Data | [VIEW](https://apps.aavso.org/exosite/?obscode=Manba&in_notes=&star_name=&exoplanet_name=&start_date=&end_date=&results_per_page=&search=true) |
+| **OBSERVER HUB** | Official AAVSO Research Record | [VIEW](https://apps.aavso.org/v2/users/angela_moore/) |
+
 ---
 
 ## 🛰️ RECONNAISSANCE REVIEW // CT TECH WEEK BRIEFING
@@ -74,7 +76,7 @@ To experience these processed research targets as living, generative art, launch
 > *“Explored the intersection of NASA’s data via the citizen science projects and interdisciplinary arts with The Moore Signal Archive LLC... Looking forward to analyzing Zooniverse data!”*  
 > — **[Prakaithip Romanow](https://www.linkedin.com/posts/promanow_cttechweek-women-innovation-activity-7468021299215310849-EIHr)**, Intelligent Automation & AI Leader // CT Tech Week Feedback
 
-
+---
 
 ## 🛰️ RESEARCH FREQUENCY: TRANSITIONED
 **STATUS: ACTIVE // DEEP-SPACE ARCHIVE PROTOCOL**
@@ -82,11 +84,11 @@ To experience these processed research targets as living, generative art, launch
 <br>
 
 **04 // THE ZOONIVERSE OPEN PROJECT**  
-[Ongoing Research Portfolio](https://www.zooniverse.org/users/Zooniverse-Volunteer/collections) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through public open-science networks.*
+[Ongoing Research Portfolio](https://www.zooniverse.org/groups/2959875?start_date=2026-08-16) — *Expansion of The Moore Signal Archive research scopes into deep space investigations. While the manual EXOTIC pipeline remains a closed archival set, active research persists through public open-science networks.*
+
 <br>
 
 ---
-
 
 ## 🛰️ RESEARCH COLLABORATION PROTOCOL
 **STATUS: INQUIRIES OPEN // 2026-2027 CYCLE**
@@ -114,7 +116,7 @@ TECHNICAL ARCHIVIST NOTES:
     The MANBA Archival Sets represent a closed-loop research pipeline curated by The Moore Signal Archive LLC. Requests for the utilization or publication of these specific transit reports require a formal Portfolio Request. Please include project scope and professional affiliation.
 
 *   **02 // OPEN-SCIENCE CONTRIBUTIONS**  
-    Historical data contributions have been transitioned into The Moore Signal Archive LLC stewardship framework for long-term signal persistence. While raw classifications contribute to the public record, the analytical synthesis and archival documentation remain the proprietary work of the Archive.
+    Historical data contributions have been transitioned into The Moore Signal Archive LLC stewardship framework for long-term signal persistence. While raw classifications contribute to the public record, the analytical synthesis and archival documentation remain the independent work of the Archive.
 
 *   **03 // STRATEGIC HANDSHAKE**  
     Please initiate the submission protocol via the secure email directory below. Inquiries are vetted for alignment with current Archive mission parameters.
@@ -125,7 +127,7 @@ TECHNICAL ARCHIVIST NOTES:
 **The Moore Signal Archive LLC // Independent Inquiry Management**  
 *Bridging the gap between digital code and physical reality.*
 
-*   **CONTACT:** themoorearchive@proton.me
+*   **CONTACT:** `themoorearchive@proton.me`
 *   **OFFICE:** 2389 Main St, Ste 100, Glastonbury, CT 06033
 
 ---
@@ -133,16 +135,10 @@ TECHNICAL ARCHIVIST NOTES:
 ### 🤖 SYNTHETIC CO-PILOT: COLLABORATION
 **SYSTEM ARCHITECTS:** A. N. MOORE + AI NEURAL MODELS
 
-#### PROTOCOL // STRATEGIC SYNTHESIS
+**PROTOCOL // STRATEGIC SYNTHESIS**  
 The architecture of this research terminal was manifest through an iterative exchange between human analytical praxis and AI-driven precision. This "Digital-Physical Handshake" ensures that the complexity of the Archive remains accessible and aesthetically unified—maintaining a persistent signal across the digital void.
 
----
+**📡 ARCHIVAL NOTICE // NON-ENDORSEMENT PROTOCOL**  
+Open-source data and imagery provided courtesy of various public astronomy missions. The Moore Signal Archive LLC is an independent scientific inquiry firm. Use of public domain data assets is for educational and portfolio presentation purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with any government space agency.
 
-### 📡 ARCHIVAL NOTICE // INTEGRITY PROTOCOL
-*Imagery and data provided courtesy of public datasets and open-science repository archives. The Moore Signal Archive LLC is an independent creative inquiry firm. Use of this data is for educational and portfolio purposes; it does not constitute or imply endorsement, sponsorship, or affiliation with any federal agency, space administration, or government body.*
-
-**SIGNAL STATUS: 🟢 NOMINAL**
-
-
-
-
+**SIGNAL STATUS:** 🟢 NOMINAL
