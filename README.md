@@ -65,7 +65,7 @@ To experience these processed research targets as living, generative art, launch
 | :--- | :--- | :--- |
 | **JOINT SCOPES** | Universal Open-Science Data Briefing | [VIEW DATA PROFILES](https://www.aavso.org/exoplanet-watch-pr) |
 | **TECHNICAL DATA** | Direct MANBA Telemetry & Exosite Portal | [ACCESS DATA PACKETS](https://apps.aavso.org/exosite/?obscode=Manba&in_notes=&star_name=&exoplanet_name=&start_date=&end_date=&results_per_page=&search=true) |
-| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW REPOSITORIES](https://www.aavso.org/users/angelamoore) |
+| **OBSERVER HUB** | Official AAVSO Research Record // MANBA | [VIEW REPOSITORIES](https://apps.aavso.org/v2/users/angela_moore/) |
 ---
 
 ## 🛰️ RECONNAISSANCE REVIEW // CT TECH WEEK BRIEFING
