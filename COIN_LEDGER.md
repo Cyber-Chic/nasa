@@ -68,7 +68,7 @@ These artifacts are scheduled for deployment into outer space via two distinct c
 *   **2. The Cosmic Exhibition (Scheduled Space Capture):**
     *   A digital rendering—featuring the hand-inked *verso* side of COIN-001 and COIN-002 interwoven with my additional artwork—has been formally scheduled for a live broadcast. 
     *   As the satellite orbits Planet Earth, it will display my work on its external screen, capturing an authentic photographic record of the piece traversing past the Pyramids of Giza. 
-    *   This cosmic installation is timed to execute precisely as the satellite passes over **Al Haram, Nazlet El-Semman, Giza Governorate, Egypt**. The live orbital trajectory and resulting space-bound artwork transmissions can be monitored directly via **[SAT GUS](https://space.crunchlabs.com/selfie/VnpvzMO)**.
+*   This cosmic installation is timed to execute precisely as the satellite passes over **Al Haram, Nazlet El-Semman, Giza Governorate, Egypt**. The live orbital trajectory can be monitored directly via **[SAT GUS](https://space.crunchlabs.com/selfie/VnpvzMO)**.
 
 
 </details>
