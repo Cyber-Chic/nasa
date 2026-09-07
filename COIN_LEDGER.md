@@ -6,7 +6,7 @@
 
 ---
 
-# 🪙 You Found a Space Coin! 🪐
+# 🪙 The Cosmic Artifact Hunt 🪐
 *Welcome to our art hunt bridging Earth and Outer Space.*
 
 ### 🔍 For Digital Explorers
