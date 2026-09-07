@@ -9,6 +9,19 @@
 # 🪙 The Cosmic Artifact Hunt 🪐
 *Welcome to our art hunt bridging Earth and Outer Space.*
 
+
+<div align="center">
+  <br />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/3dcf819e-38c4-4e3f-a5ca-946ce8efde45" alt="Flagship Mixed-Media Artifact" width="450" />
+      </td>
+    </tr>
+  </table>
+  <br />
+</div>
+
 ### 🔍 For Digital Explorers
 You do not need a physical artifact to experience the cosmos. This archive serves as the permanent digital hub for a global, real-world hidden art installation. Everyone is welcome to explore our interactive maps, read the space poetry, or engage with the archival research below.
 
