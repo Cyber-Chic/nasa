@@ -66,9 +66,10 @@ These artifacts are scheduled for deployment into outer space via two distinct c
     *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
     
 *   **2. The Cosmic Exhibition (Scheduled Space Capture):**
-    *   A singular digital rendering of the project's flagship mixed-media rocket painting—featuring the hand-inked *verso* side of COIN-001 and COIN-002 set into the rocket's windows—has been formally scheduled for an exclusive orbital transmission. 
-    *   As the satellite orbits Planet Earth, it will display the artwork on its external screen, capturing an authentic photographic record of the piece framed against the Pyramids of Giza and the curvature of the globe. 
+    *   A digital rendering—featuring the hand-inked *verso* side of COIN-001 and COIN-002 interwoven with my additional artwork—has been formally scheduled for a live broadcast. 
+    *   As the satellite orbits Planet Earth, it will display my work on its external screen, capturing an authentic photographic record of the piece traversing past the Pyramids of Giza. 
     *   This cosmic installation is timed to execute precisely as the satellite passes over **Al Haram, Nazlet El-Semman, Giza Governorate, Egypt**. The live orbital trajectory and resulting space-bound artwork transmissions can be monitored directly via **[SAT GUS](https://space.crunchlabs.com/selfie/VnpvzMO)**.
+
 
 </details>
 
