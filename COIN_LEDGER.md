@@ -9,13 +9,17 @@
 # 🪙 The Cosmic Artifact Hunt 🪐
 *Welcome to our art hunt bridging Earth and Outer Space.*
 
-
 <div align="center">
   <br />
   <table>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/3dcf819e-38c4-4e3f-a5ca-946ce8efde45" alt="Flagship Mixed-Media Artifact" width="550" />
+        <img src="images.css/IMG_9495.jpeg" alt="Flagship Mixed-Media Artifact" width="480" />
+        <br />
+        <hr />
+        <p align="center" width="450">
+          <sup><i>Archival Artifacts (Full Composition)<br />Scheduled for an orbital display passing over the Pyramids of Giza.</i></sup>
+        </p>
       </td>
     </tr>
   </table>
