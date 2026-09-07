@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://github.com/user-attachments/assets/3dcf819e-38c4-4e3f-a5ca-946ce8efde45" alt="Flagship Mixed-Media Artifact" width="450" />
+        <img src="https://github.com/user-attachments/assets/3dcf819e-38c4-4e3f-a5ca-946ce8efde45" alt="Flagship Mixed-Media Artifact" width="550" />
       </td>
     </tr>
   </table>
