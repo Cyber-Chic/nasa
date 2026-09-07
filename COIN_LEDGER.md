@@ -9,16 +9,20 @@
 # 🪙 You Found a Space Coin! 🪐
 *Welcome to our art hunt bridging Earth and Outer Space.*
 
-### 🎁 1. Keep the Coin!
-This physical coin is a free gift for you to take home. To pay the good vibes forward, please perform one anonymous act of kindness in your neighborhood today!
+### 🔍 For Digital Explorers
+You do not need a physical artifact to experience the cosmos. This archive serves as the permanent digital hub for a global, real-world hidden art installation. Everyone is welcome to explore our interactive maps, read the space poetry, or engage with the archival research below.
 
-### 🚀 2. Your Art is Slated for Space!
-While you keep the physical token, a custom postcard matching your coin's design will be loaded onto a commercial rocket to cross the line into outer space. A digital twin is also queued for transmission to a satellite orbiting Earth!
+### 🎁 1. If You Found a Coin
+This physical token is a complimentary gift for you to take home. To extend this positive momentum, please perform one anonymous act of kindness in your neighborhood today.
+
+### 🚀 2. Your Art is Slated for Space
+While you retain the physical token, a custom postcard matching your coin's design will be loaded onto a designated **[commercial rocket flight](https://www.clubforfuture.org/postcards)** to cross the line into outer space. The project's flagship imagery is also scheduled to **[broadcast](https://space.crunchlabs.com/selfie/VnpvzMO)** from orbit, displaying on a satellite as it traverses directly past the Pyramids of Giza.
 
 ### 🌌 3. Decode Your Cosmic Poem
-Look at the ID number on your coin (Example: **COIN-001**). Scroll down this page to find your number and read a custom poem written specifically about real deep-space phenomena!
+Locate the identifier number on your coin (Example: **COIN-001**). Scroll down this ledger page to find your specific designation and read a custom verse written to translate real-world astrophysical anomalies.
 
 ---
+
 
 ### 🎨 MISSION LOG // VISUAL SURVEILLANCE
 *An active transmission from the principal investigator's desk.*
@@ -59,7 +63,7 @@ These artifacts are scheduled for deployment into outer space via two distinct c
 
 *   **1. Commercial Rocket Flight Manifests:**
     *   Postcards showcasing the face side of the cosmic coins are signed by hand and queued as physical cargo. At selected intervals, snapshot captures of the 3D Galaxy Visualizations will also be printed as physical mementos to accompany these flagship treasures. 
-    *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://clubforfuture.org)** before returning to Earth.
+    *   These physical artifacts are slated to cross the Kármán Line into zero-gravity space on designated **[commercial rocket flights](https://www.clubforfuture.org/postcards)** before returning to Earth.
     
 *   **2. The Cosmic Exhibition (Scheduled Space Capture):**
     *   A singular digital rendering of the project's flagship mixed-media rocket painting—featuring the hand-inked *verso* side of COIN-001 and COIN-002 set into the rocket's windows—has been formally scheduled for an exclusive orbital transmission. 
