@@ -7,8 +7,8 @@
 
 | | |
 | :--- | :--- |
-| **Artifact** | Traveling physical key • Real-world gateway asset. |
-| **Medium** | Mixed-media metalwork. |
+| **Artifact** | HIDDEN KEY • Mixed-media print on a metallic canvas substrate |
+| **Medium** | Ink, watercolor, and colored pencil. |
 | **Provenance** | CT ➔ WA ➔ AR ➔ OK ➔ OH |
 | **Context** | Dispatched 2/27/26 • Anchored at [Geocaching HQ](https://geocaching.com) |
 | **Logistics** | Code en verso unlocks virtual archive entry. |
@@ -55,7 +55,7 @@
 | **Artifact** | Limited-release autographed poetry edition. |
 | **Medium** | Literature featuring original mixed-media illustration. |
 | **Provenance** | Ely Center for Contemporary Art `[ CT ]` |
-| **Context** | Deployed for [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
+| **Context** | Deployed @ [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
 | **Documentation** | Imagery captured by Gallery Director Aimée Burg. |
 
 ![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
