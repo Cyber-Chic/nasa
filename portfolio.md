@@ -7,10 +7,11 @@
 
 | | |
 | :--- | :--- |
-| **Artifact** | Travelling key • Code en verso unlocks gallery entry |
-| **Medium** | Mixed-media print on a metallic canvas substrate. |
+| **Artifact** | Traveling physical key • Real-world gateway asset. |
+| **Medium** | Mixed-media metalwork. |
 | **Provenance** | CT ➔ WA ➔ AR ➔ OK ➔ OH |
-| **Context** | Dispatched 2/27/26 • [Geocaching HQ](https://geocaching.com)  |
+| **Context** | Dispatched 2/27/26 • Anchored at [Geocaching HQ](https://geocaching.com) |
+| **Logistics** | Code en verso unlocks virtual archive entry. |
 
 ![Artifact Visual](./snapshots/tma-001-key.jpg)
 
@@ -25,21 +26,21 @@
 | **Provenance** | HIDDEN ➔ Free Little Art Gallery, CT |
 | **Context** | Dispatched 2/27/26 • [EXPLORE MAP](https://findafreelittleartgallery.com) |
 
-![Artifact Visual](./snapshots/id-972411-print.jpg)
-
 > **Inscription (Verso Engraving):**
 > *This lone tree whispers.*
 > *Contemplating talks of peace.*
 > *Breathing in the wind.*
 
+![Artifact Visual](./snapshots/id-972411-print.jpg)
+
 ---
 
-### 🖼️ REGISTRY ➔ #ID-819420
+### 📚 REGISTRY ➔ #ID-819420
 
 | | |
 | :--- | :--- |
 | **Artifact** | Limited-release autographed poetry edition. |
-| **Medium** | Literature featuring original mixed-media illustration |
+| **Medium** | Literature featuring original mixed-media illustration. |
 | **Provenance** | Buffalo Free Little Art Gallery, NY |
 | **Context** | Featured Release • [EXHIBIT DETAILS](https://instagram.com) |
 
@@ -47,15 +48,15 @@
 
 ---
 
-### 🖼️ REGISTRY ➔ #TMA-FLAG-CT01
+### 🎨 REGISTRY ➔ #TMA-FLAG-CT01
 
 | | |
 | :--- | :--- |
 | **Artifact** | Limited-release autographed poetry edition. |
-| **Medium** | Literature featuring original mixed-media illustration |
+| **Medium** | Literature featuring original mixed-media illustration. |
 | **Provenance** | Ely Center for Contemporary Art `[ CT ]` |
 | **Context** | Deployed for [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
-| **Documentation** | Imagery captured by Gallery Director Aimée Burg |
+| **Documentation** | Imagery captured by Gallery Director Aimée Burg. |
 
 ![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
 
