@@ -55,7 +55,7 @@
 | **Medium** | Literature featuring original mixed-media illustration |
 | **Provenance** | Ely Center for Contemporary Art `[ CT ]` |
 | **Context** | Deployed for [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
-| **Documentation** | Imagery captured by Gallery Director Aimée Burg (`@futuretriangle`) |
+| **Documentation** | Imagery captured by Gallery Director Aimée Burg |
 
 ![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
 
