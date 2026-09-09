@@ -8,6 +8,7 @@
 | | |
 | :--- | :--- |
 | **Artifact** | Unique physical key bridging the tangible world to a virtual vault. |
+| **Medium** | Mixed-media print on a metallic canvas substrate. |
 | **Provenance** | CT ➔ WA ➔ AR ➔ OK ➔ OH |
 | **Context** | Dispatched 2/27/26 • Anchored at Seattle Geocaching HQ `[GCK25B]` |
 | **Logistics** | Code en verso unlocks gallery entry • *Physical encryption asset.* • [EXHIBIT DETAILS](https://geocaching.com) |
@@ -39,6 +40,7 @@
 | | |
 | :--- | :--- |
 | **Artifact** | Limited-release autographed poetry edition. |
+| **Medium** | Literature featuring original mixed-media illustration |
 | **Provenance** | Buffalo Free Little Art Gallery, NY |
 | **Context** | Featured Release • [EXHIBIT DETAILS](https://instagram.com) |
 
@@ -51,6 +53,7 @@
 | | |
 | :--- | :--- |
 | **Artifact** | Limited-release autographed poetry edition. |
+| **Medium** | Literature featuring original mixed-media illustration |
 | **Provenance** | Ely Center for Contemporary Art `[ CT ]` |
 | **Context** | Deployed for [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
 | **Documentation** | Imagery captured by Gallery Director Aimée Burg (`@futuretriangle`) |
@@ -58,3 +61,4 @@
 ![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
 
 ---
+
