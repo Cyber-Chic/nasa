@@ -13,7 +13,8 @@
 | **Context** | Dispatched 2/27/26 • Anchored at [Geocaching HQ](https://geocaching.com) |
 | **Logistics** | Code en verso unlocks virtual archive entry. |
 
-![Artifact Visual](./snapshots/tma-001-key.jpg)
+<img width="500" height="500" alt="artgram" src="https://github.com/user-attachments/assets/82d91a6a-3fe5-413b-bc8f-96dc9a5ac1a5" />
+
 
 ---
 
@@ -31,7 +32,7 @@
 > *Contemplating talks of peace.*
 > *Breathing in the wind.*
 
-![Artifact Visual](./snapshots/id-972411-print.jpg)
+<img width="500" height="500" alt="artgram whisper tree" src="https://github.com/user-attachments/assets/ae9981b5-9667-4e03-b83c-ee3d068312bb" />
 
 ---
 
@@ -44,7 +45,11 @@
 | **Provenance** | Buffalo Free Little Art Gallery, NY |
 | **Context** | Featured Release • [EXHIBIT DETAILS](https://instagram.com) |
 
-![Artifact Visual](./snapshots/id-819420-book.jpg)
+<img width="500" height="500" alt="buffalo flag artgram" src="https://github.com/user-attachments/assets/bcbb2821-a7a4-4f32-baee-3ed2717aea84" /><br>
+
+<img width="500" height="500" alt="buffalo flag artgram part 2" src="https://github.com/user-attachments/assets/f028a613-ced2-4346-8d35-1ed883074af6" />
+
+
 
 ---
 
@@ -58,6 +63,7 @@
 | **Context** | Deployed @ [#CTTechWeek](https://luma.com) • [EXHIBIT DETAILS](https://linkedin.com) |
 | **Documentation** | Imagery captured by Gallery Director Aimée Burg. |
 
-![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
+<img width="400" height="500" alt="artgram-gallery-popup" src="https://github.com/user-attachments/assets/ac8a9146-e4d4-4525-8791-10c5945e18eb" />
+
 
 ---
