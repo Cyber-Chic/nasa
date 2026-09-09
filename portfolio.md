@@ -25,12 +25,12 @@
 | **Provenance** | HIDDEN ➔ Free Little Art Gallery, CT |
 | **Context** | Dispatched 2/27/26 • [EXPLORE MAP](https://findafreelittleartgallery.com) |
 
+![Artifact Visual](./snapshots/id-972411-print.jpg)
+
 > **Inscription (Verso Engraving):**
 > *This lone tree whispers.*
 > *Contemplating talks of peace.*
 > *Breathing in the wind.*
-
-![Artifact Visual](./snapshots/id-972411-print.jpg)
 
 ---
 
