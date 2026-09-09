@@ -3,11 +3,11 @@
 
 ---
 
-### 🔑 REGISTRY ➔ #TMA-001
+### 📦 REGISTRY ➔ #TMA-001
 
 | | |
 | :--- | :--- |
-| **Artifact** | HIDDEN KEY • Mixed-media print on a metallic canvas substrate |
+| **Artifact** | HIDDEN KEY • Mixed-media print on a metallic canvas substrate. |
 | **Medium** | Ink, watercolor, and colored pencil. |
 | **Provenance** | CT ➔ WA ➔ AR ➔ OK ➔ OH |
 | **Context** | Dispatched 2/27/26 • Anchored at [Geocaching HQ](https://geocaching.com) |
@@ -17,7 +17,7 @@
 
 ---
 
-### 🖼️ REGISTRY ➔ #ID-972411
+### 📦 REGISTRY ➔ #ID-972411
 
 | | |
 | :--- | :--- |
@@ -35,7 +35,7 @@
 
 ---
 
-### 📚 REGISTRY ➔ #ID-819420
+### 📦 REGISTRY ➔ #ID-819420
 
 | | |
 | :--- | :--- |
@@ -48,7 +48,7 @@
 
 ---
 
-### 🎨 REGISTRY ➔ #TMA-FLAG-CT01
+### 📦 REGISTRY ➔ #TMA-FLAG-CT01
 
 | | |
 | :--- | :--- |
@@ -61,4 +61,3 @@
 ![Artifact Visual](./snapshots/tma-flag-ct01-leak.jpg)
 
 ---
-
