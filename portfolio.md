@@ -52,3 +52,21 @@
 </div>
 
 ---
+
+
+### 🔑 [ REGISTRY ENTRY: KEY-TMA-001 ]
+*   **Artifact:** Unique physical key bridging the real world to a hidden virtual vault.
+*   **Status/Location:** Anchored at Seattle Geocaching HQ (GCK25B).
+*   **Timeline:** Mailed 2/27/26.
+*   **History:** History: CT ➔ WA ➔ AR ➔ OK ➔ OH ETC,. Share kindness.
+
+### 🖼️ [ REGISTRY ENTRY: ID_972411 ]
+*   **Artifact:** Mixed-media ink landscape on metallic canvas.
+*   **Status/Location:** Dispatched to a Connecticut (CT) Free Little Art Gallery to begin its path.
+*   **Engraving:** "This lone tree whispers..."
+*   **Mission:** Pass the joy forward with kindness.
+
+### 📚 [ REGISTRY ENTRY: ID 819420]
+*   **Artifact:** Signed poetry book gift from @angiealamoore.
+*   **Status/Location:** Registered in The Moore Signal Archive LLC. Featured @ Buffalo Free Little Art Gallery, NY.
+*   **Mission:** Pay it forward—Share one quiet act of kindness!
