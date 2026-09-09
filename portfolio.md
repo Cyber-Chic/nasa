@@ -34,7 +34,7 @@
 
 ---
 
-### 📚 REGISTRY ➔ #ID-819420
+### 🖼️ REGISTRY ➔ #ID-819420
 
 | | |
 | :--- | :--- |
@@ -47,7 +47,7 @@
 
 ---
 
-### 🎨 REGISTRY ➔ #TMA-FLAG-CT01
+### 🖼️ REGISTRY ➔ #TMA-FLAG-CT01
 
 | | |
 | :--- | :--- |
