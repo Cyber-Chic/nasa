@@ -54,11 +54,18 @@
 ---
 
 
-### 🔑 [ REGISTRY ENTRY: KEY-TMA-001 ]
-*   **Artifact:** Unique physical key bridging the real world to a hidden virtual vault.
-*   **Status/Location:** Anchored at Seattle Geocaching HQ (GCK25B).
-*   **Timeline:** Mailed 2/27/26.
-*   **History:** History: CT ➔ WA ➔ AR ➔ OK ➔ OH ETC,. Share kindness.
+### 🔑 [ REGISTRY ENTRY: #TMA-001 ]
+> **Artifact:** Unique physical key bridging the real world to a virtual vault.<br>
+> **Location:** Anchored at Seattle Geocaching HQ (GCK25B).<br>
+> **Timeline:** Mailed 2/27/26 // CT ➔ WA ➔ AR ➔ OK ➔ OH<br>
+> **Mission:** Enter code on back at web hub. Pass the joy forward!<br>
+
+![Artifact Visual](PASTE_IMAGE_URL_HERE)
+
+*Physical encryption asset providing entry to hidden vault archives.*
+
+---
+
 
 ### 🖼️ [ REGISTRY ENTRY: ID_972411 ]
 *   **Artifact:** Mixed-media ink landscape on metallic canvas.
