@@ -7,11 +7,10 @@
 
 | | |
 | :--- | :--- |
-| **Artifact** | Unique physical key bridging the tangible world to a virtual vault. |
+| **Artifact** | Travelling key • Code en verso unlocks gallery entry |
 | **Medium** | Mixed-media print on a metallic canvas substrate. |
 | **Provenance** | CT ➔ WA ➔ AR ➔ OK ➔ OH |
-| **Context** | Dispatched 2/27/26 • Anchored at Seattle Geocaching HQ `[GCK25B]` |
-| **Logistics** | Code en verso unlocks gallery entry • *Physical encryption asset.* • [EXHIBIT DETAILS](https://geocaching.com) |
+| **Context** | Dispatched 2/27/26 • [Geocaching HQ](https://geocaching.com)  |
 
 ![Artifact Visual](./snapshots/tma-001-key.jpg)
 
